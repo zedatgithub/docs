@@ -12,9 +12,6 @@ Summarizing, vaults can:
 * Use any asset as liquidity.
 * Put any asset to work to generate a yield.
 * Reinvest earned profits.
-
-
-
 * Stake your DEFI or LP Tokens and forget about it! The DEFI or LP Tokens you stake in this Vaults will be automatically compounded \(reinvested\) for you, minus a small fee.
 * The “automatic” compounding function is triggered by other users who get a small bounty for triggering it.
 * Interest is displayed as APY, which includes compounding.
@@ -27,7 +24,7 @@ Summarizing, vaults can:
 
 **Unstaking fee**
 
-* **4%    if you unstake \(withdraw\) within 48 hours.**
+* **4%      if you unstake \(withdraw\) within 48 hours.**
 * Only applies within 2 days of manually staking.
 * After 2 days, you can unstake with **no fee**.
 * The 2-day timer resets every time you manually stake more in the vault.
@@ -38,7 +35,7 @@ Summarizing, vaults can:
 * **2%, subtracted automatically from each yield harvest**.
 * For example, if the harvest was 1 DeFi, then 0.02 DeFI would be subtracted as the performance fee.
 
-The collected via the unstaking fee and performance fee are sent to [Fee/Tax Distribution](deposit-fee-redistribution.md) 
+The collected via the unstaking fee and performance fee are sent to [Fee/Tax Distribution](deposit-fee-redistribution.md)
 
 ## What’s the Bounty? <a id="whats-the-auto-cake-bounty"></a>
 

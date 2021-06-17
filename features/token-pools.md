@@ -1,7 +1,7 @@
 # 🌾 Farming Pools
 
-Farming pools allow DEFI holders to stake their DEFI and earn other tokens.   
-  
+Farming pools allow DEFI holders to stake their DEFI and earn other tokens.
+
 Most projects claim to implement this feature 14-21 days after launch but we decided to have it from the very beginning.
 
 There will be a **harvest lockup**, specific for each pool, meaning that the pending earnings **can not be withdrawn** as long as the lockup is in effect.

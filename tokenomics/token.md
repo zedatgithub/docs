@@ -25,6 +25,6 @@ Currently there is no hard cap on the supply of DEFI, making it an inflationary 
 
 Community members often point to this as a cause for concern, and while the DEV team certainly understands the wish for a hard cap, we don't expect to set one in the near future.
 
-DEFI's primary function is to incentivize providing liquidity for the exchange.   
+DEFI's primary function is to incentivize providing liquidity for the exchange.  
 Without block rewards, there would be much less incentive to provide liquidity.
 

@@ -9,10 +9,10 @@ description: >-
 
 Our AMM exchange is a complete fork of PancakeSwap v1.
 
-We consider that **0.2% trading fee** is high enough and so we will not use DEFI v2 **0.25% trading fee.**  
-  
-On PancakeSwap v1 the **0.2% trading fee** was split between **0.17%** going to liquidity providers while **0.03%** going into the treasury. The **0.17%** going to liquidity providers was not really an earning until the liquidity providers did not unstake and remove the liquidity so, overall, it was not a predictable source of income nor could this be reinvested \(compounded\).  
-  
+We consider that **0.2% trading fee** is high enough and so we will not use DEFI v2 **0.25% trading fee.**
+
+On PancakeSwap v1 the **0.2% trading fee** was split between **0.17%** going to liquidity providers while **0.03%** going into the treasury. The **0.17%** going to liquidity providers was not really an earning until the liquidity providers did not unstake and remove the liquidity so, overall, it was not a predictable source of income nor could this be reinvested \(compounded\).
+
 Instead we decided to use all of the **0.2% trading fee** which is sent to [Fee/Tax Distribution](deposit-fee-redistribution.md) and use it to give more value to the DEFI token so that the liquidity providers can earn more a valuable token which they can reinvest \([compound](compound-farms-pools.md)\).
 
 ## Contracts <a id="contracts"></a>
@@ -21,7 +21,7 @@ Instead we decided to use all of the **0.2% trading fee** which is sent to [Fee/
 * Router: [0x5B5191851630C7eBa105Cd9Cec1E535dD48fF369](https://testnet.bscscan.com/address/0x5B5191851630C7eBa105Cd9Cec1E535dD48fF369#code)
 
 The Factory & Router smart contracts are the same as PancakeSwap's.  
-The only things we changed in these two contracts are: 
+The only things we changed in these two contracts are:
 
 * "pancake" to "DEFI"
 * treasury fee from **0.03%** to **0.20%**, sent to [Fee/Tax Distribution](deposit-fee-redistribution.md) in Factory \(the **0.17%** fee sent to liquidity providers will automatically become **0** because of the way the contract is coded\)

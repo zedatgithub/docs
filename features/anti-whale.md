@@ -4,7 +4,7 @@ description: preventing Whales from quickly buying/selling large amounts (pump &
 
 # 🐋 Anti Whale
 
-Transfers that exceed **0.5%** of the circulating supply will be rejected. 
+Transfers that exceed **0.5%** of the circulating supply will be rejected.
 
 {% hint style="info" %}
 The value of **0.5%** is set in the beginning and as the circulating supply grows this value will be increased.

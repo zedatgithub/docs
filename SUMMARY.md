@@ -9,6 +9,7 @@
 * [🤖 Anti Bot](features/anti-bot.md)
 * [🐋 Anti Whale](features/anti-whale.md)
 * [⏰ Boosted Farms](features/harvest-lockup.md)
+* [🔒 Harvest Lockup](features/harvest-lockup-1.md)
 * [🌾 Farming Pools](features/token-pools.md)
 * [🚜 Compound Farms & Pools](features/compound-farms-pools.md)
 * [💵 Vaults](features/vaults.md)
@@ -22,13 +23,13 @@
 ## TOKENOMICS
 
 * [🌕 Token](tokenomics/token.md)
-* [💎 Contracts](tokenomics/contracts.md)
+* [📑 Contracts](tokenomics/contracts.md)
 
 ## SECURITY
 
-* [🔥 No Migrator Code](security/no-migrator-code.md)
-* [🔥 Timelock](security/timelock.md)
-* [🔥 Emergency Withdraw](security/emergency-withdraw.md)
+* [🛡️ No Migrator Code](security/no-migrator-code.md)
+* [🛡️ Timelock](security/timelock.md)
+* [🛡️ Emergency Withdraw](security/emergency-withdraw.md)
 * [📕 Audits](security/audits.md)
 * [🐛 Bug Bounty](security/bug-bounty.md)
 

@@ -1,4 +1,4 @@
-# 🔥 Timelock
+# 🛡️ Timelock
 
 Timelock will been added to the MasterChef contract before launch.
 
@@ -10,8 +10,7 @@ Ownership transfer transaction: [0x9691ea4a9455ebfbb47b890d296acd4a00e626475d83d
 Delay: **24 hours** from the start
 {% endhint %}
 
-> Note that in the [Timelock](https://testnet.bscscan.com/address/0x4d751991267545db23f5b8f7bad4cc975b1f5351) contract we have **4 functions** which we can call outside the timelock.
-> We use these for adding more pools, updating existing pools and updating the emission rates without having to wait for 24 hours for the changes to propagate.
+> Note that in the [Timelock](https://testnet.bscscan.com/address/0x4d751991267545db23f5b8f7bad4cc975b1f5351) contract we have **4 functions** which we can call outside the timelock. We use these for adding more pools, updating existing pools and updating the emission rates without having to wait for 24 hours for the changes to propagate.
 
 {% code title="MasterChef.sol" %}
 ```javascript
@@ -40,3 +39,4 @@ function updateEmissionRate(uint256 _DEFIPerBlock) public {
 }
 ```
 {% endcode %}
+

@@ -1,10 +1,10 @@
 # 💸 Referral Program
 
-An on-chain referral program has been implemented to incentivize users to invite their friends to join the farming. 
+An on-chain referral program has been implemented to incentivize users to invite their friends to join the farming.
 
 Referrers will earn **3%** of their referrals' earnings, forever.
 
-### How to enroll
+## How to enroll
 
 1. Visit DEFI referral program page
 2. Unlock your wallet to get your referral link
@@ -15,10 +15,10 @@ Referrers will earn **3%** of their referrals' earnings, forever.
 The amount will **not** be deducted from your friends' earnings but will instead be minted every time they harvest
 {% endhint %}
 
-### Yes, we've also improved the referral program
+## Yes, we've also improved the referral program
 
 {% hint style="success" %}
-Remember how on all other farms you don't know who your referrer is, or that you were never sure \*when\* that information gets saved? 
+Remember how on all other farms you don't know who your referrer is, or that you were never sure \*when\* that information gets saved?
 
 We implemented this feature so that on the Referrals page you now know who your referrer is and **you** are the one deciding:
 
@@ -27,6 +27,4 @@ We implemented this feature so that on the Referrals page you now know who your 
 * when to confirm your referrer
 * in case you already deposited but forgot to add a referrer
 {% endhint %}
-
-
 

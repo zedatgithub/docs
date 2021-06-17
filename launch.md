@@ -24,8 +24,8 @@ New kind of Fair Launch
 {% endhint %}
 
 {% hint style="warning" %}
-LP tokens can be deposited into the farms before farming starts but there will be **no farming rewards** until farming has started. Harvest lookup time countdown will also start when the farming start.   
-  
+LP tokens can be deposited into the farms before farming starts but there will be **no farming rewards** until farming has started. Harvest lookup time countdown will also start when the farming start.
+
 Many projects give superior advantage to early depositors because they will be able to harvest earlier than those how deposited when the farming started. We want to give equal chance to everyone.
 {% endhint %}
 

@@ -8,5 +8,3 @@ We use the Automatic Burning feature differently:
 
 Read more at [Fee/Tax Distribution](deposit-fee-redistribution.md) for more on how the fees are used and how much is burned.
 
-
-
