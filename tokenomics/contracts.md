@@ -8,6 +8,7 @@
 | MasterChef | [0x4d751991267545db23f5b8f7bad4cc975b1f5351](https://testnet.bscscan.com/address/0x4d751991267545db23f5b8f7bad4cc975b1f5351#code) |
 | Referral | [0x0265f418b93336b1c8a788c1342cf7b0cdadf27b](https://testnet.bscscan.com/address/0x0265f418b93336b1c8a788c1342cf7b0cdadf27b#code) |
 | Timelock | [0x26bf53badc7cf49f65d6e47686cd80372c7dcc13](https://testnet.bscscan.com/address/0x26bf53badc7cf49f65d6e47686cd80372c7dcc13#code) |
+| Locker | [0x26bf53badc7cf49f65d6e47686cd80372c7locker](https://testnet.bscscan.com/address/0x26bf53badc7cf49f65d6e47686cd80372c7dcc13#code) |
 
 ## AMM
 
