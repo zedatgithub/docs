@@ -28,7 +28,7 @@ function add(uint256 _allocPoint, IBEP20 _lpToken, uint16 _depositFeeBP, uint256
     MasterChef.add(_allocPoint, _lpToken, _depositFeeBP, _harvestInterval, _withUpdate, _allocPointSecondary);
 }
 
-// Update the given pool's DEFI allocation point and deposit fee. Can only be called by the admin.
+// Update the given pool's Pancake allocation point and deposit fee. Can only be called by the admin.
 function set(uint256 _pid, uint256 _allocPoint, uint16 _depositFeeBP, uint256 _harvestInterval, bool _withUpdate, uint256 _allocPointSecondary) public {
     require(msg.sender == admin, "Timelock::set: Call must come from admin.");
     MasterChef.set(_pid, _allocPoint, _depositFeeBP, _harvestInterval, _withUpdate, _allocPointSecondary);

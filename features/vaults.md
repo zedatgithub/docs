@@ -15,7 +15,7 @@ Summarizing, vaults can:
 
 
 
-* Stake your DEFI or LP Tokens and forget about it! The DEFI or LP Tokens you stake in this Vaults will be automatically compounded \(reinvested\) for you, minus a small fee.
+* Stake your PANCAKE or LP Tokens and forget about it! The PANCAKE or LP Tokens you stake in this Vaults will be automatically compounded \(reinvested\) for you, minus a small fee.
 * The “automatic” compounding function is triggered by other users who get a small bounty for triggering it.
 * Interest is displayed as APY, which includes compounding.
 * A small performance fee is subtracted from your earnings each time the pool is automatically compounded. See below.
