@@ -8,7 +8,7 @@ description: DEFI - Stable Yield Farming with Boosted Farms On Binance Smart Cha
 
 ### About DEFI <a id="about-pantherswap"></a>
 
-DEFI is the one **stable-pairs-only** yield farm and AMM decentralized exchange running on Binance Smart Chain, featuring the first ever **Boosted Farms** \_\_innovation, together with lots of other unique and creative features.
+DEFI is the one **stable-pairs-only** yield farm and AMM decentralized exchange running on Binance Smart Chain, featuring the first ever **Boosted Farms** innovation, together with lots of other unique and creative features.
 
 ## **Main Features** <a id="main-features"></a>
 
