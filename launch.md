@@ -15,8 +15,8 @@ New kind of Fair Launch
 * Pools will start at block [\#6928000](https://testnet.bscscan.com/block/countdown/6922000) - 2 days later so that we can fill the BUSD pool
 * Emission Rate: 1 DEFI/block but will be increased as the TVL grows to keep APR high
 
-{% hint style="warning" %}
-\*The developer will mine 20,000 DEFI for liquidity pools which will be distributed as follows:
+{% hint style="success" %}
+\*The developer will mine 20,000 DEFI for [liquidity pools](features/locked-liquidity.md) which will be distributed as follows:
 
 * **DEFI-BUSD**: 5,000 DEFI - 1,000 BUSD
 * **DEFI-USDT**: 5,000 DEFI - 1,000 BUSD

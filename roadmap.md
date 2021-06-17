@@ -7,8 +7,9 @@ As you can see, we're trying to provide ETA for each task. But development or co
 ## Launch <a id="launch"></a>
 
 * Token Launch
-* Farm
-* Pool
+* Farms
+* Pools
+* Valuts
 * Lottery
 * Referrals
 * AMM
