@@ -1,5 +1,5 @@
 ---
-description: 'PANCAKE - Fair Launch, No Pre-sale, No Pre-mine, Anti-Bot, Anti Whale'
+description: 'DEFI - Fair Launch, No Pre-sale, No Pre-mine, Anti-Bot, Anti Whale'
 ---
 
 # ⚡ Launch
@@ -12,10 +12,10 @@ New kind of Fair Launch
 * Token trading will start at block [\#6922000](https://bscscan.com/block/countdown/6922000) - 1 week after contracts deployed and review/audit
 * Farming will start at block [\#6924000](https://bscscan.com/block/countdown/6922000) - 2 week later so that every one had fair chance to get tokens
 * Pools will start at block [\#6928000](https://bscscan.com/block/countdown/6922000) - 2 days later so that we can fill the BUSD pool
-* Emission Rate: 1 PANCAKE/block but will be increased as the TVL grows to keep APR high
+* Emission Rate: 1 DEFI/block but will be increased as the TVL grows to keep APR high
 
 {% hint style="info" %}
-\*The developer will mine 20,000 PANCAKE for liquidity pools which will be distributed as follows:
+\*The developer will mine 20,000 DEFI for liquidity pools which will be distributed as follows:
 
 * **DEFI-BUSD**: 5,000 DEFI - 1,000 BUSD
 * **DEFI-USDT**: 5,000 DEFI - 1,000 BUSD

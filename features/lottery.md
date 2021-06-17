@@ -2,7 +2,7 @@
 
 ## **Specifics** <a id="specifics"></a>
 
-* Lottery Ticket price will always be **2 USD** worth of PANCAKE \(the necessary PANCAKE amount will be adjusted after every draw in concordance with PANCAKE's price\)
+* Lottery Ticket price will always be **2 USD** worth of DEFI \(the necessary DEFI amount will be adjusted after every draw in concordance with DEFI's price\)
 * Single User Lottery Entry Limit: No overall limit, but only 50 tickets can be bought at once through the UI
 * Paying for one ticket will give users a random **4 digit combination** with each digit being between 1-9, e.g. **"**1-9-3-2" \(a digit can appear multiple times, so 1-1-1-1 is a valid ticket\)
 
@@ -65,7 +65,7 @@ An example of a lottery session starting at 8 AM \(UTC\) is as below:
 The lottery aims to be completely random. Even though the ticket numbers given out are determined by a front-end logic, there is an extremely low chance that anyone is able to determine the 4 winning numbers ahead of time.
 
 * The 1st lottery number will be determined based on the %10 remainders of a hash encoded by the blockhash and the number of participating users at the entry deadline.
-* The 2nd lottery number will be determined based on the %10 remainders of a hash encoded by the blockhash and the total pooled PANCAKE balance at the entry deadline.
+* The 2nd lottery number will be determined based on the %10 remainders of a hash encoded by the blockhash and the total pooled DEFI balance at the entry deadline.
 * The 3rd lottery number will be determined based on the %10 remainders of a hash encoded by the blockhash and the timestamp of the last lottery participant at the entry deadline.
 * The 4th lottery number will be determined based on the %10 remainders of a hash encoded by the blockhash and the block difficulty at the entry deadline.
 

@@ -20,7 +20,7 @@ Following case are not subjected to this restriction:
 * Lottery: Collecting Prize
 {% endhint %}
 
-> The current value can be viewed in the [PANCAKE](https://testnet.bscscan.com/address/0x291999fd2120e4bddb3cf834180a15552677d6fd#readContract) token contract.  
+> The current value can be viewed in the [DEFI](https://testnet.bscscan.com/address/0x291999fd2120e4bddb3cf834180a15552677d6fd#readContract) token contract.  
 > \( scroll down and search for the `maxTransferAmount` function \)
 
 ## More Anti Whale Measures
