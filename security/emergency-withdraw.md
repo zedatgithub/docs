@@ -11,10 +11,10 @@ Withdraw without caring about pending rewards and last Harvest Lockup compounds.
 | Farm/Pool  ID | Pairs | Boosted/Cooldown Rates |
 | :---: | :--- | :---: |
 | 0 | DEFI | 10x |
-| 1 | DEFI-BUSD LP                                                                                      | 50x / 5x |
-| 2 | DEFI-USDC LP | 5x / 50x |
-| 3 | DEFI-USDT LP | 50x / 5x |
-| 4 | DEFI-DAI LP | 5x / 50x |
+| 1 | DEFI-BUSD LP                                                                                      | 40x / 4x |
+| 2 | DEFI-USDC LP | 4x / 40x |
+| 3 | DEFI-USDT LP | 40x / 4x |
+| 4 | DEFI-DAI LP | 4x / 40x |
 | 5 | BUSD-USDT LP | 10x / 1x |
 | 6 | BUSD-DAI LP | 1x / 10x |
 | 7 | USDC-BUSD LP | 10x / 1x |

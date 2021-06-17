@@ -18,7 +18,7 @@ Unstaking before **harvest lockup** expiration time ****will result in the loss 
 
 ## Example
 
-For example, the PANACKE-BUSD farm has a multiplier changing cycle of **2 hours** and its multiplier cycles between **50x** and **5x** \(just these 2 values\). This means that, at the start, the farm will run with a multiplier of **50x** for **2 hours**. After the 2 hours have passed, harvesting becomes possible and the farm's multiplier changes from **50x** to **5x**, and the cycle will repeat.
+For example, the DEFI-BUSD farm has a multiplier changing cycle of **2 hours** and its multiplier cycles between **40x** and **4x** \(just these 2 values\). This means that, at the start, the farm will run with a multiplier of **40x** for **2 hours**. After the 2 hours have passed, harvesting becomes possible and the farm's multiplier changes from **40x** to **4x**, and the cycle will repeat.
 
 ## Farms 
 
@@ -26,10 +26,10 @@ Below is the list of farms available at launch and their boosted/cooldown rates:
 
 | Farm  ID | Pairs | Boosted/Cooldown Rates |
 | :---: | :--- | :---: |
-| 1 | DEFI-BUSD LP                                                                                      | 50x / 5x |
-| 2 | DEFI-USDC LP | 5x / 50x |
-| 3 | DEFI-USDT LP | 50x / 5x |
-| 4 | DEFI-DAI LP | 5x / 50x |
+| 1 | DEFI-BUSD LP                                                                                      | 40x / 4x |
+| 2 | DEFI-USDC LP | 4x / 40x |
+| 3 | DEFI-USDT LP | 40x / 4x |
+| 4 | DEFI-DAI LP | 4x / 40x |
 | 5 | BUSD-USDT LP | 10x / 1x |
 | 6 | BUSD-DAI LP | 1x / 10x |
 | 7 | USDC-BUSD LP | 10x / 1x |
