@@ -14,6 +14,7 @@ DEFI is the one **stable-pairs-only** yield farm and AMM decentralized exchange 
 
 * [Boosted Farms](features/harvest-lockup.md) where all the farms' multipliers are cycled through a boosted/normal state at exact hours of a day \(so, at the same time for every one\), multiple times a day; harvest lockup time is tied to these cycles and harvesting becomes possible at multiplier state change
 * [Farming Pools](features/token-pools.md) where you deposit DEFI and earn **other tokens**
+* [Locked Liquidity](features/locked-liquidity.md) 
 * Farms allows you to [compound](features/farms-pools-compound.md) your LP tokens and, whenever you use this feature on a farm _\*\*_
   * **without a deposit** **fee**, the **token tax** will be 50% of the regular token tax
   * **with a deposit** **fee**, the fee for re-staking you LP tokens will be **50%** of the regular fee you'd have to pay if you were to deposit the LPs yourself

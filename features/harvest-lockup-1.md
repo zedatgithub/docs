@@ -1,4 +1,4 @@
-# 🔒 Harvest Lockup
+# ⏳ Harvest Lockup
 
 **Harvest lockup** mechanism is also implemented where harvesting is possible only once the **lockup time** expires. The remaining time until harvesting becomes possible is shown on each farm's card.
 
