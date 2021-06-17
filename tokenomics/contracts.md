@@ -16,7 +16,7 @@
 | Factory | [0xDf7909D3584a91504a821d80ED20a31584858E3a](https://testnet.bscscan.com/address/0xDf7909D3584a91504a821d80ED20a31584858E3a#code) |
 | Router | [0x5B5191851630C7eBa105Cd9Cec1E535dD48fF369](https://testnet.bscscan.com/address/0x5B5191851630C7eBa105Cd9Cec1E535dD48fF369#code) |
 
-## Lottery
+## LOTTERY
 
 | Contract | Address |
 | :--- | :--- |
