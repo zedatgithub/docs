@@ -1,12 +1,12 @@
 # 🛡️ Timelock
 
-Timelock will been added to the MasterChef contract before launch.
+Timelock will been added to the MasterChef and [Locker](../features/locked-liquidity.md) contracts before launch.
 
 Timelock address: [0x26bf53badc7cf49f65d6e47686cd80372c7dcc13](https://testnet.bscscan.com/address/0x26bf53badc7cf49f65d6e47686cd80372c7dcc13)
 
-Ownership transfer transaction: [0x9691ea4a9455ebfbb47b890d296acd4a00e626475d83db65ee41e36d00f90d0f](https://testnet.bscscan.com/tx/0x9691ea4a9455ebfbb47b890d296acd4a00e626475d83db65ee41e36d00f90d0f)​​
+Ownership transfer: [0x9691ea4a9455ebfbb47b890d296acd4a00e626475d83db65ee41e36d00f90d0f](https://testnet.bscscan.com/tx/0x9691ea4a9455ebfbb47b890d296acd4a00e626475d83db65ee41e36d00f90d0f)​​
 
-{% hint style="info" %}
+{% hint style="success" %}
 Delay: **24 hours** from the start
 {% endhint %}
 
