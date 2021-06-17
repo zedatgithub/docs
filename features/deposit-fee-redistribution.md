@@ -10,7 +10,7 @@ Every 8 hours \(3 times per day\), at exact UTC hours: 0 AM, 8 AM, 4 PM
 * 20% of BUSD will be injected into the [BUSD pool](token-pools.md)
 * 40% of the BUSD will be deposited on [Belt.fi](https://belt.fi/bsc) to earn BELT which will be used for buybacks
 * 20% of the BUSD will be sent to developer address for future development
-* 40% of the DEFI will be [🔥BURNED🔥](https://testnet.bscscan.com/token/0xfcf5c003e9c4ab9231b333133611f1b3055c7973?a=0x000000000000000000000000000000000000dEaD) 
+* 40% of the DEFI will be [🔥BURNED🔥](https://testnet.bscscan.com/token/0x8a5a76401ada8998603d982d8343752fec75972b?a=0x000000000000000000000000000000000000dEaD) 
 * all received BELT tokens will be swapped to BUSD and DEFI will be bought with it
 
 ## Deposit Fee <a id="deposit-fee"></a>

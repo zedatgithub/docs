@@ -17,13 +17,13 @@ Additionally to the jackpot, users that match 2 or 3 numbers in the correct orde
 * Match 4 numbers in the exact order = win or split\* **40%** of the pot
 * Match 3 numbers in the exact order = win or split\* **25%** of the pot
 * Match 2 numbers in the exact order = win or split\* **15%** of the pot
-* [🔥BURN🔥](https://testnet.bscscan.com/token/0xfcf5c003e9c4ab9231b333133611f1b3055c7973?a=0x000000000000000000000000000000000000dEaD) the remaining **20%** of the pot
+* [🔥BURN🔥](https://testnet.bscscan.com/token/0x8a5a76401ada8998603d982d8343752fec75972b?a=0x000000000000000000000000000000000000dEaD) the remaining **20%** of the pot
 
 \( \* the pot is split when there are more winners \)
 
 {% hint style="warning" %}
 If there are no winners in a category, the pot allocated to the respective category will also be  
-[🔥BURNED🔥](https://testnet.bscscan.com/token/0xfcf5c003e9c4ab9231b333133611f1b3055c7973?a=0x000000000000000000000000000000000000dEaD)
+[🔥BURNED🔥](https://testnet.bscscan.com/token/0x8a5a76401ada8998603d982d8343752fec75972b?a=0x000000000000000000000000000000000000dEaD)
 {% endhint %}
 
 ## Examples of tickets

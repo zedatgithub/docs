@@ -1,6 +1,6 @@
 # 🔥 Emergency Withdraw
 
-If something is to happen to our front-end such as a DDOS attack or a temporary outage, farmers can still withdraw their tokens by directly interacting with the [MasterChef](https://testnet.bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#writeContract) contract.
+If something is to happen to our front-end such as a DDOS attack or a temporary outage, farmers can still withdraw their tokens by directly interacting with the [MasterChef](https://testnet.bscscan.com/address/0x4d751991267545db23f5b8f7bad4cc975b1f5351#writeContract) contract.
 
 Call the _**emergencyWithdraw**_ function using the `farm id` listed below to withdraw your staked tokens.
 
