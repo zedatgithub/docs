@@ -1,11 +1,8 @@
 # 📞 Social Accounts
 
-* Twitter: [https://twitter.com/DEFISwap](https://twitter.com/PantherSwap)
-* Telegram: [https://t.me/DEFISwap](https://t.me/PantherSwap)
-* Telegram Ann: [https://t.me/DEFISwapAnn](https://t.me/PantherSwapAnn)
-* Github: [https://pancakeswap.github.com](https://pantherswap.github.com)
+* Twitter: [https://twitter.com/DEFIFinance](https://twitter.com/DEFIFinance)
+* Telegram: [https://t.me/DEFIFinance](https://t.me/DEFIFinance)
+* Telegram Announcment: [https://t.me/DEFIFinanceAnn](https://t.me/DEFIFinanceAnn)
+* Github: [https://github.com/zedatgithub](https://github.com/zedatgithub)
 
   ​
-
-
-
