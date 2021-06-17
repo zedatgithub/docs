@@ -2,16 +2,15 @@
 
 Timelock will been added to the MasterChef contract before launch.
 
-Timelock address: [0xe6a8f0269d6af307a908ecd3938f470db7a56daa](https://bscscan.com/address/0xe6a8f0269d6af307a908ecd3938f470db7a56daa)
+Timelock address: [0x26bf53badc7cf49f65d6e47686cd80372c7dcc13](https://testnet.bscscan.com/address/0x26bf53badc7cf49f65d6e47686cd80372c7dcc13)
 
-Ownership transfer transaction:  
-[0x9691ea4a9455ebfbb47b890d296acd4a00e626475d83db65ee41e36d00f90d0f](https://bscscan.com/tx/0x9691ea4a9455ebfbb47b890d296acd4a00e626475d83db65ee41e36d00f90d0f)​​
+Ownership transfer transaction: [0x9691ea4a9455ebfbb47b890d296acd4a00e626475d83db65ee41e36d00f90d0f](https://testnet.bscscan.com/tx/0x9691ea4a9455ebfbb47b890d296acd4a00e626475d83db65ee41e36d00f90d0f)​​
 
 {% hint style="info" %}
 Delay: **24 hours** from the start
 {% endhint %}
 
-> Note that in the [MasterChef](https://bscscan.com/address/0x) contract we have **4 functions** which we can call outside the timelock.   
+> Note that in the [Timelock](https://testnet.bscscan.com/address/0x4d751991267545db23f5b8f7bad4cc975b1f5351) contract we have **4 functions** which we can call outside the timelock.
 > We use these for adding more pools, updating existing pools and updating the emission rates without having to wait for 24 hours for the changes to propagate.
 
 {% code title="MasterChef.sol" %}
@@ -35,12 +34,9 @@ function set(uint256 _pid, uint256 _allocPoint, uint16 _depositFeeBP, uint256 _h
 }
 
 // Update the emission rate. Can only be called by the admin.
-function updateEmissionRate(uint256 _pancakePerBlock) public {
+function updateEmissionRate(uint256 _DEFIPerBlock) public {
     require(msg.sender == admin, "Timelock::updateEmissionRate: Call must come from admin.");
-    MasterChef.updateEmissionRate(_pancakePerBlock);
+    MasterChef.updateEmissionRate(_DEFIPerBlock);
 }
 ```
 {% endcode %}
-
-
-

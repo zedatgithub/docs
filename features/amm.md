@@ -17,8 +17,8 @@ Instead we decided to use all of the **0.2% trading fee** which is sent to [Fee/
 
 ## Contracts <a id="contracts"></a>
 
-* Factory: [0x670f55c6284c629c23bae99f585e3f17e8b9fc31](https://bscscan.com/address/0x670f55c6284c629c23bae99f585e3f17e8b9fc31#code)
-* Router: [0x24f7c33ae5f77e2a9eceed7ea858b4ca2fa1b7ec](https://bscscan.com/address/0x24f7c33ae5f77e2a9eceed7ea858b4ca2fa1b7ec#code)
+* Factory: [0xDf7909D3584a91504a821d80ED20a31584858E3a](https://testnet.bscscan.com/address/0xDf7909D3584a91504a821d80ED20a31584858E3a#code)
+* Router: [0x24f7c33ae5f77e2a9eceed7ea858b4ca2fa1b7ec](https://testnet.bscscan.com/address/0x24f7c33ae5f77e2a9eceed7ea858b4ca2fa1b7ec#code)
 
 The Factory & Router smart contracts are the same as DEFISwap's.  
 The only things we changed in these two contracts are: 
@@ -40,8 +40,8 @@ You can use the links below to compare the smart contracts of DEFI and DEFISwap.
 
 ## DEFI v1 Contracts as reference <a id="contracts"></a>
 
-* Factory: [https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812](https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812#code)
-* Router: [https://bscscan.com/address/0x05ff2b0db69458a0750badebc4f9e13add608c7f](https://bscscan.com/address/0x05ff2b0db69458a0750badebc4f9e13add608c7f#readContract)
+* Factory: [https://testnet.bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812](https://testnet.bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812#code)
+* Router: [https://testnet.bscscan.com/address/0x05ff2b0db69458a0750badebc4f9e13add608c7f](https://testnet.bscscan.com/address/0x05ff2b0db69458a0750badebc4f9e13add608c7f#readContract)
 
 ## Trading Fee <a id="trading-fee"></a>
 
