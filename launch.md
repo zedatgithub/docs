@@ -2,7 +2,7 @@
 description: 'DEFI - Fair Launch, No Pre-sale, No Pre-mine, Anti-Bot, Anti Whale'
 ---
 
-# ⚡ Launch
+# 🚀 Launch
 
 New kind of Fair Launch
 

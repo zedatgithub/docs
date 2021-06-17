@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🏫 Home](README.md)
-* [⚡ Launch](launch.md)
+* [🚀 Launch](launch.md)
 * [🎯 Roadmap](roadmap.md)
 
 ## FEATURES
