@@ -1,4 +1,4 @@
-# 🚜 Compound Farms & Pools
+# 🚜 Farms & Pools Compound
 
 The first place where you can reinvest your earnings by simply clicking the **Compound** button, increasing your LP Tokens or Staked DEFI and earning even more while also getting a discount:
 

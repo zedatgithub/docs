@@ -13,7 +13,7 @@ We consider that **0.2% trading fee** is high enough and so we will not use DEFI
 
 On PancakeSwap v1 the **0.2% trading fee** was split between **0.17%** going to liquidity providers while **0.03%** going into the treasury. The **0.17%** going to liquidity providers was not really an earning until the liquidity providers did not unstake and remove the liquidity so, overall, it was not a predictable source of income nor could this be reinvested \(compounded\).
 
-Instead we decided to use all of the **0.2% trading fee** which is sent to [Fee/Tax Distribution](deposit-fee-redistribution.md) and use it to give more value to the DEFI token so that the liquidity providers can earn more a valuable token which they can reinvest \([compound](compound-farms-pools.md)\).
+Instead we decided to use all of the **0.2% trading fee** which is sent to [Fee/Tax Distribution](deposit-fee-redistribution.md) and use it to give more value to the DEFI token so that the liquidity providers can earn more a valuable token which they can reinvest \([compound](farms-pools-compound.md)\).
 
 ## Contracts <a id="contracts"></a>
 

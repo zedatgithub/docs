@@ -1,4 +1,4 @@
-# 💵 Vaults
+# 💵 Vaults Auto Compound
 
 ## What is a Vault? <a id="what-is-a-vault"></a>
 

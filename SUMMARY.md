@@ -11,8 +11,8 @@
 * [⏰ Boosted Farms](features/harvest-lockup.md)
 * [🔒 Harvest Lockup](features/harvest-lockup-1.md)
 * [🌾 Farming Pools](features/token-pools.md)
-* [🚜 Compound Farms & Pools](features/compound-farms-pools.md)
-* [💵 Vaults](features/vaults.md)
+* [🚜 Farms & Pools Compound](features/farms-pools-compound.md)
+* [💵 Vaults Auto Compound](features/vaults-auto-compound.md)
 * [🏧 Automatic Liquidity](features/automatic-liquidity.md)
 * [🔥 Automatic Burning](features/automatic-burning.md)
 * [💰 Fee/Tax Distribution](features/deposit-fee-redistribution.md)
@@ -22,7 +22,7 @@
 
 ## TOKENOMICS
 
-* [🌕 Token](tokenomics/token.md)
+* [🌔 Token](tokenomics/token.md)
 * [📑 Contracts](tokenomics/contracts.md)
 
 ## SECURITY
