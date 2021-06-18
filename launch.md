@@ -15,7 +15,7 @@ New kind of Fair Launch
 * Emission Rate: 1 DEFI/block but will be increased as the TVL grows to keep APR high
 
 {% hint style="success" %}
-\*The developer will mine 20,000 DEFI for [liquidity pools](features/locked-liquidity.md) which will be distributed as follows:
+\*The developer will mine 20,000 DEFI for [locked liquidity](features/locked-liquidity.md) which will be distributed as follows:
 
 * **DEFI-BUSD**: 5,000 DEFI - 1,000 BUSD
 * **DEFI-USDT**: 5,000 DEFI - 1,000 BUSD
