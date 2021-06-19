@@ -2,21 +2,21 @@
 
 ## What is a Vault? <a id="what-is-a-vault"></a>
 
-Vaults are investment instruments that employ a specific set of strategies for yield farming. They make use of automation to continually invest and reinvest deposited funds, which help to achieve high levels of compounded interest. You earn more of the asset you stake in it regardless if this is an liquidity pool \(LP\) token or a single asset. For example, vaults where one can stake BUSD-USDT LP will result in more BUSD-USDT LP over time, effectively growing your share in the vault and thus allowing for more and more rewards over time.
+Vaults are investment instruments making use of automation to continually reinvest deposited funds, which help to achieve high levels of compounded interest. You earn more of the asset you stake in it regardless if this is an liquidity pool \(LP\) token or a single asset. For example, vaults where one can stake BUSD-USDT LP will result in more BUSD-USDT LP over time, effectively growing your share in the vault and thus allowing for more and more rewards over time.
 
 When browsing the vaults on the platform, you will see the annual percentage yield \(APY\), which takes the frequent compounding into consideration compared to annual percentage rate \(APR\) which does not.
 
 Summarizing, vaults can:
 
-* Compound rewards into the initially deposited token amount.
-* Use any asset as liquidity.
-* Put any asset to work to generate a yield.
-* Reinvest earned profits.
-* Stake your DEFI or LP Tokens and forget about it! The DEFI or LP Tokens you stake in this Vaults will be automatically compounded \(reinvested\) for you, minus a small fee.
-* The “automatic” compounding function is triggered by other users who get a small bounty for triggering it.
+* Compound rewards into the initially deposited asset
+* Use any asset as liquidity
+* Put any asset to work to generate a yield
+* Reinvest earned profits
+* Stake your DEFI or LP Tokens and forget about it - the DEFI or LP Tokens you stake in this Vaults will be automatically compounded \(reinvested\) for you for a small fee
+* The “automatic” compounding function is triggered by other users who get a small bounty for triggering it
 * Interest is displayed as APY, which includes compounding.
-* A small performance fee is subtracted from your earnings each time the pool is automatically compounded. See below.
-* An unstaking fee applies when you unstake within 48 hours of manually staking. See below.
+* A small performance fee is subtracted from your earnings each time the pool is automatically compounded \(see below\)
+* An unstaking fee applies when you unstake within 48 hours of manually staking \(see below\)
 
 ## What are the fees for the Vaults? <a id="what-are-the-fees-for-the-auto-cake-syrup-pool"></a>
 
@@ -24,18 +24,18 @@ Summarizing, vaults can:
 
 **Unstaking fee**
 
-* **4%      if you unstake \(withdraw\) within 48 hours.**
+* **4%    if you unstake \(withdraw\) within 48 hours.**
 * Only applies within 2 days of manually staking.
 * After 2 days, you can unstake with **no fee**.
 * The 2-day timer resets every time you manually stake more in the vault.
-* This fee only applies to manual unstaking: it does not apply to automatic compounding.
+* This fee only applies to manual unstaking - it does not apply to automatic compounding.
 
 **Performance fee**
 
 * **2%, subtracted automatically from each yield harvest**.
-* For example, if the harvest was 1 DeFi, then 0.02 DeFI would be subtracted as the performance fee.
+* For example, if the harvest was 1 DEFI, then 0.02 DEFI would be subtracted as the performance fee.
 
-The collected via the unstaking fee and performance fee are sent to [Fee/Tax Distribution](deposit-fee-redistribution.md)
+Fees collected from early unstaking as well as the performance fees are sent to [Fee/Tax Distribution](deposit-fee-redistribution.md)
 
 ## What’s the Bounty? <a id="whats-the-auto-cake-bounty"></a>
 
@@ -45,11 +45,11 @@ This bounty is given as a reward for providing a service to other users.
 
 Whenever you successfully claim the bounty, you’re also helping out by activating the Auto CAKE Pool’s compounding function for everyone.
 
-Make sure the amount of CAKE you receive will be greater than the BNB fees you’ll spend to submit the blockchain transaction!
+Make sure the amount of DEFI you receive will be greater than the BNB fees you’ll spend to submit the blockchain transaction!
 
 ## Why can't someone just do this themselves? <a id="why-cant-someone-just-do-this-themselves"></a>
 
-They could, but vaults help you save on personal time and transaction fees, maintain healthy collateral to debt ratios, self-optimize for the best possible yields, and automatically reinvest earnings. Attempting to do this manually would result in large inefficiencies. At Beefy we like to say: "Sit back and relax, the vault does all the work for you."
+They could, but vaults help you save on personal time and transaction fees, maintain healthy collateral to debt ratios, self-optimize for the best possible yields, and automatically reinvest earnings. Attempting to do this manually would result in large inefficiencies. Basically, "Sit back and relax, the vault does all the work for you."
 
 ## **Does the performance fee get taken out when I withdraw my funds?** <a id="does-the-performance-fee-get-taken-out-when-i-withdraw-my-funds"></a>
 
