@@ -57,14 +57,14 @@ They could, but vaults help you save on personal time and transaction fees, main
 
 ## Does the vault page show the APY? <a id="does-the-vault-page-show-the-apy"></a>
 
-Yes. Our displayed APY values reflect the predicted rate earned on a vault in a year. This rate is determined by the underlying platform it uses, the strategy that it is interacting with at the time, the total amount of funds in the vault and also takes into account the effect of compounding. As a unique feature, we have also included all vault fees in the APY calculation. What you see is what you get!
+Yes. Our displayed APY values reflect the predicted rate earned on a vault in a year. This rate is determined the total amount of funds in the vault and takes into account the effect of compounding. As a unique feature, we have also included all vault fees in the APY calculation. What you see is what you get!
 
 ## What risks do the vaults have? <a id="what-risks-do-the-vaults-have"></a>
 
-Beefy vaults are audited, but this does not mean that a vault is entirely risk free. Below are some of the general vault risks:
+Below are some of the general vault risks:
 
 * Assets deposited into the vault have no risk of decreasing in quantity but can decrease in monetary value.
-* As with any smart contract, the ultimate risk is that an investor's funds can end up stolen or unable to be withdrawn. The team does take steps to quantify the security risks of smart contracts and only will interact with ones that meet a specific set of requirements after excessive testing to make sure the underlying platform does not contain so called 'rug-pull' functions.
+* Vaults are audited but, as with any smart contract, the ultimate risk is that an investor's funds can end up stolen or unable to be withdrawn.
 
 ## **How do LP vaults work?** <a id="how-do-lp-vaults-work"></a>
 
