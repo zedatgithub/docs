@@ -12,6 +12,7 @@ New kind of Fair Launch
 * All contracts will be deployed with liquidity on Mainnet at [\#6920000](https://testnet.bscscan.com/block/countdown/6922000) so that community/auditors will have enough time to review the live smart contracts and in case **High Severity Issues** are found, these will be fixed, the new smart contracts will be redeployed and [Bug Bounty](security/bug-bounty.md) rewards will be given. You may ask why so much delays - we are here to stay and we intend to start a long-run project, we are not in hurry and we wish to build a safe and fair project.
 * Token trading will start at block [\#6922000](https://testnet.bscscan.com/block/countdown/6922000) - 1 week after contracts deployed and review/audit
 * Farming will start at block [\#6924000](https://testnet.bscscan.com/block/countdown/6922000) - 2 week later so that every one had fair chance to get tokens
+* IFO will start at block [\#6924000](https://testnet.bscscan.com/block/countdown/6922000) - 3 week later so that every one had fair chance to farm tokens
 * Emission Rate: 1 DEFI/block but will be increased as the TVL grows to keep APR high
 
 {% hint style="success" %}

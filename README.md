@@ -27,4 +27,5 @@ DEFI is the one **stable-pairs-only** yield farm and AMM decentralized exchange 
 * [Anti Whale](features/anti-whale.md) mechanism preventing Whales from quickly buying/selling large amounts \(pump & dump\)
 * [No Migrator Code](security/no-migrator-code.md)
 * [Timelock](security/timelock.md)
+* IFO
 

@@ -1,4 +1,4 @@
-# 🌔 Token
+# 🌔 DEFI
 
 ## Basic Information <a id="basic-information"></a>
 
