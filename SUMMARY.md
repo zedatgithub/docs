@@ -23,8 +23,8 @@
 
 ## TOKENOMICS
 
-* [🌔 DEFI](tokenomics/token.md)
-* [🌖 OBERON](tokenomics/oberon.md)
+* [🌔 TKENA](tokenomics/tkena.md)
+* [🌖 TKENB](tokenomics/tkenb.md)
 * [📑 Contracts](tokenomics/contracts.md)
 
 ## SECURITY
