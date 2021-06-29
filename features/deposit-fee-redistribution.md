@@ -4,7 +4,7 @@
 
 Every 8 hours \(3 times per day\), at exact UTC hours: 0 AM, 8 AM, 4 PM
 
-#### TKENA Platform
+### TKENA Platform
 
 * 30% of collected TKENA will be injected into the [Lottery](lottery.md)
 * 30% of collected TKENA will be [🔥BURNED🔥](https://testnet.bscscan.com/token/0x8a5a76401ada8998603d982d8343752fec75972b?a=0x000000000000000000000000000000000000dEaD) 
@@ -23,7 +23,7 @@ Every 8 hours \(3 times per day\), at exact UTC hours: 0 AM, 8 AM, 4 PM
 * 20% of the BUSD/USDT/USDC/DAI will be sent to developer address for future development
 * all received BELT tokens will be swapped to BUSD and used for DEFI buybacks 
 
-#### TKENB Platform
+### TKENB Platform
 
 * 30% of collected TKENB will be injected into the [Lottery](lottery.md)
 * 30% of collected TKENB will be [🔥BURNED🔥](https://testnet.bscscan.com/token/0x8a5a76401ada8998603d982d8343752fec75972b?a=0x000000000000000000000000000000000000dEaD) 

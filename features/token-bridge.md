@@ -5,5 +5,3 @@ You can transfer between Binance Smart Chain and Polygon vice versa TKENA and TK
 
 * 9.09% instead to go to the dev team we will lock this amount to the to the Bridge Contract
 
-
-

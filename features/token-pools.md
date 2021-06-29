@@ -21,8 +21,6 @@ TKENA, TKENB, BUSD\*, USDT, USDC, DAI
 
 Below is the list of pools with **mixed-pairs** available after [TKENB IFO](tkenb-ifo.md)
 
-Farming pools allow TKENB holders to stake their TKENB and earn following tokens:   
+Farming pools allow TKENB holders to stake their TKENB and earn following tokens:  
 TKENB, TKENA, BNB/MATIC, BTC, ETH
-
-
 
