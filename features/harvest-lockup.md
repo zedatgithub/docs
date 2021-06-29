@@ -10,9 +10,9 @@ Below is the list of farms with **stable-pairs-only** available at launch to ear
 | 2 | TKENA-USDC LP | 20x |
 | 3 | TKENA-USDT LP | 20x |
 | 4 | TKENA-DAI LP | 20x |
-| 5 | BUSD-USDT LP \* | 5x |
-| 6 | BUSD-DAI LP \* | 5x |
-| 7 | USDC-BUSD LP \* | 5x |
+| 5 | BUSD-USDT LP  | 5x |
+| 6 | BUSD-DAI LP  | 5x |
+| 7 | USDC-BUSD LP  | 5x |
 | 8 | USDC-DAI LP | 5x |
 | 9 | USDT-USDC LP | 5x |
 | 10 | USDT-DAI LP | 5x |
