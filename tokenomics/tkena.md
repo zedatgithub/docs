@@ -29,7 +29,7 @@ The transfer tax is applied **only** for transactions involving the TKENA token
 ## Emission Rate - Polygon Chain \(MATIC\)
 
 * 0.75 TKENA / block \*
-* 28,800 TKENA / day \*\*
+* 28,800 TKENA / day \*\*\*
 * 9.09% instead to go to the dev team we will lock this amount to the to the Bridge Contract
 
 \* This value will be **increased** as the TVL grows, in order to keep the APR high.  

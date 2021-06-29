@@ -37,12 +37,12 @@ The transfer tax is applied **only** for transactions involving the TKENB token
 \*\* Binance Smart Chain has [Average Block Time](https://bscscan.com/chart/blocktime) of ~ 3 seconds   
 \*\*\* Polygon Chain has [Average Block Time](https://polygonscan.com/chart/blocktime) of ~ 2.25 seconds 
 
-## Why TKENA Has No Hard Cap? <a id="why-panther-has-no-hard-cap"></a>
+## Why TKENB Has No Hard Cap? <a id="why-panther-has-no-hard-cap"></a>
 
-Currently there is no hard cap on the supply of TKENA, making it an inflationary token.
+Currently there is no hard cap on the supply of TKENB, making it an inflationary token.
 
 Community members often point to this as a cause for concern, and while the DEV team certainly understands the wish for a hard cap, we don't expect to set one in the near future.
 
-TKENA's primary function is to incentivize providing liquidity for the exchange.  
+TKENB's primary function is to incentivize providing liquidity for the exchange.  
 Without block rewards, there would be much less incentive to provide liquidity.
 
