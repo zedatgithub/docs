@@ -1,6 +1,6 @@
-# 🚜 Yield Farms
+# 🚜 Farms
 
-.Farms
+## TKENA Farms
 
 Below is the list of farms with **stable-pairs-only** available at launch to earn TKENA:
 
@@ -28,7 +28,9 @@ Below is the list of farms with **stable-pairs-only** available at launch to ear
 
 \* Polygon Chain \(MATIC\) has no BUSD so Multipliers are different to make equal ratio of NATIVE and STABLE paris as Binance Smart Chain ~ 80/30
 
-Below is the list of farms with **mixed-pairs** available after TKENB IFO to earn TKENB:
+## TKENB Farms
+
+Below is the list of farms with **mixed-pairs** available after [TKENB IFO](tkenb-ifo.md)
 
 | Farm  ID | Binance Smart Chain | Polygon Chain | Multiplier |
 | :---: | :--- | :--- | :---: |

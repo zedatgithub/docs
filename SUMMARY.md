@@ -8,11 +8,11 @@
 
 * [🤖 Anti Bot](features/anti-bot.md)
 * [🐋 Anti Whale](features/anti-whale.md)
-* [🚜 Yield Farms](features/harvest-lockup.md)
-* [⏳ Harvest Lockup](features/harvest-lockup-1.md)
-* [🌾 Farming Pools](features/token-pools.md)
-* [🚜 Farms & Pools Compound](features/farms-pools-compound.md)
+* [🚜 Farms](features/harvest-lockup.md)
+* [🌾 Pools](features/token-pools.md)
 * [💵 Vaults Auto Compound](features/vaults-auto-compound.md)
+* [⏳ Harvest Lockup](features/harvest-lockup-1.md)
+* [🚜 Farms & Pools Compound](features/farms-pools-compound.md)
 * [🏧 Automatic Liquidity](features/automatic-liquidity.md)
 * [🔒 Locked Liquidity](features/locked-liquidity.md)
 * [🔥 Automatic Burning](features/automatic-burning.md)
@@ -21,6 +21,7 @@
 * [🤑 Lottery](features/lottery.md)
 * [💱 AMM](features/amm.md)
 * [🔁 Token Bridge](features/token-bridge.md)
+* [🌕 TKENB IFO](features/tkenb-ifo.md)
 
 ## TOKENOMICS
 

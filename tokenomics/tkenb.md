@@ -6,6 +6,7 @@ description: farming token used for mixed pairs
 
 ## Basic Information <a id="basic-information"></a>
 
+* Available only after IFO
 * Token Name: TKENB Token
 * Token Symbol: TKENB
 * Chain: Binance Smart Chain \(BSC\)
