@@ -22,8 +22,8 @@ Below is the list of farms with **stable-pairs-only** available at launch to ear
 | 1 | TKENA-USDC LP  | 27x |
 | 2 | TKENA-USDT LP | 27x |
 | 3 | TKENA-DAI LP | 27x |
-| 4 | USDC-DAI LP | 10x |
-| 5 | USDT-USDC LP | 10x |
+| 4 | USDC-USDT LP | 10x |
+| 5 | USDC-DAI LP | 10x |
 | 6 | USDT-DAI LP | 10x |
 
 \* Polygon Chain \(MATIC\) has no BUSD so Multipliers are different to make equal ratio of NATIVE and STABLE paris as Binance Smart Chain ~ 80/30
