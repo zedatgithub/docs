@@ -2,7 +2,7 @@
 
 ## What is a Vault? <a id="what-is-a-vault"></a>
 
-Vaults are investment instruments making use of automation to continually reinvest deposited funds, which help to achieve high levels of compounded interest. You earn more of the asset you stake in it regardless if this is an liquidity pool \(LP\) token or a single asset. For example, vaults where one can stake BUSD-USDT LP will result in more BUSD-USDT LP over time, effectively growing your share in the vault and thus allowing for more and more rewards over time.
+Vaults are investment instruments making use of automation to continually reinvest deposited funds, which help to achieve high levels of compounded interest. You earn more of the asset you stake in it regardless if this is an liquidity pool \(LP\) token or a single asset. For example, vaults where one can stake USDC-USDT LP will result in more USDC-USDT LP over time, effectively growing your share in the vault and thus allowing for more and more rewards over time.
 
 When browsing the vaults on the platform, you will see the annual percentage yield \(APY\), which takes the frequent compounding into consideration compared to annual percentage rate \(APR\) which does not.
 
@@ -12,7 +12,7 @@ Summarizing, vaults can:
 * Use any asset as liquidity
 * Put any asset to work to generate a yield
 * Reinvest earned profits
-* Stake your DEFI or LP Tokens and forget about it - the DEFI or LP Tokens you stake in this Vaults will be automatically compounded \(reinvested\) for you for a small fee
+* Stake your NATIVE Tokens or LP Tokens and forget about it - the NATIVE or LP Tokens you stake in this Vaults will be automatically compounded \(reinvested\) for you for a small fee
 * The “automatic” compounding function is triggered by other users who get a small bounty for triggering it
 * Interest is displayed as APY, which includes compounding.
 * A small performance fee is subtracted from your earnings each time the pool is automatically compounded \(see below\)
@@ -36,7 +36,7 @@ Summarizing, vaults can:
 **Performance fee**
 
 * **2%, subtracted automatically from each yield harvest**.
-* For example, if the harvest was 1 DEFI, then 0.02 DEFI would be subtracted as the performance fee.
+* Example: if the harvest was 1 TKENA, then 0.02 TKENA would be subtracted as the performance fee.
 
 Fees collected from early unstaking as well as the performance fees are sent to [Fee/Tax Distribution](deposit-fee-redistribution.md)
 
@@ -48,7 +48,7 @@ This bounty is given as a reward for providing a service to other users.
 
 Whenever you successfully claim the bounty, you’re also helping out by activating the Auto CAKE Pool’s compounding function for everyone.
 
-Make sure the amount of DEFI you receive will be greater than the BNB fees you’ll spend to submit the blockchain transaction!
+Make sure the amount of NATIVE Token you receive will be greater than the BNB/MATIC fees you’ll spend to submit the blockchain transaction!
 
 ## Why can't someone just do this themselves? <a id="why-cant-someone-just-do-this-themselves"></a>
 
