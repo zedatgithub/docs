@@ -1,6 +1,6 @@
 # 🛡️ Emergency Withdraw
 
-If something is to happen to our front-end such as a DDOS attack or a temporary outage, farmers can still withdraw their tokens by directly interacting with the [MasterChef](https://testnet.bscscan.com/address/0x4d751991267545db23f5b8f7bad4cc975b1f5351#writeContract) contract.
+If something is to happen to our front-end such as a DDOS attack or a temporary outage, farmers can still withdraw their tokens by directly interacting with the MasterChef [contract](../tokenomics/contracts.md).
 
 Call the _**emergencyWithdraw**_ function using the `farm id` listed below to withdraw your staked tokens.
 
@@ -8,19 +8,7 @@ Call the _**emergencyWithdraw**_ function using the `farm id` listed below to wi
 Withdraw without caring about pending rewards and last Harvest Lockup compounds. EMERGENCY ONLY.
 {% endhint %}
 
-| Farm/Pool  ID | Pairs | Boosted/Cooldown Rates |
-| :---: | :--- | :---: |
-| 0 | DEFI | 10x |
-| 1 | DEFI-BUSD LP | 40x / 4x |
-| 2 | DEFI-USDC LP | 4x / 40x |
-| 3 | DEFI-USDT LP | 40x / 4x |
-| 4 | DEFI-DAI LP | 4x / 40x |
-| 5 | BUSD-USDT LP | 10x / 1x |
-| 6 | BUSD-DAI LP | 1x / 10x |
-| 7 | USDC-BUSD LP | 10x / 1x |
-| 8 | USDC-DAI LP | 1x / 10x |
-| 9 | USDT-USDC LP | 10x / 1x |
-| 10 | USDT-DAI LP | 1x / 10x |
+Farming ID can be found in the [Yield Farms](../features/harvest-lockup.md) page
 
-​
+
 
