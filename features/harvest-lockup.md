@@ -1,12 +1,10 @@
 # 🚜 Yield Farms
 
-.
-
-## Farms
+.Farms
 
 Below is the list of farms with **stable-pairs-only** available at launch to earn TKENA:
 
-| Farm  ID | Binance Smart Chain \(BSC\) | Rates |
+| Farm  ID | Binance Smart Chain | Multiplier |
 | :---: | :--- | :---: |
 | 1 | TKENA-BUSD LP  | 20x |
 | 2 | TKENA-USDC LP | 20x |
@@ -19,7 +17,7 @@ Below is the list of farms with **stable-pairs-only** available at launch to ear
 | 9 | USDT-USDC LP | 5x |
 | 10 | USDT-DAI LP | 5x |
 
-| Farm  ID | Polygon Chain \(MATIC\)       | Rates |
+| Farm  ID | Polygon Chain          | Multiplier |
 | :---: | :--- | :---: |
 | 1 | TKENA-USDC LP  | 27x |
 | 2 | TKENA-USDT LP | 27x |
@@ -28,11 +26,11 @@ Below is the list of farms with **stable-pairs-only** available at launch to ear
 | 5 | USDT-USDC LP | 10x |
 | 6 | USDT-DAI LP | 10x |
 
-
+\* Polygon Chain \(MATIC\) has no BUSD so Multipliers are different to make equal ratio as BSC ~ 80/30
 
 Below is the list of farms with **mixed-pairs** available after TKENB IFO to earn TKENB:
 
-| Farm  ID | Binance Smart Chain | Polygon Chain | Rates |
+| Farm  ID | Binance Smart Chain | Polygon Chain | Multiplier |
 | :---: | :--- | :--- | :---: |
 | 1 | TKENB-BUSD LP | TKENB-USDC LP | 20x |
 | 2 | TKENB-BNB LP | TKENB-MATIC LP | 20x |
