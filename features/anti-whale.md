@@ -4,7 +4,9 @@ description: preventing Whales from quickly buying/selling large amounts (pump &
 
 # 🐋 Anti Whale
 
-Transfers that exceed **0.5%** of the circulating supply will be rejected.
+Transfers that exceed **0.5%** of the circulating supply of NATIVE Tokens will be rejected.
+
+Circulating supply = total supply - burn address - fee/tax address - bridge address
 
 {% hint style="info" %}
 The value of **0.5%** is set in the beginning and as the circulating supply grows this value will be increased.
@@ -20,7 +22,7 @@ Following case are not subjected to this restriction:
 * Lottery: Collecting Prize
 {% endhint %}
 
-> The current value can be viewed in the [DEFI](https://testnet.bscscan.com/address/0x8a5a76401ada8998603d982d8343752fec75972b#readContract) token contract.  
+> The current value can be viewed in the TKENA, TKENB [contracts](../tokenomics/contracts.md)  
 > \( scroll down and search for the `maxTransferAmount` function \)
 
 ## More Anti Whale Measures

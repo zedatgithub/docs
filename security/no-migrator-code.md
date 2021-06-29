@@ -2,6 +2,12 @@
 
 The migrator code has been removed from the MasterChef contract.
 
-Review the MasterChef contract on BscScan: [  
-https://testnet.bscscan.com/address/0x4d751991267545db23f5b8f7bad4cc975b1f5351](https://testnet.bscscan.com/address/0x4d751991267545db23f5b8f7bad4cc975b1f5351#contracts)​
+Review the contracts on chain
+
+| Contract | Address - Binance Smart Chain \(BSC\) | Address - Poygon \(MATIC\) |
+| :--- | :--- | :--- |
+| TKENA MasterChef | 0x0b0b1a3d25a51ae82dea87877821cde4ca160ccc | 0x242ae3b958b9bcd5930bc377b7953d3b7181f440 |
+| TKENB MasterChef | 0x699e2fdede6a3b130766af1580485e8ac2e85289 | 0x05f5066529ee6663d6a1ad5073e0019053e3416c |
+
+## \*\*\*\* <a id="farm"></a>
 

@@ -8,7 +8,7 @@
 
 * [🤖 Anti Bot](features/anti-bot.md)
 * [🐋 Anti Whale](features/anti-whale.md)
-* [⏰ Boosted Farms](features/harvest-lockup.md)
+* [🚜 Yield Farms](features/harvest-lockup.md)
 * [⏳ Harvest Lockup](features/harvest-lockup-1.md)
 * [🌾 Farming Pools](features/token-pools.md)
 * [🚜 Farms & Pools Compound](features/farms-pools-compound.md)
@@ -20,6 +20,7 @@
 * [💸 Referral Program](features/referral-program.md)
 * [🤑 Lottery](features/lottery.md)
 * [💱 AMM](features/amm.md)
+* [🔁 Token Bridge](features/token-bridge.md)
 
 ## TOKENOMICS
 

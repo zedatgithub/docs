@@ -1,19 +1,24 @@
 ---
-description: DEFI - Stable Yield Farming with Boosted Farms On Binance Smart Chain and AMM
+description: >-
+  Separated Stable & Mixed Yield Farming On Binance Smart Chain and Polygon
+  Chain with own AMM
 ---
 
 # 🏫 Home
 
 ## Introduction <a id="introduction"></a>
 
-### About DEFI <a id="about-pantherswap"></a>
+### About TKENA <a id="about-pantherswap"></a>
 
-DEFI is the one **stable-pairs-only** yield farm and AMM decentralized exchange running on Binance Smart Chain, featuring the first ever **Boosted Farms** innovation, together with lots of other unique and creative features.
+TKENA is the one **stable-pairs-only** yield farm and AMM decentralized exchange running on Binance Smart Chain and Polygon Chain, featuring Compound LP tokens or in Vault automated, together with lots of other unique and creative features.
+
+## About TKEN**B** <a id="main-features"></a>
+
+TKENB is the one **mixed-pairs** yield farm and AMM decentralized exchange running on Binance Smart Chain and Polygon Chain, featuring Compound LP tokens or in Vault automated, together with lots of other unique and creative features.
 
 ## **Main Features** <a id="main-features"></a>
 
-* [Boosted Farms](features/harvest-lockup.md) where all the farms' multipliers are cycled through a boosted/normal state at exact hours of a day \(so, at the same time for every one\), multiple times a day; harvest lockup time is tied to these cycles and harvesting becomes possible at multiplier state change
-* [Farming Pools](features/token-pools.md) where you deposit DEFI and earn **other tokens**
+* [Farming Pools](features/token-pools.md) where you deposit TKENA, TKENB and earn **other tokens**
 * [Locked Liquidity](features/locked-liquidity.md) 
 * Farms allows you to [compound](features/farms-pools-compound.md) your LP tokens and, whenever you use this feature on a farm _\*\*_
   * **without a deposit** **fee**, the **token tax** will be 50% of the regular token tax
