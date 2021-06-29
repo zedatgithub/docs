@@ -26,7 +26,7 @@ Below is the list of farms with **stable-pairs-only** available at launch to ear
 | 5 | USDT-USDC LP | 10x |
 | 6 | USDT-DAI LP | 10x |
 
-\* Polygon Chain \(MATIC\) has no BUSD so Multipliers are different to make equal ratio as BSC ~ 80/30
+\* Polygon Chain \(MATIC\) has no BUSD so Multipliers are different to make equal ratio of NATIVE and STABLE paris as Binance Smart Chain ~ 80/30
 
 Below is the list of farms with **mixed-pairs** available after TKENB IFO to earn TKENB:
 
