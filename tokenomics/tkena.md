@@ -26,15 +26,15 @@ The transfer tax is applied **only** for transactions involving the TKENA token
 * 28,800 TKENA / day \*\*
 * 9.09% instead to go to the dev team we will lock this amount to the to the Bridge Contract 
 
-## Emission Rate - Polygon Chain \(MATIC\)
+## Emission Rate - Polygon \(MATIC\)
 
-* 0.75 TKENA / block \*
+* 0.7 TKENA / block \*
 * 28,800 TKENA / day \*\*\*
 * 9.09% instead to go to the dev team we will lock this amount to the to the Bridge Contract
 
 \* This value will be **increased** as the TVL grows, in order to keep the APR high.  
 \*\* Binance Smart Chain has [Average Block Time](https://bscscan.com/chart/blocktime) of ~ 3 seconds   
-\*\*\* Polygon Chain has [Average Block Time](https://polygonscan.com/chart/blocktime) of ~ 2.25 seconds 
+\*\*\* Polygon Chain has [Average Block Time](https://polygonscan.com/chart/blocktime) of ~ 2.1 seconds 
 
 ## Why TKENA Has No Hard Cap? <a id="why-panther-has-no-hard-cap"></a>
 
