@@ -8,7 +8,7 @@ You can add more NATIVE tokens / [compound](farms-pools-compound.md) to any pool
 
 Every time you **harvest** your earnings will be sent to your wallet and a new **harvest lockup** timer is set for the next reward cycle. The harvest lockup is specific to each pool and is shown on each pool's card.
 
-\* BUSD not available on Polygon Chain \(MATIC\)
+\* BUSD not available on Polygon \(MATIC\)
 
 ## TKENA Pools
 

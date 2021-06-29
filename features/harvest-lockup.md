@@ -17,7 +17,7 @@ Below is the list of farms with **stable-pairs-only** available at launch to ear
 | 9 | USDT-USDC LP | 5x |
 | 10 | USDT-DAI LP | 5x |
 
-| Farm  ID | Polygon Chain          | Multiplier |
+| Farm  ID | Polygon          | Multiplier |
 | :---: | :--- | :---: |
 | 1 | TKENA-USDC LP  | 27x |
 | 2 | TKENA-USDT LP | 27x |
@@ -26,13 +26,13 @@ Below is the list of farms with **stable-pairs-only** available at launch to ear
 | 5 | USDC-DAI LP | 10x |
 | 6 | USDT-DAI LP | 10x |
 
-\* Polygon Chain \(MATIC\) has no BUSD so Multipliers are different to make equal ratio of NATIVE and STABLE paris as Binance Smart Chain ~ 80/30
+\* Polygon \(MATIC\) has no BUSD so Multipliers are different to make equal ratio of NATIVE and STABLE paris as Binance Smart Chain ~ 80/30
 
 ## TKENB Farms
 
 Below is the list of farms with **mixed-pairs** available after [TKENB IFO](tkenb-ifo.md)
 
-| Farm  ID | Binance Smart Chain | Polygon Chain | Multiplier |
+| Farm  ID | Binance Smart Chain | Polygon | Multiplier |
 | :---: | :--- | :--- | :---: |
 | 1 | TKENB-BUSD LP | TKENB-USDC LP | 20x |
 | 2 | TKENB-BNB LP | TKENB-MATIC LP | 20x |

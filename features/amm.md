@@ -17,7 +17,7 @@ Instead we decided to use all of the **0.2% trading fee** which is sent to [Fee/
 
 ## Contracts <a id="contracts"></a>
 
-* Binance Smart Chain and Polygon Chain can be found in [contracts](../tokenomics/contracts.md)
+* Binance Smart Chain and Polygon can be found in [contracts](../tokenomics/contracts.md)
 
 The Factory & Router smart contracts are the same as PancakeSwap's.  
 The only things we changed in these two contracts are:

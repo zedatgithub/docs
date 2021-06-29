@@ -26,7 +26,7 @@ Binance Smart Chain \(BSC\)
 {% endhint %}
 
 {% hint style="success" %}
-Polygon Chain \(MATIC\)  
+Polygon \(MATIC\)  
 \* the developer will mine 15,000 DEFI for [locked liquidity](features/locked-liquidity.md) which will be distributed as follows:
 
 * **TKENA-USDC**: 5,000 TKENA - 1,000 USDC

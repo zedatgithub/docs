@@ -10,7 +10,7 @@ description: farming token used for mixed pairs
 * Token Name: TKENB Token
 * Token Symbol: TKENB
 * Chain: Binance Smart Chain \(BSC\)
-* Chain: Polygon Chain \(MATIC\)
+* Chain: Polygon \(MATIC\)
 * Max Supply: Unlimited
 
 ## Transfer Tax <a id="transfer-tax"></a>
@@ -27,7 +27,7 @@ The transfer tax is applied **only** for transactions involving the TKENB token
 * 28,800 TKENB / day \*\*
 * 9.09% instead to go to the dev team we will lock this amount to the to the Bridge Contract 
 
-## Emission Rate - Polygon Chain \(MATIC\)
+## Emission Rate - Polygon \(MATIC\)
 
 * 0.75 TKENB / block \*
 * 28,800 TKENB / day \*\*
@@ -35,7 +35,7 @@ The transfer tax is applied **only** for transactions involving the TKENB token
 
 \* This value will be **increased** as the TVL grows, in order to keep the APR high.  
 \*\* Binance Smart Chain has [Average Block Time](https://bscscan.com/chart/blocktime) of ~ 3 seconds   
-\*\*\* Polygon Chain has [Average Block Time](https://polygonscan.com/chart/blocktime) of ~ 2.25 seconds 
+\*\*\* Polygon has [Average Block Time](https://polygonscan.com/chart/blocktime) of ~ 2.25 seconds 
 
 ## Why TKENB Has No Hard Cap? <a id="why-panther-has-no-hard-cap"></a>
 

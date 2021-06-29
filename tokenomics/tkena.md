@@ -9,7 +9,7 @@ description: farming token used for stable pairs only
 * Token Name: TKENA Token
 * Token Symbol: TKENA
 * Chain: Binance Smart Chain \(BSC\)
-* Chain: Polygon Chain \(MATIC\)
+* Chain: Polygon \(MATIC\)
 * Max Supply: Unlimited
 
 ## Transfer Tax <a id="transfer-tax"></a>
@@ -34,7 +34,7 @@ The transfer tax is applied **only** for transactions involving the TKENA token
 
 \* This value will be **increased** as the TVL grows, in order to keep the APR high.  
 \*\* Binance Smart Chain has [Average Block Time](https://bscscan.com/chart/blocktime) of ~ 3 seconds   
-\*\*\* Polygon Chain has [Average Block Time](https://polygonscan.com/chart/blocktime) of ~ 2.1 seconds 
+\*\*\* Polygon has [Average Block Time](https://polygonscan.com/chart/blocktime) of ~ 2.1 seconds 
 
 ## Why TKENA Has No Hard Cap? <a id="why-panther-has-no-hard-cap"></a>
 
