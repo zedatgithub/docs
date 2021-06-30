@@ -12,7 +12,7 @@ description: >-
 
 TKENA is the one **stable-pairs-only** yield farm and AMM decentralized exchange running on Binance Smart Chain and Polygon, featuring Compound LP tokens or in Vault automated, together with lots of other unique and creative features.
 
-## About TKENB <a id="main-features"></a>
+### About TKENB <a id="main-features"></a>
 
 TKENB is the one **mixed-pairs** yield farm and AMM decentralized exchange running on Binance Smart Chain and Polygon, featuring Compound LP tokens or in Vault automated, together with lots of other unique and creative features.
 
