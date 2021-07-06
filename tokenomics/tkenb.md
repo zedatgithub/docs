@@ -6,11 +6,13 @@ description: farming token used for mixed pairs
 
 ## Basic Information <a id="basic-information"></a>
 
-* Available only after IFO
-* Token Name: TKENB Token
-* Token Symbol: TKENB
-* Chain: Binance Smart Chain \(BSC\)
-* Chain: Polygon \(MATIC\)
+* Available only after [IFO](../features/tkenb-ifo.md)
+* Name: TKENB Token
+* Symbol: TKENB
+* Contract address: 
+  * 0x \(Binance Smart Chain\)
+  * 0x \(Polygon\)
+  * 0x \(Fantom\)
 * Max Supply: Unlimited
 
 ## Transfer Tax <a id="transfer-tax"></a>
@@ -25,31 +27,22 @@ The transfer tax is applied **only** for transactions involving the TKENB token
 
 * 1 TKENB / block \* 
 * 28,800 TKENB / day \*\*
-* 9.09% instead to go to the dev team we will lock this amount to the to the Bridge Contract 
+* 9.09% of the emission rate will be locked in the Bridge Contract in order to provide liquidity
 
 ## Emission Rate - Polygon \(MATIC\)
 
 * 0.7 TKENB / block \*
 * 28,800 TKENB / day \*\*
-* 9.09% instead to go to the dev team we will lock this amount to the to the Bridge Contract
+* 9.09% of the emission rate will be locked in the Bridge Contract in order to provide liquidity
 
 ## Emission Rate - Fantom \(FTM\)
 
 * 0.3 TKENA / block \*
 * 28,800 TKENA / day \*\*\*\*
-* 9.09% instead to go to the dev team we will lock this amount to the to the Bridge Contract
+* 9.09% of the emission rate will be locked in the Bridge Contract in order to provide liquidity
 
 \* This value will be **increased** as the TVL grows, in order to keep the APR high.  
 \*\* Binance Smart Chain has [Average Block Time](https://bscscan.com/chart/blocktime) of ~ 3 seconds  
 \*\*\* Polygon has [Average Block Time](https://polygonscan.com/chart/blocktime) of ~ 2 seconds  
 \*\*\*\* Fantom has [Average Block Time](https://ftmscan.com/chart/blocktime) of ~ 1 seconds
-
-## Why TKENB Has No Hard Cap? <a id="why-panther-has-no-hard-cap"></a>
-
-Currently there is no hard cap on the supply of TKENB, making it an inflationary token.
-
-Community members often point to this as a cause for concern, and while the DEV team certainly understands the wish for a hard cap, we don't expect to set one in the near future.
-
-TKENB's primary function is to incentivize providing liquidity for the exchange.  
-Without block rewards, there would be much less incentive to provide liquidity.
 
