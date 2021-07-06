@@ -1,8 +1,8 @@
 # 🛡️ Timelock
 
-Timelock will been added to all [contracts](../tokenomics/contracts.md) before launch.
+Ownership of all [contracts](../tokenomics/contracts.md) will be transferred to the Timelock before launch.
 
 {% hint style="success" %}
-Delay: **24 hours** from the start
+Timelock: **24 hours**
 {% endhint %}
 
