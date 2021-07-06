@@ -54,7 +54,7 @@ Below is the list of farms with **stable-pairs-only** available at launch to ear
     </tr>
     <tr>
       <td style="text-align:center">5</td>
-      <td style="text-align:left">TKENA-FUSD</td>
+      <td style="text-align:left">TKENA-FUSD LP</td>
       <td style="text-align:center">-</td>
       <td style="text-align:center">-</td>
       <td style="text-align:center">27x</td>
