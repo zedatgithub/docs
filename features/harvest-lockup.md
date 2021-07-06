@@ -2,7 +2,7 @@
 
 ## TKENA Farms
 
-Below is the list of farms with **stable-pairs-only** available at launch to earn TKENA, for all networks:
+Below is the list of farms with **stable-pairs-only** available at launch to earn TKENA, on all networks:
 
 <table>
   <thead>
@@ -120,18 +120,98 @@ Below is the list of farms with **stable-pairs-only** available at launch to ear
 
 ## TKENB Farms
 
-Below is the list of farms with **mixed-pairs** available after [TKENB IFO](tkenb-ifo.md)
+Below is the list of farms with **mixed-pairs** available after the [TKENB IFO](tkenb-ifo.md), on all networks
 
-| Farm  ID | Binance Smart Chain | Polygon | Multiplier |
-| :---: | :--- | :--- | :---: |
-| 1 | TKENB-BUSD LP | TKENB-USDC LP | 20x |
-| 2 | TKENB-BNB LP | TKENB-MATIC LP | 20x |
-| 3 | TKENB-BTCB LP | TKENB-WBTC LP | 20x |
-| 4 | TKENB-ETH LP | TKENB-WETH LP | 20x |
-| 5 | BNB-BTCB LP | MATIC-BTCB LP | 5x |
-| 6 | BNB-BUSD LP | MATIC-USDC LP | 5x |
-| 7 | BTCB-ETH LP | WBTC-WETH LP | 5x |
-| 8 | BTCB-BUSD LP | WBTC-USDC LP | 5x |
-| 9 | ETH-BNB LP | WETH-MATIC LP | 5x |
-| 10 | ETH-BUSD LP | WETH-USDC LP | 5x |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center">Farm ID</th>
+      <th style="text-align:left">
+        <p>LP</p>
+        <p>(BSC)</p>
+      </th>
+      <th style="text-align:left">
+        <p>LP</p>
+        <p>(Polygon)</p>
+      </th>
+      <th style="text-align:left">
+        <p>LP</p>
+        <p>(Fantom)</p>
+      </th>
+      <th style="text-align:center">Multiplier</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">1</td>
+      <td style="text-align:left">TKENB-BUSD LP</td>
+      <td style="text-align:left">TKENB-USDC LP</td>
+      <td style="text-align:left">TKENB-USDC LP</td>
+      <td style="text-align:center">20x</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">2</td>
+      <td style="text-align:left">TKENB-BNB LP</td>
+      <td style="text-align:left">TKENB-MATIC LP</td>
+      <td style="text-align:left">TKENB-FTM LP</td>
+      <td style="text-align:center">20x</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">3</td>
+      <td style="text-align:left">TKENB-BTCB LP</td>
+      <td style="text-align:left">TKENB-WBTC LP</td>
+      <td style="text-align:left">TKENB-WBTC LP</td>
+      <td style="text-align:center">20x</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">4</td>
+      <td style="text-align:left">TKENB-ETH LP</td>
+      <td style="text-align:left">TKENB-ETH LP</td>
+      <td style="text-align:left">TKENB-FETH LP</td>
+      <td style="text-align:center">20x</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">5</td>
+      <td style="text-align:left">BNB-BTCB LP</td>
+      <td style="text-align:left">MATIC-BTCB LP</td>
+      <td style="text-align:left">FTM-FBTC LP</td>
+      <td style="text-align:center">5x</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">6</td>
+      <td style="text-align:left">BNB-BUSD LP</td>
+      <td style="text-align:left">MATIC-USDC LP</td>
+      <td style="text-align:left">FTM-USDC LP</td>
+      <td style="text-align:center">5x</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">7</td>
+      <td style="text-align:left">BTCB-ETH LP</td>
+      <td style="text-align:left">WBTC-WETH LP</td>
+      <td style="text-align:left">FBTC-FETH LP</td>
+      <td style="text-align:center">5x</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">8</td>
+      <td style="text-align:left">BTCB-BUSD LP</td>
+      <td style="text-align:left">WBTC-USDC LP</td>
+      <td style="text-align:left">FBTC-USDC LP</td>
+      <td style="text-align:center">5x</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">9</td>
+      <td style="text-align:left">ETH-BNB LP</td>
+      <td style="text-align:left">WETH-MATIC LP</td>
+      <td style="text-align:left">FETH-FTM LP</td>
+      <td style="text-align:center">5x</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">10</td>
+      <td style="text-align:left">ETH-BUSD LP</td>
+      <td style="text-align:left">WETH-USDC LP</td>
+      <td style="text-align:left">FETH-USDC LP</td>
+      <td style="text-align:center">5x</td>
+    </tr>
+  </tbody>
+</table>
 
