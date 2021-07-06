@@ -89,38 +89,34 @@ Below is the list of farms with **stable-pairs-only** available at launch to ear
     </tr>
     <tr>
       <td style="text-align:center">10</td>
-      <td style="text-align:left">USDC-FUSD LP</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">10x</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">11</td>
       <td style="text-align:left">USDT-USDC LP</td>
       <td style="text-align:center">5x</td>
       <td style="text-align:center">10x</td>
       <td style="text-align:center">-</td>
     </tr>
     <tr>
-      <td style="text-align:center">12</td>
+      <td style="text-align:center">11</td>
       <td style="text-align:left">USDT-DAI LP</td>
       <td style="text-align:center">5x</td>
       <td style="text-align:center">10x</td>
       <td style="text-align:center">-</td>
     </tr>
     <tr>
-      <td style="text-align:center">13</td>
+      <td style="text-align:center">12</td>
       <td style="text-align:left">FUSD-DAI LP</td>
+      <td style="text-align:center">-</td>
+      <td style="text-align:center">-</td>
+      <td style="text-align:center">10x</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">13</td>
+      <td style="text-align:left">FUSD-USDC LP</td>
       <td style="text-align:center">-</td>
       <td style="text-align:center">-</td>
       <td style="text-align:center">10x</td>
     </tr>
   </tbody>
 </table>
-
-\* Polygon \(MATIC\) network has no BUSD so Multipliers are different to make equal ratio of NATIVE and STABLE pairs as on Binance Smart Chain ~ 80/30
-
-\* Fantom network has no BUSD so Multipliers are different to make equal ratio of NATIVE and STABLE 
 
 ## TKENB Farms
 
