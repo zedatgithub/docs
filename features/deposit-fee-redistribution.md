@@ -36,13 +36,14 @@ Every 8 hours \(3 times per day\), at exact UTC hours: 0 AM, 8 AM, 4 PM
 * 20% of collected BUSD/BNB/BTCB/ETH will be distributed in [pools](token-pools.md) as follows:
   * 20% of BUSD will be injected into the [BUSD pool](token-pools.md)
   * 20% of BNB will be injected into the [BNB pool](token-pools.md)
-  * 20% of BTCB will be injected into the [BTCB pool](token-pools.md)
+  * 20% of BTCB will be injected into the [BTC pool](token-pools.md)
   * 20% of ETH will be injected into the [ETH pool](token-pools.md)
 * 40% of the BUSD/BNB/BTCB/ETH will be staked on [Belt.fi](https://belt.fi/bsc) to earn BELT which is used for buybacks
 * 20% of the BUSD/BNB/BTCB/ETH will be sent to developer address for future development
 * all received BELT tokens will be swapped to BUSD and used for TKENB buybacks 
 
-\* on Polygon \(MATIC\) BNB is MATIC, BUSD is USDC, BTCB is WBTC, ETH is WETH
+\* on Polygon \(MATIC\) BNB is MATIC, BUSD is USDC  
+\* on Fantom BNB is FTM, BUSD is USDC
 
 ## Deposit Fee <a id="deposit-fee"></a>
 
