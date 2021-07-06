@@ -1,7 +1,7 @@
 ---
 description: >-
-  Separated Stable & Mixed Yield Farming On Binance Smart Chain and Polygon
-  Chain with own AMM
+  Stable-coin & Mixed Yield Farming On Binance Smart Chain, Polygon and Fantom
+  with own AMM
 ---
 
 # 🏫 Home
@@ -10,11 +10,11 @@ description: >-
 
 ### About TKENA <a id="about-pantherswap"></a>
 
-TKENA is the one **stable-pairs-only** yield farm and AMM decentralized exchange running on Binance Smart Chain and Polygon, featuring Compound LP tokens or in Vault automated, together with lots of other unique and creative features.
+TKENA is the first **stable-pairs-only** yield farm and AMM decentralized exchange running on Binance Smart Chain, Polygon and Fantom, with Yield Farming, Staking, Lottery, multi-chain Bridge, auto-compounding Vaults and more.
 
 ### About TKENB <a id="main-features"></a>
 
-TKENB is the one **mixed-pairs** yield farm and AMM decentralized exchange running on Binance Smart Chain and Polygon, featuring Compound LP tokens or in Vault automated, together with lots of other unique and creative features.
+TKENB is a **mixed-pairs** yield farm and AMM decentralized exchange running on Binance Smart Chain, Polygon and Fantom, with Yield Farming, Staking, Lottery, multi-chain Bridge, auto-compounding Vaults and more.
 
 ## **Main Features** <a id="main-features"></a>
 
