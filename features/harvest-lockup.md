@@ -37,8 +37,8 @@ Below is the list of farms with **stable-pairs-only** available at launch to ear
   <tbody>
     <tr>
       <td style="text-align:center">1</td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">-</td>
+      <td style="text-align:center">-</td>
       <td style="text-align:left">TKENA-BUSD LP</td>
       <td style="text-align:center">20x</td>
       <td style="text-align:center">-</td>
@@ -46,8 +46,8 @@ Below is the list of farms with **stable-pairs-only** available at launch to ear
     </tr>
     <tr>
       <td style="text-align:center">2</td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">1</td>
+      <td style="text-align:center">1</td>
       <td style="text-align:left">TKENA-USDC LP</td>
       <td style="text-align:center">20x</td>
       <td style="text-align:center">27x</td>
@@ -55,35 +55,35 @@ Below is the list of farms with **stable-pairs-only** available at launch to ear
     </tr>
     <tr>
       <td style="text-align:center">3</td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">2</td>
+      <td style="text-align:center">-</td>
       <td style="text-align:left">TKENA-USDT LP</td>
       <td style="text-align:center">20x</td>
       <td style="text-align:center">27x</td>
       <td style="text-align:center">-</td>
     </tr>
     <tr>
-      <td style="text-align:center">4</td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
-      <td style="text-align:left">TKENA-DAI LP</td>
-      <td style="text-align:center">20x</td>
-      <td style="text-align:center">27x</td>
-      <td style="text-align:center">27x</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">5</td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">-</td>
+      <td style="text-align:center">-</td>
+      <td style="text-align:center">2</td>
       <td style="text-align:left">TKENA-FUSD LP</td>
       <td style="text-align:center">-</td>
       <td style="text-align:center">-</td>
       <td style="text-align:center">27x</td>
     </tr>
     <tr>
+      <td style="text-align:center">4</td>
+      <td style="text-align:center">3</td>
+      <td style="text-align:center">3</td>
+      <td style="text-align:left">TKENA-DAI LP</td>
+      <td style="text-align:center">20x</td>
+      <td style="text-align:center">27x</td>
+      <td style="text-align:center">27x</td>
+    </tr>
+    <tr>
       <td style="text-align:center">6</td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">-</td>
+      <td style="text-align:center">-</td>
       <td style="text-align:left">BUSD-USDT LP</td>
       <td style="text-align:center">5x</td>
       <td style="text-align:center">-</td>
@@ -91,8 +91,8 @@ Below is the list of farms with **stable-pairs-only** available at launch to ear
     </tr>
     <tr>
       <td style="text-align:center">7</td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">-</td>
+      <td style="text-align:center">-</td>
       <td style="text-align:left">BUSD-DAI LP</td>
       <td style="text-align:center">5x</td>
       <td style="text-align:center">-</td>
@@ -100,8 +100,8 @@ Below is the list of farms with **stable-pairs-only** available at launch to ear
     </tr>
     <tr>
       <td style="text-align:center">8</td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">-</td>
+      <td style="text-align:center">-</td>
       <td style="text-align:left">USDC-BUSD LP</td>
       <td style="text-align:center">5x</td>
       <td style="text-align:center">-</td>
@@ -109,8 +109,8 @@ Below is the list of farms with **stable-pairs-only** available at launch to ear
     </tr>
     <tr>
       <td style="text-align:center">9</td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">4</td>
+      <td style="text-align:center">4</td>
       <td style="text-align:left">USDC-DAI LP</td>
       <td style="text-align:center">5x</td>
       <td style="text-align:center">10x</td>
@@ -118,8 +118,8 @@ Below is the list of farms with **stable-pairs-only** available at launch to ear
     </tr>
     <tr>
       <td style="text-align:center">10</td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">5</td>
+      <td style="text-align:center">-</td>
       <td style="text-align:left">USDT-USDC LP</td>
       <td style="text-align:center">5x</td>
       <td style="text-align:center">10x</td>
@@ -127,27 +127,27 @@ Below is the list of farms with **stable-pairs-only** available at launch to ear
     </tr>
     <tr>
       <td style="text-align:center">11</td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">6</td>
+      <td style="text-align:center">-</td>
       <td style="text-align:left">USDT-DAI LP</td>
       <td style="text-align:center">5x</td>
       <td style="text-align:center">10x</td>
       <td style="text-align:center">-</td>
     </tr>
     <tr>
-      <td style="text-align:center">12</td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
-      <td style="text-align:left">FUSD-DAI LP</td>
+      <td style="text-align:center">-</td>
+      <td style="text-align:center">-</td>
+      <td style="text-align:center">5</td>
+      <td style="text-align:left">FUSD-USDC LP</td>
       <td style="text-align:center">-</td>
       <td style="text-align:center">-</td>
       <td style="text-align:center">10x</td>
     </tr>
     <tr>
-      <td style="text-align:center">13</td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
-      <td style="text-align:left">FUSD-USDC LP</td>
+      <td style="text-align:center">-</td>
+      <td style="text-align:center">-</td>
+      <td style="text-align:center">6</td>
+      <td style="text-align:left">FUSD-DAI LP</td>
       <td style="text-align:center">-</td>
       <td style="text-align:center">-</td>
       <td style="text-align:center">10x</td>
