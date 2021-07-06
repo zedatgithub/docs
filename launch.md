@@ -15,8 +15,8 @@ New kind of Fair Launch
 * [IFO](features/tkenb-ifo.md) for TKENB will start at block [\#6924000](https://testnet.bscscan.com/block/countdown/6922000) - 3 weeks after initial contracts deployment
 * Emission Rates: 
   * 1 TKENA/block on Binance Smart Chain
-  * 1 TKENA/block on Polygon
-  * 1 TKENA/block on Fantom
+  * 0.6 TKENA/block on Polygon
+  * 0.3 TKENA/block on Fantom
 
 {% hint style="success" %}
 Binance Smart Chain \(BSC\)  
@@ -42,7 +42,7 @@ Fantom
 \* the developer will mine 15,000 TKENA for [locked liquidity](features/locked-liquidity.md) which will be distributed as follows:
 
 * **TKENA-USDC**: 5,000 TKENA - 1,000 USDC
-* **TKENA-USDT**: 5,000 TKENA - 1,000 USDT
+* **TKENA-FUSD**: 5,000 TKENA - 1,000 FUSD
 * **TKENA-DAI**:     5,000 TKENA - 1,000 DAI
 {% endhint %}
 
