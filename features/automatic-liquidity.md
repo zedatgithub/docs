@@ -1,6 +1,6 @@
 # 🏧 Automatic Liquidity
 
-Details about how Automatic Liquidity feature is used are descibed in [Fee/Tax Distribution](deposit-fee-redistribution.md) section. 
+Details about how we automatically provide liquidity to the native token pairs are described in [Fee/Tax Distribution](deposit-fee-redistribution.md) section. 
 
 Basically, for creating, for example, USDC-TKENA LPs, we will use whatever **USDC** we collect from **deposit fees** charged for staking on NON NATIVE farms, while the **TKENA** will come from the **transfer tax**. Therefore, we will not sell NATIVE Tokens at any point.
 
