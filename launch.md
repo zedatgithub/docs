@@ -9,7 +9,7 @@ New kind of Fair Launch
 * No Pre-sale
 * No Pre-mine\*
 * Locked Liquidity
-* All contracts will be deployed with liquidity simultaneously on all chains - Binance Smart Chain, Polygon and Fantom - at block [\#6920000](https://testnet.bscscan.com/block/countdown/6922000) so that community/auditors will have enough time to review the smart contracts and, in case any **High Severity Issues** are to be found, these will be fixed, the new smart contracts will be deployed, and [Bug Bounty](security/bug-bounty.md) rewards will be given.
+* All contracts will be deployed with liquidity simultaneously on all chains - Binance Smart Chain \(BSC\), Polygon and Fantom - at block [\#6920000](https://testnet.bscscan.com/block/countdown/6922000) \(BSC\) so that community/auditors will have enough time to review the smart contracts and, in case any **High Severity Issues** are to be found, these will be fixed, the new smart contracts will be deployed, and [Bug Bounty](security/bug-bounty.md) rewards will be given.
 * TKENA trading will start at block [\#6922000](https://testnet.bscscan.com/block/countdown/6922000) - 1 week after initial contracts deployment
 * Farming will start at block [\#6924000](https://testnet.bscscan.com/block/countdown/6922000) - 2 weeks after initial contracts deployment
 * [IFO](features/tkenb-ifo.md) for TKENB will start at block [\#6924000](https://testnet.bscscan.com/block/countdown/6922000) - 3 weeks after initial contracts deployment
