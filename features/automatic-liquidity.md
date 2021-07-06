@@ -1,6 +1,8 @@
 # 🏧 Automatic Liquidity
 
-We use the Automatic Liquidity feature differently, as explained in [Fee/Tax Distribution](deposit-fee-redistribution.md) section. Basically, for creating USDC-TKENA LPs we use whatever **USDC** we collect from the **deposit fee** charged for staking on NON NATIVE farms, while the **TKENA** will come from the **transfer tax**. Therefore, we will not sell NATIVE Tokens at any point.
+Details about how Automatic Liquidity feature is used are descibed in [Fee/Tax Distribution](deposit-fee-redistribution.md) section. 
+
+Basically, for creating, for example, USDC-TKENA LPs, we will use whatever **USDC** we collect from **deposit fees** charged for staking on NON NATIVE farms, while the **TKENA** will come from the **transfer tax**. Therefore, we will not sell NATIVE Tokens at any point.
 
 So, how is the _Automatic Liquidity_ working for other projects and why it is bad \(as most projects have suffered instead of gaining because of this feature\):
 
