@@ -23,7 +23,7 @@ For each transfer an **8% transfer tax** is charged and sent to [Fee/Tax Distrib
 The transfer tax is applied **only** for transactions involving the TKENB token
 {% endhint %}
 
-## Emission Rate - Binance Smart Chain \(BSC\) <a id="emission-rate"></a>
+## Emission Rate - Binance Smart Chain <a id="emission-rate"></a>
 
 * 1 TKENB / block \* 
 * 28,800 TKENB / day \*\*
@@ -35,7 +35,7 @@ The transfer tax is applied **only** for transactions involving the TKENB token
 * 28,800 TKENB / day \*\*
 * 9.09% of the emission rate will be locked in the Bridge Contract in order to provide liquidity
 
-## Emission Rate - Fantom \(FTM\)
+## Emission Rate - Fantom
 
 * 0.3 TKENA / block \*
 * 28,800 TKENA / day \*\*\*\*
