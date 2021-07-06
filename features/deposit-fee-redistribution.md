@@ -42,8 +42,8 @@ Every 8 hours \(3 times per day\), at exact UTC hours: 0 AM, 8 AM, 4 PM
 * 20% of the BUSD/BNB/BTCB/ETH will be sent to developer address for future development
 * all received BELT tokens will be swapped to BUSD and used for TKENB buybacks 
 
-\* on Polygon \(MATIC\) BNB is MATIC, BUSD is USDC  
-\* on Fantom BNB is FTM, BUSD is USDC
+\* on Polygon \(MATIC\), BNB is MATIC, BUSD is USDC  
+\* on Fantom, BNB is FTM, BUSD is USDC
 
 ## Deposit Fee <a id="deposit-fee"></a>
 
