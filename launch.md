@@ -1,5 +1,5 @@
 ---
-description: 'DEFI - Fair Launch, No Pre-sale, No Pre-mine, Anti-Bot, Anti Whale'
+description: 'Fair Launch, No Pre-sale, No Pre-mine, Anti-Bot, Anti Whale'
 ---
 
 # 🚀 Launch
@@ -20,7 +20,7 @@ New kind of Fair Launch
 
 {% hint style="success" %}
 Binance Smart Chain \(BSC\)  
-\* the developer will mine 20,000 DEFI for [locked liquidity](features/locked-liquidity.md) which will be distributed as follows:
+\* the developer will mine 20,000 TKENA for [locked liquidity](features/locked-liquidity.md) which will be distributed as follows:
 
 * **TKENA-BUSD**: 5,000 TKENA - 1,000 BUSD
 * **TKENA-USDT**: 5,000 TKENA - 1,000 USDT
@@ -30,7 +30,16 @@ Binance Smart Chain \(BSC\)
 
 {% hint style="success" %}
 Polygon \(MATIC\)  
-\* the developer will mine 15,000 DEFI for [locked liquidity](features/locked-liquidity.md) which will be distributed as follows:
+\* the developer will mine 15,000 TKENA for [locked liquidity](features/locked-liquidity.md) which will be distributed as follows:
+
+* **TKENA-USDC**: 5,000 TKENA - 1,000 USDC
+* **TKENA-USDT**: 5,000 TKENA - 1,000 USDT
+* **TKENA-DAI**:     5,000 TKENA - 1,000 DAI
+{% endhint %}
+
+{% hint style="success" %}
+Fantom  
+\* the developer will mine 15,000 TKENA for [locked liquidity](features/locked-liquidity.md) which will be distributed as follows:
 
 * **TKENA-USDC**: 5,000 TKENA - 1,000 USDC
 * **TKENA-USDT**: 5,000 TKENA - 1,000 USDT
@@ -38,7 +47,7 @@ Polygon \(MATIC\)
 {% endhint %}
 
 {% hint style="warning" %}
-LP tokens can be deposited into the farms before farming starts but there will be **no farming rewards** until farming has started. Harvest lookup time countdown will also start when the farming start.
+LP tokens can be deposited into the farms before farming starts but there will be **no farming rewards** until farming starts. Harvest lookup time countdown will also start when the farming starts.
 
 Many projects give superior advantage to early depositors because they will be able to harvest earlier than those how deposited when the farming started. We want to give equal chance to everyone.
 {% endhint %}
