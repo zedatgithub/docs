@@ -1,7 +1,10 @@
 # 🔁 Token Bridge
 
-You can transfer between Binance Smart Chain and Polygon vice versa TKENA and TKENB without any Transfer Tax, liquidity to support this feature is used from from the 9.09% of the emission rate.  
-[Anti Bot](anti-bot.md) and [Anti Whale](anti-whale.md) mesures still apply.
+You can use the Bridge to transfer assets between Binance Smart Chain, Polygon and Fantom networks. Thanks to the bridge you will be able to look for arbitrage opportunities in any of the deployed chains for either the NATIVE tokens or the farming APRs.
 
-* 9.09% instead to go to the dev team we will lock this amount to the to the Bridge Contract
+When transferring TKENA and TKENB the regular Transfer Tax of 8% \(see [Fee/Tax Distribution](deposit-fee-redistribution.md)\) does not apply and will be **0%** instead.
+
+In order to provide liquidity for this feature, **9.09%** of the emission rate is directed to the bridge contract.  
+  
+[Anti Bot](anti-bot.md) and [Anti Whale](anti-whale.md) measures still apply.
 
