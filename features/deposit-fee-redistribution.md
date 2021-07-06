@@ -21,7 +21,7 @@ Every 8 hours \(3 times per day\), at exact UTC hours: 0 AM, 8 AM, 4 PM
   * 20% of DAI will be injected into the [DAI pool](token-pools.md)
 * 40% of the BUSD/USDT/USDC/DAI will be staked on [Belt.fi](https://belt.fi/bsc) to earn BELT which is used for buybacks
 * 20% of the BUSD/USDT/USDC/DAI will be sent to developer address for future development
-* all received BELT tokens will be swapped to BUSD and used for DEFI buybacks 
+* all received BELT tokens will be swapped to BUSD and used for NATIVE tokens buybacks 
 
 ### TKENB Platform
 
