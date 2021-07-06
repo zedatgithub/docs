@@ -47,7 +47,7 @@ Every 8 hours \(3 times per day\), at exact UTC hours: 0 AM, 8 AM, 4 PM
 
 ## Deposit Fee <a id="deposit-fee"></a>
 
-When staking into a NON NATIVE farm, a **4% deposit fee** will be charged. When **compounding** on a NON NATIVE farm the deposit fee will be reduced to **2%**. The deposit fee for for **native farms** is **0**.
+When staking into a NON NATIVE farm, a **4% deposit fee** will be charged. When **compounding** on a NON NATIVE farm the deposit fee will be reduced to **2%**. The deposit fee for for **native farms** is **0%**.
 
 ## AMM Trading Fee <a id="trading-fee"></a>
 
@@ -58,6 +58,6 @@ For each trade on the AMM, a **0.2% trading fee** is charged.
 For each transfer **8% transfer tax** is charged.
 
 {% hint style="info" %}
-The transfer tax is applies **only** for transactions involving the NATIVE Tokens
+The transfer tax applies **only** for transactions involving the NATIVE Tokens
 {% endhint %}
 
