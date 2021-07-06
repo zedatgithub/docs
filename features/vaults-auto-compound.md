@@ -75,5 +75,5 @@ Our vaults regularly harvest rewards, sell it, buy more of the LP’s underlying
 
 ## **How often are balances updated in the vaults?** <a id="how-often-are-balances-updated-in-the-vaults"></a>
 
-* Every time somebody collects the Bounty, or when the Automatic compounding feature runs \(4 times per day\)
+* Every time somebody collects the Bounty, or when the Automatic compounding feature runs \(3 times per day\)
 
