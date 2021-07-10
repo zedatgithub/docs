@@ -10,7 +10,7 @@
 * [🐋 Anti Whale](features/anti-whale.md)
 * [🚜 Farms](features/harvest-lockup.md)
 * [🌾 Pools](features/token-pools.md)
-* [💵 Vaults Auto Compound](features/vaults-auto-compound.md)
+* [💵 Auto Compounding Vaults](features/vaults-auto-compound.md)
 * [⏳ Harvest Lockup](features/harvest-lockup-1.md)
 * [🚜 Farms & Pools Compound](features/farms-pools-compound.md)
 * [🏧 Automatic Liquidity](features/automatic-liquidity.md)

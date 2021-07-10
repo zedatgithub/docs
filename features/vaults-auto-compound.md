@@ -1,8 +1,8 @@
-# 💵 Vaults Auto Compound
+# 💵 Auto Compounding Vaults
 
-## What is a Vault? <a id="what-is-a-vault"></a>
+## What are the Vaults? <a id="what-is-a-vault"></a>
 
-Vaults are investment instruments making use of automation to continually reinvest deposited funds, which help to achieve high levels of compounded interest. You earn more of the asset you stake in it regardless if this is an liquidity pool \(LP\) token or a single asset. For example, vaults where one can stake USDC-USDT LP will result in more USDC-USDT LP over time, effectively growing your share in the vault and thus allowing for more and more rewards over time.
+Vaults are investment instruments making use of automation to continually reinvest deposited funds, helping you achieve high levels of compounded interest and earning you more of the staked assets. For example, vaults where one staked USDC-USDT LPs will result in more USDC-USDT LPs over time, effectively growing your share in the vault and thus allowing for more and more rewards over time.
 
 When browsing the vaults on the platform, you will see the annual percentage yield \(APY\), which takes the frequent compounding into consideration compared to annual percentage rate \(APR\) which does not.
 
@@ -12,11 +12,11 @@ Summarizing, vaults can:
 * Use any asset as liquidity
 * Put any asset to work to generate a yield
 * Reinvest earned profits
-* Stake your NATIVE Tokens or LP Tokens and forget about it - the NATIVE or LP Tokens you stake in this Vaults will be automatically compounded \(reinvested\) for you for a small fee
-* The “automatic” compounding function is triggered by other users who get a small bounty for triggering it
-* Interest is displayed as APY, which includes compounding
+* The assets staked in the Vaults will automatically be compounded \(reinvested\) for you for a small fee
+* The compounding function is triggered by other users who get a small bounty for triggering it, and also automatically, a few times per day
+* Interest is displayed as APY, which takes into account the continual compounding
 * A small performance fee is subtracted from your earnings each time the pool is automatically compounded \(see below\)
-* An unstaking fee applies when you unstake within 48 hours of manually staking \(see below\)
+* An unstaking fee applies when you unstake within 48 hours after a manual staking \(see below\)
 
 ## What are the fees for the Vaults? <a id="what-are-the-fees-for-the-auto-cake-syrup-pool"></a>
 
