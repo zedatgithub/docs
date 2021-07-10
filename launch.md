@@ -9,17 +9,18 @@ New kind of Fair Launch
 * No Pre-sale
 * No Pre-mine\*
 * Locked Liquidity
-* All contracts will be deployed with liquidity simultaneously on all chains - Binance Smart Chain \(BSC\), Polygon and Fantom - at block [\#6920000](https://testnet.bscscan.com/block/countdown/6922000) \(BSC\) so that community/auditors will have enough time to review the smart contracts and, in case any **High Severity Issues** are to be found, these will be fixed, the new smart contracts will be deployed, and [Bug Bounty](security/bug-bounty.md) rewards will be given.
+* All contracts will be deployed with liquidity simultaneously on all chains - Binance Smart Chain \(BSC\), Heco, Polygon and Fantom - at block [\#6920000](https://testnet.bscscan.com/block/countdown/6922000) \(BSC\) so that community/auditors will have enough time to review the smart contracts and, in case any **High Severity Issues** are to be found, these will be fixed, the new smart contracts will be deployed, and [Bug Bounty](security/bug-bounty.md) rewards will be given.
 * TKENA trading will start at block [\#6922000](https://testnet.bscscan.com/block/countdown/6922000) - 1 week after initial contracts deployment
 * Farming will start at block [\#6924000](https://testnet.bscscan.com/block/countdown/6922000) - 2 weeks after initial contracts deployment
 * [IFO](features/tkenb-ifo.md) for TKENB will start at block [\#6924000](https://testnet.bscscan.com/block/countdown/6922000) - 3 weeks after initial contracts deployment
-* Emission Rates: 
+* Emission Rates:
   * 1 TKENA/block on Binance Smart Chain
+  * 1 TKENA/block on Heco
   * 0.6 TKENA/block on Polygon
   * 0.3 TKENA/block on Fantom
 
 {% hint style="success" %}
-Binance Smart Chain \(BSC\)  
+Binance Smart Chain \(BSC\)
 \* the developer will mine 20,000 TKENA for [locked liquidity](features/locked-liquidity.md) which will be distributed as follows:
 
 * **TKENA-BUSD**: 5,000 TKENA - 1,000 BUSD
@@ -29,7 +30,17 @@ Binance Smart Chain \(BSC\)
 {% endhint %}
 
 {% hint style="success" %}
-Polygon \(MATIC\)  
+Heco \(Huobi\)
+\* the developer will mine 20,000 TKENA for [locked liquidity](features/locked-liquidity.md) which will be distributed as follows:
+
+* **TKENA-BUSD**: 5,000 TKENA - 1,000 HUSD
+* **TKENA-USDT**: 5,000 TKENA - 1,000 USDT
+* **TKENA-USDC**: 5,000 TKENA - 1,000 USDC
+* **TKENA-DAI**:     5,000 TKENA - 1,000 DAI
+{% endhint %}
+
+{% hint style="success" %}
+Polygon \(MATIC\)
 \* the developer will mine 15,000 TKENA for [locked liquidity](features/locked-liquidity.md) which will be distributed as follows:
 
 * **TKENA-USDC**: 5,000 TKENA - 1,000 USDC
@@ -38,10 +49,11 @@ Polygon \(MATIC\)
 {% endhint %}
 
 {% hint style="success" %}
-Fantom  
+Fantom
 \* the developer will mine 15,000 TKENA for [locked liquidity](features/locked-liquidity.md) which will be distributed as follows:
 
 * **TKENA-USDC**: 5,000 TKENA - 1,000 USDC
+* **TKENA-FUSDT**: 5,000 TKENA - 1,000 FUSDT
 * **TKENA-FUSD**: 5,000 TKENA - 1,000 FUSD
 * **TKENA-DAI**:     5,000 TKENA - 1,000 DAI
 {% endhint %}
@@ -57,4 +69,3 @@ Many projects give superior advantage to early depositors because they will be a
 ​
 
 ​
-

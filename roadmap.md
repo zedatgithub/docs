@@ -2,12 +2,12 @@
 
 ## Launch <a id="launch"></a>
 
-* Simultaneous token launch on 3 networks: Binance Smart Chain, Polygon and Fantom
+* Simultaneous token launch on 4 networks: Binance Smart Chain, Heco Polygon and Fantom
 * Farms with compound feature
 * Pools with compound feature
 * Vaults with automated compound
 * Lottery
-* Cross transfer/exchange between Binance Smart Chain, Polygon and Fantom
+* Cross transfer/exchange between Binance Smart Chain, Heco, Polygon and Fantom
 * Referrals
 * AMM
 * IFO
@@ -25,4 +25,3 @@
 * Binary Options
 
 ​
-
