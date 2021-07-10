@@ -19,8 +19,7 @@ Instead we decided to use all of the **0.2% trading fee** which is sent to [Fee/
 
 * Binance Smart Chain, Heco, Polygon and Fantom contract can be found in the [Contracts](../tokenomics/contracts.md) section.
 
-The Factory & Router smart contracts are the same as PancakeSwap's.
-The only things we changed in these two contracts are:
+The Factory & Router smart contracts are the same as PancakeSwap's. The only things we changed in these two contracts are:
 
 * "pancake" to "DXAMM"
 * treasury fee from **0.03%** to **0.20%**, sent to [Fee/Tax Distribution](deposit-fee-redistribution.md) in Factory \(the **0.17%** fee sent to liquidity providers will automatically become **0** because of the way the contract is coded\)
@@ -51,3 +50,4 @@ For each trade a **0.2% trading fee** is charged and sent to [Fee/Tax Distributi
 ​
 
 ​
+

@@ -20,8 +20,7 @@ New kind of Fair Launch
   * 0.3 TKENA/block on Fantom
 
 {% hint style="success" %}
-Binance Smart Chain \(BSC\)
-\* the developer will mine 20,000 TKENA for [locked liquidity](features/locked-liquidity.md) which will be distributed as follows:
+Binance Smart Chain \(BSC\) \* the developer will mine 20,000 TKENA for [locked liquidity](features/locked-liquidity.md) which will be distributed as follows:
 
 * **TKENA-BUSD**: 5,000 TKENA - 1,000 BUSD
 * **TKENA-USDT**: 5,000 TKENA - 1,000 USDT
@@ -30,8 +29,7 @@ Binance Smart Chain \(BSC\)
 {% endhint %}
 
 {% hint style="success" %}
-Heco \(Huobi\)
-\* the developer will mine 20,000 TKENA for [locked liquidity](features/locked-liquidity.md) which will be distributed as follows:
+Heco \(Huobi\) \* the developer will mine 20,000 TKENA for [locked liquidity](features/locked-liquidity.md) which will be distributed as follows:
 
 * **TKENA-BUSD**: 5,000 TKENA - 1,000 HUSD
 * **TKENA-USDT**: 5,000 TKENA - 1,000 USDT
@@ -40,8 +38,7 @@ Heco \(Huobi\)
 {% endhint %}
 
 {% hint style="success" %}
-Polygon \(MATIC\)
-\* the developer will mine 15,000 TKENA for [locked liquidity](features/locked-liquidity.md) which will be distributed as follows:
+Polygon \(MATIC\) \* the developer will mine 15,000 TKENA for [locked liquidity](features/locked-liquidity.md) which will be distributed as follows:
 
 * **TKENA-USDC**: 5,000 TKENA - 1,000 USDC
 * **TKENA-USDT**: 5,000 TKENA - 1,000 USDT
@@ -49,8 +46,7 @@ Polygon \(MATIC\)
 {% endhint %}
 
 {% hint style="success" %}
-Fantom
-\* the developer will mine 20,000 TKENA for [locked liquidity](features/locked-liquidity.md) which will be distributed as follows:
+Fantom \* the developer will mine 20,000 TKENA for [locked liquidity](features/locked-liquidity.md) which will be distributed as follows:
 
 * **TKENA-USDC**: 5,000 TKENA - 1,000 USDC
 * **TKENA-FUSDT**: 5,000 TKENA - 1,000 FUSDT
@@ -69,3 +65,4 @@ Many projects give superior advantage to early depositors because they will be a
 ​
 
 ​
+

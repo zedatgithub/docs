@@ -19,9 +19,8 @@ Every 8 hours \(3 times per day\), at exact UTC hours: 0 AM, 8 AM, 4 PM
   * 20% of USDT will be injected into the [USDT pool](token-pools.md)
   * 20% of USDC will be injected into the [USDC pool](token-pools.md)
   * 20% of DAI will be injected into the [DAI pool](token-pools.md)
-* 40% of the BUSD/USDT/USDC/DAI will be staked on [Belt.fi](https://belt.fi/bsc) to earn BELT which is used for buybacks
+* 40% of the BUSD/USDT/USDC/DAI used to add liqudity to AMM and [locked](locked-liquidity.md)
 * 20% of the BUSD/USDT/USDC/DAI will be sent to developer address for future development
-* all received BELT tokens will be swapped to BUSD and used for NATIVE tokens buybacks
 
 ### TKENB Platform
 
@@ -38,12 +37,12 @@ Every 8 hours \(3 times per day\), at exact UTC hours: 0 AM, 8 AM, 4 PM
   * 20% of BNB will be injected into the [BNB pool](token-pools.md)
   * 20% of BTCB will be injected into the [BTC pool](token-pools.md)
   * 20% of ETH will be injected into the [ETH pool](token-pools.md)
-* 40% of the BUSD/BNB/BTCB/ETH will be staked on [Belt.fi](https://belt.fi/bsc) to earn BELT which is used for buybacks
+* 40% of the BUSD/BNB/BTCB/ETH used to add liqudity to AMM  and [locked](locked-liquidity.md)
 * 20% of the BUSD/BNB/BTCB/ETH will be sent to developer address for future development
 * all received BELT tokens will be swapped to BUSD and used for TKENB buybacks
 
-\* on Heco, BNB is HT, BUSD is HUSD
-\* on Polygon \(MATIC\), BNB is MATIC, BUSD is USDC
+\* on Heco, BNB is HT, BUSD is HUSD   
+\* on Polygon \(MATIC\), BNB is MATIC, BUSD is USDC   
 \* on Fantom, BNB is FTM, BUSD is FSUD
 
 ## Deposit Fee <a id="deposit-fee"></a>
@@ -61,3 +60,4 @@ For each transfer, an **8% transfer tax** is charged.
 {% hint style="info" %}
 The transfer tax applies **only** for transactions involving the NATIVE Tokens
 {% endhint %}
+

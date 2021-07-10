@@ -1,7 +1,7 @@
 ---
 description: >-
-  Stable & Mixed-coin Yield Farming On Binance Smart Chain, Heco, Polygon and Fantom
-  with own AMM
+  Stable & Mixed-coin Yield Farming On Binance Smart Chain, Heco, Polygon and
+  Fantom with own AMM
 ---
 
 # 🏫 Home
@@ -38,3 +38,4 @@ TKENB will be available after IFO, one week after farming for TKENA has started.
 * [Anti Whale](features/anti-whale.md) mechanism preventing Whales from quickly buying/selling large amounts \(pump & dump\)
 * [No Migrator Code](security/no-migrator-code.md)
 * [Timelock](security/timelock.md)
+
