@@ -4,27 +4,12 @@
 
 | **Contract/Network** | Address |
 | :--- | :--- |
-| ◼️ **TKENA TOKEN** |  |
-| Binance Smart Chain | 0x8b8064eaf7f00410b274cec95bb02b2cfcbdaac7 |
-| Polygon | 0x1398c4b1180b46090f663d6997a66708f3c2dd60 |
-| Fantom |  |
-| ◼️ **TKENB TOKEN** |  |
-| Binance Smart Chain | 0xb7f98f4f15471e48d64a74bb8349a8b8dbb45916 |
-| Polygon | 0xfd001f8e8324a669254fbcbacf2a4de9cb786acb |
-| Fantom |  |
-| ◼️ **TKENA MASTERCHEF** |  |
-| Binance Smart Chain | 0x0b0b1a3d25a51ae82dea87877821cde4ca160ccc |
-| Polygon | 0x242ae3b958b9bcd5930bc377b7953d3b7181f440 |
-| Fantom |  |
-| ◼️ **TKENB MASTERCHEF** |  |
-| Binance Smart Chain | 0x699e2fdede6a3b130766af1580485e8ac2e85289 |
-| Polygon | 0x05f5066529ee6663d6a1ad5073e0019053e3416c |
-| Fantom |  |
-| ◼️ **TKENA REFERRAL** |  |
-| Binance Smart Chain | 0xfdbb8a63d2964ae14b5a43a7bd9d9b0c556d3567 |
-| Polygon | 0xac15819cc849499ad110e33eeb5ed7688b0e6807 |
-| Fantom |  |
-| ◼️ **TKENB REFERRAL** |  |
+| ◼️ **TKENA TOKEN** | 0xe |
+| ◼️ **TKENB TOKEN** | 0xe |
+| ◼️ **TKENA MASTERCHEF** | 0xe |
+| ◼️ **TKENB MASTERCHEF** | 0xe |
+| ◼️ **TKENA REFERRAL** | 0xe |
+| ◼️ **TKENB REFERRAL** | 0xe |
 | Binance Smart Chain | 0xa2e972d0b5fd0c6abc963b0dcdd827c09c399017 |
 | Polygon | 0x82e0cb4300fcdff842e6e1c7861eafd27fa3a175 |
 | Fantom |  |

@@ -8,11 +8,7 @@ description: farming token used for stable pairs only
 
 * Name: TKENA Token
 * Symbol: TKENA
-* Contract address:
-  * 0x \(Binance Smart Chain\)
-  * 0x \(Heco\)
-  * 0x \(Polygon\)
-  * 0x \(Fantom\)
+* Contract address can be found in [Contracts](contracts.md)
 * Max Supply: Unlimited
 
 ## Transfer Tax <a id="transfer-tax"></a>
