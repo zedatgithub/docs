@@ -9,7 +9,7 @@ New kind of Fair Launch
 * No Pre-sale
 * No Pre-mine\*
 * Locked Liquidity
-* All contracts will be deployed with liquidity simultaneously on all chains - Binance Smart Chain \(BSC\), Heco, Polygon and Fantom start block can be viewed in [countdown](countdown.md) section\(BSC\) so that community/auditors will have enough time to review the smart contracts and, in case any **High Severity Issues** are to be found, these will be fixed, the new smart contracts will be deployed, and [Bug Bounty](security/bug-bounty.md) rewards will be given.
+* All contracts will be deployed with liquidity simultaneously on all chains - Binance Smart Chain, Heco, Polygon and Fantom start block can be viewed in [countdown](countdown.md) section so that community/auditors will have enough time to review the smart contracts and, in case any **High Severity Issues** are to be found, these will be fixed, the new smart contracts will be deployed, and [Bug Bounty](security/bug-bounty.md) rewards will be given.
 * TKENA trading [countdown](countdown.md) - 1 week after initial contracts deployment
 * Farming [countdown](countdown.md) - 2 weeks after initial contracts deployment
 * [IFO](features/tkenb-ifo.md) for TKENB [countdown](countdown.md) - 3 weeks after initial contracts deployment
@@ -18,7 +18,7 @@ New kind of Fair Launch
   * [TKENB](tokenomics/tkena.md)
 
 {% hint style="success" %}
-Binance Smart Chain \(BSC\) \* the developer will mine 20,000 TKENA for [locked liquidity](features/locked-liquidity.md) which will be distributed as follows:
+Binance Smart Chain \* the developer will mine 20,000 TKENA for [locked liquidity](features/locked-liquidity.md) which will be distributed as follows:
 
 * **TKENA-BUSD**: 5,000 TKENA - 1,000 BUSD
 * **TKENA-USDT**: 5,000 TKENA - 1,000 USDT
