@@ -22,6 +22,10 @@ Every 8 hours \(3 times per day\), at exact UTC hours: 0 AM, 8 AM, 4 PM
 * 40% of the BUSD/USDT/USDC/DAI used to add liqudity to AMM and [locked](locked-liquidity.md)
 * 20% of the BUSD/USDT/USDC/DAI will be sent to developer address for future development
 
+\* on Heco, HUSD instead BUSD  
+\* on Polygon \(MATIC\), BUSD is not available  
+\* on Fantom FUSD instead BUSD
+
 ### TKENB Platform
 
 * 30% of collected TKENB will be injected into the [Lottery](lottery.md)
@@ -29,25 +33,27 @@ Every 8 hours \(3 times per day\), at exact UTC hours: 0 AM, 8 AM, 4 PM
 * 20% of collected TKENB will be distributed in [Automatic Liquidity](automatic-liquidity.md) as follows:
   * 20% of collected BUSD and TKENB  used to [add liquidity](automatic-liquidity.md) TKENB-BUSD and [locked](locked-liquidity.md)
   * 20% of collected BNB and TKENB  used to [add liquidity](automatic-liquidity.md) TKENB-BNB and [locked](locked-liquidity.md)
-  * 20% of collected BTCB and TKENB  used to [add liquidity](automatic-liquidity.md) TKENB-BTCB and [locked](locked-liquidity.md)
+  * 20% of collected BTC and TKENB  used to [add liquidity](automatic-liquidity.md) TKENB-BTC and [locked](locked-liquidity.md)
   * 20% of collected ETH and TKENB used to [add liquidity](automatic-liquidity.md) TKENB-ETH and [locked](locked-liquidity.md)
 * 20% of collected TKENB will be injected into the TKENB Pool on TKENA Platform
-* 20% of collected BUSD/BNB/BTCB/ETH will be distributed in [pools](token-pools.md) as follows:
+* 20% of collected BUSD/BNB/BTC/ETH will be distributed in [pools](token-pools.md) as follows:
   * 20% of BUSD will be injected into the [BUSD pool](token-pools.md)
   * 20% of BNB will be injected into the [BNB pool](token-pools.md)
-  * 20% of BTCB will be injected into the [BTC pool](token-pools.md)
+  * 20% of BTC will be injected into the [BTC pool](token-pools.md)
   * 20% of ETH will be injected into the [ETH pool](token-pools.md)
 * 40% of the BUSD/BNB/BTCB/ETH used to add liqudity to AMM  and [locked](locked-liquidity.md)
 * 20% of the BUSD/BNB/BTCB/ETH will be sent to developer address for future development
 * all received BELT tokens will be swapped to BUSD and used for TKENB buybacks
 
-\* on Heco, BNB is HT, BUSD is HUSD   
-\* on Polygon \(MATIC\), BNB is MATIC, BUSD is USDC   
-\* on Fantom, BNB is FTM, BUSD is FSUD
+\* on Heco, HT instead BNB , USDT instead BUSD  
+\* on Polygon \(MATIC\), MATIC instead BNB, USDC instead BUSD  
+\* on Fantom, FTM instead BNB, USDC instead BUSD
 
 ## Deposit Fee <a id="deposit-fee"></a>
 
-When staking into a NON NATIVE farm, a **4% deposit fee** will be charged. When **compounding** on a NON NATIVE farm the deposit fee will be reduced to **2%**. The deposit fee for for **native farms** is **0%**.
+When staking into a NON NATIVE farm, a **4% deposit fee** will be charged.   
+When **compounding** on a NON NATIVE farm the deposit fee will be reduced to **2%**.   
+The deposit fee for for **native farms** is **0%**.
 
 ## AMM Trading Fee <a id="trading-fee"></a>
 
