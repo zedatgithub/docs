@@ -24,7 +24,7 @@ Every 8 hours \(3 times per day\), at exact UTC hours: 0 AM, 8 AM, 4 PM
 
 \* on Heco, HUSD instead BUSD  
 \* on Polygon \(MATIC\), BUSD is not available  
-\* on Fantom FUSD instead BUSD
+\* on Fantom, FUSD instead BUSD, FUSDT instead USDT
 
 ### TKENB Platform
 

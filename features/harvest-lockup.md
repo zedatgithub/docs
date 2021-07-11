@@ -9,246 +9,113 @@ Below is the list of farms with **stable-pairs-only** available at launch to ear
     <tr>
       <th style="text-align:center">
         <p>Farm ID</p>
-        <p>(BSC)</p>
+        <p>BSC/Heco/Fantom</p>
       </th>
-      <th style="text-align:center">
-        <p>Farm ID</p>
-        <p>(Polygon)</p>
-      </th>
-      <th style="text-align:center">
-        <p>Farm ID</p>
-        <p>(Fantom)</p>
-      </th>
+      <th style="text-align:center">Farm ID
+        <br />Polygon</th>
       <th style="text-align:left">LP</th>
-      <th style="text-align:center">
-        <p>Multiplier</p>
-        <p>(BSC)</p>
-      </th>
-      <th style="text-align:center">
-        <p>Multiplier</p>
-        <p>(Polygon)</p>
-      </th>
-      <th style="text-align:center">
-        <p>Multiplier</p>
-        <p>(Fantom)</p>
-      </th>
+      <th style="text-align:center">Multiplier
+        <br />BSC/Heco/Fantom</th>
+      <th style="text-align:center">Multiplier
+        <br />Polygon</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:center">1</td>
       <td style="text-align:center">-</td>
-      <td style="text-align:center">-</td>
       <td style="text-align:left">TKENA-BUSD LP</td>
       <td style="text-align:center">20x</td>
-      <td style="text-align:center">-</td>
       <td style="text-align:center">-</td>
     </tr>
     <tr>
       <td style="text-align:center">2</td>
-      <td style="text-align:center">1</td>
       <td style="text-align:center">1</td>
       <td style="text-align:left">TKENA-USDC LP</td>
       <td style="text-align:center">20x</td>
       <td style="text-align:center">27x</td>
-      <td style="text-align:center">27x</td>
     </tr>
     <tr>
       <td style="text-align:center">3</td>
       <td style="text-align:center">2</td>
-      <td style="text-align:center">-</td>
       <td style="text-align:left">TKENA-USDT LP</td>
       <td style="text-align:center">20x</td>
-      <td style="text-align:center">27x</td>
-      <td style="text-align:center">-</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">2</td>
-      <td style="text-align:left">TKENA-FUSD LP</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">-</td>
       <td style="text-align:center">27x</td>
     </tr>
     <tr>
       <td style="text-align:center">4</td>
-      <td style="text-align:center">3</td>
       <td style="text-align:center">3</td>
       <td style="text-align:left">TKENA-DAI LP</td>
       <td style="text-align:center">20x</td>
       <td style="text-align:center">27x</td>
-      <td style="text-align:center">27x</td>
     </tr>
     <tr>
-      <td style="text-align:center">6</td>
-      <td style="text-align:center">-</td>
+      <td style="text-align:center">5</td>
       <td style="text-align:center">-</td>
       <td style="text-align:left">BUSD-USDT LP</td>
       <td style="text-align:center">5x</td>
       <td style="text-align:center">-</td>
-      <td style="text-align:center">-</td>
     </tr>
     <tr>
-      <td style="text-align:center">7</td>
-      <td style="text-align:center">-</td>
+      <td style="text-align:center">6</td>
       <td style="text-align:center">-</td>
       <td style="text-align:left">BUSD-DAI LP</td>
       <td style="text-align:center">5x</td>
       <td style="text-align:center">-</td>
-      <td style="text-align:center">-</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">7</td>
+      <td style="text-align:center">4</td>
+      <td style="text-align:left">USDT-USDC LP</td>
+      <td style="text-align:center">5x</td>
+      <td style="text-align:center">10x</td>
     </tr>
     <tr>
       <td style="text-align:center">8</td>
-      <td style="text-align:center">-</td>
+      <td style="text-align:center">5</td>
+      <td style="text-align:left">USDT-DAI LP</td>
+      <td style="text-align:center">5x</td>
+      <td style="text-align:center">10x</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">9</td>
       <td style="text-align:center">-</td>
       <td style="text-align:left">USDC-BUSD LP</td>
       <td style="text-align:center">5x</td>
       <td style="text-align:center">-</td>
-      <td style="text-align:center">-</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">9</td>
-      <td style="text-align:center">4</td>
-      <td style="text-align:center">4</td>
-      <td style="text-align:left">USDC-DAI LP</td>
-      <td style="text-align:center">5x</td>
-      <td style="text-align:center">10x</td>
-      <td style="text-align:center">10x</td>
     </tr>
     <tr>
       <td style="text-align:center">10</td>
-      <td style="text-align:center">5</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:left">USDT-USDC LP</td>
-      <td style="text-align:center">5x</td>
-      <td style="text-align:center">10x</td>
-      <td style="text-align:center">-</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">11</td>
       <td style="text-align:center">6</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:left">USDT-DAI LP</td>
+      <td style="text-align:left">USDC-DAI LP</td>
       <td style="text-align:center">5x</td>
-      <td style="text-align:center">10x</td>
-      <td style="text-align:center">-</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">5</td>
-      <td style="text-align:left">FUSD-USDC LP</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">10x</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">6</td>
-      <td style="text-align:left">FUSD-DAI LP</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">-</td>
       <td style="text-align:center">10x</td>
     </tr>
   </tbody>
 </table>
+
+\* on Heco, HUSD instead BUSD  
+\* on Polygon \(MATIC\), BUSD is not available  
+\* on Fantom, FUSD instead BUSD, FUSDT instead USDT
 
 ## TKENB Farms
 
 Below is the list of farms with **mixed-pairs** available after the [TKENB IFO](tkenb-ifo.md), on all networks
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:center">Farm ID</th>
-      <th style="text-align:left">
-        <p>LP</p>
-        <p>(BSC)</p>
-      </th>
-      <th style="text-align:left">
-        <p>LP</p>
-        <p>(Polygon)</p>
-      </th>
-      <th style="text-align:left">
-        <p>LP</p>
-        <p>(Fantom)</p>
-      </th>
-      <th style="text-align:center">Multiplier</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:center">1</td>
-      <td style="text-align:left">TKENB-BUSD LP</td>
-      <td style="text-align:left">TKENB-USDC LP</td>
-      <td style="text-align:left">TKENB-USDC LP</td>
-      <td style="text-align:center">20x</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">2</td>
-      <td style="text-align:left">TKENB-BNB LP</td>
-      <td style="text-align:left">TKENB-MATIC LP</td>
-      <td style="text-align:left">TKENB-FTM LP</td>
-      <td style="text-align:center">20x</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">3</td>
-      <td style="text-align:left">TKENB-BTC LP</td>
-      <td style="text-align:left">TKENB-BTC LP</td>
-      <td style="text-align:left">TKENB-BTC LP</td>
-      <td style="text-align:center">20x</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">4</td>
-      <td style="text-align:left">TKENB-ETH LP</td>
-      <td style="text-align:left">TKENB-ETH LP</td>
-      <td style="text-align:left">TKENB-ETH LP</td>
-      <td style="text-align:center">20x</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">5</td>
-      <td style="text-align:left">BNB-BTC LP</td>
-      <td style="text-align:left">MATIC-BTC LP</td>
-      <td style="text-align:left">FTM-BTC LP</td>
-      <td style="text-align:center">5x</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">6</td>
-      <td style="text-align:left">BNB-BUSD LP</td>
-      <td style="text-align:left">MATIC-USDC LP</td>
-      <td style="text-align:left">FTM-USDC LP</td>
-      <td style="text-align:center">5x</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">7</td>
-      <td style="text-align:left">BTC-ETH LP</td>
-      <td style="text-align:left">BTC-ETH LP</td>
-      <td style="text-align:left">BTC-ETH LP</td>
-      <td style="text-align:center">5x</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">8</td>
-      <td style="text-align:left">BTC-BUSD LP</td>
-      <td style="text-align:left">BTC-USDC LP</td>
-      <td style="text-align:left">BTC-USDC LP</td>
-      <td style="text-align:center">5x</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">9</td>
-      <td style="text-align:left">ETH-BNB LP</td>
-      <td style="text-align:left">ETH-MATIC LP</td>
-      <td style="text-align:left">ETH-FTM LP</td>
-      <td style="text-align:center">5x</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">10</td>
-      <td style="text-align:left">ETH-BUSD LP</td>
-      <td style="text-align:left">ETH-USDC LP</td>
-      <td style="text-align:left">ETH-USDC LP</td>
-      <td style="text-align:center">5x</td>
-    </tr>
-  </tbody>
-</table>
+| Farm  ID | LP | Multiplier |
+| :---: | :--- | :---: |
+| 1 | TKENB-BUSD LP | 20x |
+| 2 | TKENB-BNB LP | 20x |
+| 3 | TKENB-BTC LP | 20x |
+| 4 | TKENB-ETH LP | 20x |
+| 5 | BNB-BTC LP | 5x |
+| 6 | BNB-BUSD LP | 5x |
+| 7 | BTC-ETH LP | 5x |
+| 8 | BTC-BUSD LP | 5x |
+| 9 | ETH-BNB LP | 5x |
+| 10 | ETH-BUSD LP | 5x |
+
+\* on Heco, HT instead BNB , USDT instead BUSD  
+\* on Polygon \(MATIC\), MATIC instead BNB, USDC instead BUSD  
+\* on Fantom, FTM instead BNB, USDC instead BUSD
 
