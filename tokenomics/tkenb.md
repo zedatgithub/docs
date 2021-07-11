@@ -9,7 +9,7 @@ description: farming token used for mixed pairs
 * Available only after [IFO](../features/tkenb-ifo.md)
 * Name: TKENB Token
 * Symbol: TKENB
-* Contract address can be found in [Contracts](contracts.md)
+* Contract address can be found in [Contracts](contracts.md) section
 * Max Supply: Unlimited
 
 ## Transfer Tax <a id="transfer-tax"></a>

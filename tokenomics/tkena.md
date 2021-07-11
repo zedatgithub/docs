@@ -8,7 +8,7 @@ description: farming token used for stable pairs only
 
 * Name: TKENA Token
 * Symbol: TKENA
-* Contract address can be found in [Contracts](contracts.md)
+* Contract address can be found in [Contracts](contracts.md) section
 * Max Supply: Unlimited
 
 ## Transfer Tax <a id="transfer-tax"></a>
