@@ -22,8 +22,7 @@ Additionally to the jackpot, users that match 2 or 3 numbers in the correct orde
 \( \* the pot is split when there are more winners \)
 
 {% hint style="warning" %}
-If there are no winners in a category, the pot allocated to the respective category will also be
-[🔥BURNED🔥](https://testnet.bscscan.com/token/0x8a5a76401ada8998603d982d8343752fec75972b?a=0x000000000000000000000000000000000000dEaD)
+If there are no winners in a category, the pot allocated to the respective category will also be [🔥BURNED🔥](https://testnet.bscscan.com/token/0x8a5a76401ada8998603d982d8343752fec75972b?a=0x000000000000000000000000000000000000dEaD)
 {% endhint %}
 
 ## Examples of tickets
@@ -68,3 +67,4 @@ The lottery aims to be completely random. Even though the ticket numbers given o
 * The 2nd lottery number will be determined based on the %10 remainders of a hash encoded by the blockhash and the total pooled NATIVE Token balance at the entry deadline.
 * The 3rd lottery number will be determined based on the %10 remainders of a hash encoded by the blockhash and the timestamp of the last lottery participant at the entry deadline.
 * The 4th lottery number will be determined based on the %10 remainders of a hash encoded by the blockhash and the block difficulty at the entry deadline.
+

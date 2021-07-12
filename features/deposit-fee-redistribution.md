@@ -22,9 +22,7 @@ Every 8 hours \(3 times per day\), at exact GMT hours: 0 AM, 8 AM, 4 PM
 * 40% of the BUSD/USDT/USDC/DAI used to add liqudity to AMM and [locked](locked-liquidity.md)
 * 20% of the BUSD/USDT/USDC/DAI will be sent to developer address for future development
 
-\* on Heco, HUSD instead BUSD
-\* on Polygon \(MATIC\), BUSD is not available
-\* on Fantom, FUSD instead BUSD, FUSDT instead USDT
+\* on Heco, HUSD instead BUSD \* on Polygon \(MATIC\), BUSD is not available \* on Fantom, FUSD instead BUSD, FUSDT instead USDT
 
 ### TKENB Platform
 
@@ -45,15 +43,11 @@ Every 8 hours \(3 times per day\), at exact GMT hours: 0 AM, 8 AM, 4 PM
 * 20% of the BUSD/BNB/BTCB/ETH will be sent to developer address for future development
 * all received BELT tokens will be swapped to BUSD and used for TKENB buybacks
 
-\* on Heco, HT instead BNB , USDT instead BUSD
-\* on Polygon \(MATIC\), MATIC instead BNB, USDC instead BUSD
-\* on Fantom, FTM instead BNB, USDC instead BUSD
+\* on Heco, HT instead BNB , USDT instead BUSD \* on Polygon \(MATIC\), MATIC instead BNB, USDC instead BUSD \* on Fantom, FTM instead BNB, USDC instead BUSD
 
 ## Deposit Fee <a id="deposit-fee"></a>
 
-When staking into a NON NATIVE farm, a **4% deposit fee** will be charged.
-When **compounding** on a NON NATIVE farm the deposit fee will be reduced to **2%**.
-The deposit fee for for **native farms** is **0%**.
+When staking into a NON NATIVE farm, a **4% deposit fee** will be charged. When **compounding** on a NON NATIVE farm the deposit fee will be reduced to **2%**. The deposit fee for for **native farms** is **0%**.
 
 ## AMM Trading Fee <a id="trading-fee"></a>
 
@@ -66,3 +60,4 @@ For each transfer, an **8% transfer tax** is charged.
 {% hint style="info" %}
 The transfer tax applies **only** for transactions involving the NATIVE Tokens
 {% endhint %}
+
