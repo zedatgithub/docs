@@ -9,10 +9,10 @@ New kind of Fair Launch
 * No Pre-sale
 * No Pre-mine\*
 * Locked Liquidity
-* All contracts will be deployed with liquidity simultaneously on all chains - Binance Smart Chain, Heco, Polygon and Fantom at [GMT 2021-07-19 12:00:00](https://www.timeanddate.com/countdown/launch?iso=2021-07-19T12:00:00Z&font=sanserif&p0=769&csz=1&msg=GalaxyFinance.one%20|%20Contracts) section so that community/auditors will have enough time to review the smart contracts and, in case any **High Severity Issues** are to be found, these will be fixed, the new smart contracts will be deployed, and [Bug Bounty](security/bug-bounty.md) rewards will be given.
-* TKENA trading starts [GMT 2021-07-26 12:00:00](https://www.timeanddate.com/countdown/launch?iso=2021-07-26T12:00:00Z&font=sanserif&p0=769&csz=1&msg=GalaxyFinance.one%20|%20TKENA%20trading) - 1 week after contracts deployment
-* TKENA Farming/Vaults/Pools start [GMT 2021-08-02 12:00:00](https://www.timeanddate.com/countdown/launch?iso=2021-08-02T12:00:00Z&font=sanserif&p0=769&csz=1&msg=GalaxyFinance.one%20|%20TKENA%20Farming) - 2 weeks after contracts deployment
-* [IFO](features/tkenb-ifo.md) for [TKENB](tokenomics/tkenb.md) starts [GMT 2021-08-09 12:00:00](https://www.timeanddate.com/countdown/launch?iso=2021-08-09T12:00:00Z&font=sanserif&p0=769&csz=1&msg=GalaxyFinance.one%20|%20IFO%20TKENB) - 3 weeks after contracts deployment
+* All contracts will be deployed with liquidity simultaneously on all chains - Binance Smart Chain, Heco, Polygon and Fantom at [GMT 2021-07-16 12:00:00](https://www.timeanddate.com/countdown/launch?iso=2021-07-16T12:00:00Z&font=sanserif&p0=769&csz=1&msg=GalaxyFinance.one%20|%20Contracts) section so that community/auditors will have enough time to review the smart contracts and, in case any **High Severity Issues** are to be found, these will be fixed, the new smart contracts will be deployed, and [Bug Bounty](security/bug-bounty.md) rewards will be given.
+* TKENA trading starts [GMT 2021-07-30 12:00:00](https://www.timeanddate.com/countdown/launch?iso=2021-07-30T12:00:00Z&font=sanserif&p0=769&csz=1&msg=GalaxyFinance.one%20|%20TKENA%20trading) - 1 week after contracts deployment
+* TKENA Farming/Vaults/Pools start [GMT 2021-08-06 12:00:00](https://www.timeanddate.com/countdown/launch?iso=2021-08-06T12:00:00Z&font=sanserif&p0=769&csz=1&msg=GalaxyFinance.one%20|%20TKENA%20Farming) - 2 weeks after contracts deployment
+* [IFO](features/tkenb-ifo.md) for [TKENB](tokenomics/tkenb.md) starts [GMT 2021-08-13 12:00:00](https://www.timeanddate.com/countdown/launch?iso=2021-08-13T12:00:00Z&font=sanserif&p0=769&csz=1&msg=GalaxyFinance.one%20|%20IFO%20TKENB) - 3 weeks after contracts deployment
 * TKENB Trading/Farming/Vaults/Pools start after IFO for TKENB
 * Emission Rates:
   * [TKENA](tokenomics/tkenb.md)
@@ -64,4 +64,3 @@ Many projects give superior advantage to early depositors because they will be a
 ​
 
 ​
-
