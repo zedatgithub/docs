@@ -1,81 +1,20 @@
 # 📑 Contracts
 
-## **FARM** 
-
-| **Contract** | BSC | Heco | Polygon | Fantom |
-| :--- | :--- | :--- | :--- | :--- |
-| TKENA Token |  |  |  |  |
-| TKENB Token |  |  |  |  |
-| **TKENA MASTERCHEF** |  |  |  |  |
-| ◼️ **TKENB MASTERCHEF** |  |  |  |  |
-| ◼️ **TKENA REFERRAL** |  |  |  |  |
-| ◼️ **TKENB REFERRAL** |  |  |  |  |
-| Binance Smart Chain |  |  |  |  |
-| Polygon |  |  |  |  |
-| Fantom |  |  |  |  |
-| ◼️ **TIMELOCK** |  |  |  |  |
-| Binance Smart Chain |  |  |  |  |
-| Polygon |  |  |  |  |
-| Fantom |  |  |  |  |
-| ◼️ **LOCKER** |  |  |  |  |
-| Binance Smart Chain |  |  |  |  |
-| Polygon |  |  |  |  |
-| Fantom |  |  |  |  |
-| ◼️ **BRIDGE** |  |  |  |  |
-| Binance Smart Chain |  |  |  |  |
-| Polygon |  |  |  |  |
-| Fantom |  |  |  |  |
-
-## LOTTERY
-
-| Contract/Network | Address |
-| :--- | :--- |
-| ◼️ **TKENA LOTTERY** |  |
-| Binance Smart Chain | 0xbddeaaf4413cc0d000f9aa5be49b4b1f97444df9 |
-| Polygon | 0xfdb37deec734557d347e693530c5c4d5a572644e |
-| Fantom |  |
-| ◼️ **TKENB LOTTERY** |  |
-| Binance Smart Chain | 0xaa45ab647086cde85e49bccf28d1e2170a37c4e1 |
-| Polygon | 0x4aa0b2e92c1918e10ef9084ffbe29984c12d1652 |
-| Fantom |  |
-
-## AMM
-
-| Contract/Network | Address |
-| :--- | :--- |
-| ◼️ **FACTORY** |  |
-| Binance Smart Chain | 0x73e8bf12872c5e9ed7fec50b3c0180d1465bab5e |
-| Polygon | 0x063ecd98d6ac8802a8b780d2c68d092a12b13314 |
-| Fantom |  |
-| ◼️ **ROUTER** |  |
-| Binance Smart Chain | 0xbd9001d97265daca2896528e0026539c59abab8e |
-| Polygon |  |
-| Fantom |  |
-
-## VAULT
-
-| Contract/Network | Address |
-| :--- | :--- |
-| ◼️ **VAULT** |  |
-| Binance Smart Chain | 0x5f9ee9a83c19ee229d62fd0bb886c7a1bc8ef726 |
-| Polygon | 0xe9d40bc7fc1ab39e14f0ea43809f4edc1c2040c7 |
-| Fantom |  |
-
-## POOL
-
-| Contract/Network | Address |
-| :--- | :--- |
-| ◼️ **FACTORY** |  |
-| Binance Smart Chain | 0x22d48853785a53b5d144cad9c7f434675fd55f1d |
-| Polygon | 0x9b1b6a758c9631922fafdebc2c85e5b8f28aae9f |
-| Fantom |  |
-
-## IFO
-
-| Contract/Network | Address |
-| :--- | :--- |
-| ◼️ **FACTORY** |  |
-| Binance Smart Chain | 0x07d8769ad92b298984d67ad5e19235174d3b7318 |
-| Polygon | 0x449eeb82707c289bc9e0a1254b6e48392cbe0b22 |
-| Fantom |  |
-
+| **Contract** | Address | BSC | Heco | Polygon | Fantom |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Timelock | 0x20615080ea593DBb469dD0D7B7EE47a2894c605c | [view](https://testnet.bscscan.com/address/0x20615080ea593DBb469dD0D7B7EE47a2894c605c#code) | [view](https://testnet.hecoinfo.com/address/0x20615080ea593DBb469dD0D7B7EE47a2894c605c#code) | [view](https://mumbai.polygonscan.com/address/0x20615080ea593DBb469dD0D7B7EE47a2894c605c#code) | [view](https://testnet.ftmscan.com/address/0x20615080ea593DBb469dD0D7B7EE47a2894c605c#code) |
+| Locker | 0x21d9e7B5bd5EB9724e9eF57f822DF675c79d232b | [view](https://testnet.bscscan.com/address/0x21d9e7B5bd5EB9724e9eF57f822DF675c79d232b#code) | [view](https://testnet.hecoinfo.com/address/0x21d9e7B5bd5EB9724e9eF57f822DF675c79d232b#code) | [view](https://mumbai.polygonscan.com/address/0x21d9e7B5bd5EB9724e9eF57f822DF675c79d232b#code) | [view](https://testnet.ftmscan.com/address/0x21d9e7B5bd5EB9724e9eF57f822DF675c79d232b#code) |
+| Bridge | 0xf902dc3cE4D73D1753Febac757e35373Fdb789A9 | [view](https://testnet.bscscan.com/address/0xf902dc3cE4D73D1753Febac757e35373Fdb789A9#code) | [view](https://testnet.hecoinfo.com/address/0xf902dc3cE4D73D1753Febac757e35373Fdb789A9#code) | [view](https://mumbai.polygonscan.com/address/0xf902dc3cE4D73D1753Febac757e35373Fdb789A9#code) | [view](https://testnet.ftmscan.com/address/0xf902dc3cE4D73D1753Febac757e35373Fdb789A9#code) |
+| AMM Factory | 0x47Ce3ac1e33A141F4CD5C045e2C64E1550C97498 | [view](https://testnet.bscscan.com/address/0x47Ce3ac1e33A141F4CD5C045e2C64E1550C97498#code) | [view](https://testnet.hecoinfo.com/address/0x47Ce3ac1e33A141F4CD5C045e2C64E1550C97498#code) | [view](https://mumbai.polygonscan.com/address/0x47Ce3ac1e33A141F4CD5C045e2C64E1550C97498#code) | [view](https://testnet.ftmscan.com/address/0x47Ce3ac1e33A141F4CD5C045e2C64E1550C97498#code) |
+| AMM Router | 0xa5bb74D8898d7F92eD1747D846466b3d2f2Aaf61 | [view](https://testnet.bscscan.com/address/0xa5bb74D8898d7F92eD1747D846466b3d2f2Aaf61#code) | [view](https://testnet.hecoinfo.com/address/0xa5bb74D8898d7F92eD1747D846466b3d2f2Aaf61#code) | [view](https://mumbai.polygonscan.com/address/0xa5bb74D8898d7F92eD1747D846466b3d2f2Aaf61#code) | [view](https://testnet.ftmscan.com/address/0xa5bb74D8898d7F92eD1747D846466b3d2f2Aaf61#code) |
+| Pool Factory | 0x90a1f6c8Bcd4aD36c801Bf184d32F72c750AD2Ad | [view](https://testnet.bscscan.com/address/0x90a1f6c8Bcd4aD36c801Bf184d32F72c750AD2Ad#code) | [view](https://testnet.hecoinfo.com/address/0x90a1f6c8Bcd4aD36c801Bf184d32F72c750AD2Ad#code) | [view](https://mumbai.polygonscan.com/address/0x90a1f6c8Bcd4aD36c801Bf184d32F72c750AD2Ad#code) | [view](https://testnet.ftmscan.com/address/0x90a1f6c8Bcd4aD36c801Bf184d32F72c750AD2Ad#code) |
+| Vault Factory | 0xA8D4a5858E0741092837CC9Bd8e17e969d602BCe | [view](https://testnet.bscscan.com/address/0xA8D4a5858E0741092837CC9Bd8e17e969d602BCe#code) | [view](https://testnet.hecoinfo.com/address/0xA8D4a5858E0741092837CC9Bd8e17e969d602BCe#code) | [view](https://mumbai.polygonscan.com/address/0xA8D4a5858E0741092837CC9Bd8e17e969d602BCe#code) | [view](https://testnet.ftmscan.com/address/0xA8D4a5858E0741092837CC9Bd8e17e969d602BCe#code) |
+| IFO Factory | 0x1cEDE1925DA92287d400A1Ff58936C7349cF4C59 | [view](https://testnet.bscscan.com/address/0x1cEDE1925DA92287d400A1Ff58936C7349cF4C59#code) | [view](https://testnet.hecoinfo.com/address/0x1cEDE1925DA92287d400A1Ff58936C7349cF4C59#code) | [view](https://mumbai.polygonscan.com/address/0x1cEDE1925DA92287d400A1Ff58936C7349cF4C59#code) | [view](https://testnet.ftmscan.com/address/0x1cEDE1925DA92287d400A1Ff58936C7349cF4C59#code) |
+| TKENA Token | 0x87b9Ab86bAE14198aA7dFAaF10F42FA7B006B310 | [view](https://testnet.bscscan.com/address/0x87b9Ab86bAE14198aA7dFAaF10F42FA7B006B310#code) | [view](https://testnet.hecoinfo.com/address/0x87b9Ab86bAE14198aA7dFAaF10F42FA7B006B310#code) | [view](https://mumbai.polygonscan.com/address/0x87b9Ab86bAE14198aA7dFAaF10F42FA7B006B310#code) | [view](https://testnet.ftmscan.com/address/0x87b9Ab86bAE14198aA7dFAaF10F42FA7B006B310#code) |
+| TKENB Token | 0x919994F07649E45F8065B0aB853F63Ce7CB384d4 | [view](https://testnet.bscscan.com/address/0x919994F07649E45F8065B0aB853F63Ce7CB384d4#code) | [view](https://testnet.hecoinfo.com/address/0x919994F07649E45F8065B0aB853F63Ce7CB384d4#code) | [view](https://mumbai.polygonscan.com/address/0x919994F07649E45F8065B0aB853F63Ce7CB384d4#code) | [view](https://testnet.ftmscan.com/address/0x919994F07649E45F8065B0aB853F63Ce7CB384d4#code) |
+| TKENA MasterChef | 0xFB9e4FfC03111b4CE67C54d7043D6d7828b55f3B | [view](https://testnet.bscscan.com/address/0xFB9e4FfC03111b4CE67C54d7043D6d7828b55f3B#code) | [view](https://testnet.hecoinfo.com/address/0xFB9e4FfC03111b4CE67C54d7043D6d7828b55f3B#code) | [view](https://mumbai.polygonscan.com/address/0xFB9e4FfC03111b4CE67C54d7043D6d7828b55f3B#code) | [view](https://testnet.ftmscan.com/address/0xFB9e4FfC03111b4CE67C54d7043D6d7828b55f3B#code) |
+| TKENB MasterChef | 0xf18CAbd88AdB92a9060Bc9F0398e883627175380 | [view](https://testnet.bscscan.com/address/0xf18CAbd88AdB92a9060Bc9F0398e883627175380#code) | [view](https://testnet.hecoinfo.com/address/0xf18CAbd88AdB92a9060Bc9F0398e883627175380#code) | [view](https://mumbai.polygonscan.com/address/0xf18CAbd88AdB92a9060Bc9F0398e883627175380#code) | [view](https://testnet.ftmscan.com/address/0xf18CAbd88AdB92a9060Bc9F0398e883627175380#code) |
+| TKENA Referral | 0x01bd9EC96cbA848B1AC85f26f3B3Fa7EF008B455 | [view](https://testnet.bscscan.com/address/0x01bd9EC96cbA848B1AC85f26f3B3Fa7EF008B455#code) | [view](https://testnet.hecoinfo.com/address/0x01bd9EC96cbA848B1AC85f26f3B3Fa7EF008B455#code) | [view](https://mumbai.polygonscan.com/address/0x01bd9EC96cbA848B1AC85f26f3B3Fa7EF008B455#code) | [view](https://testnet.ftmscan.com/address/0x01bd9EC96cbA848B1AC85f26f3B3Fa7EF008B455#code) |
+| TKENB Referral | 0x94fC998398666eD30FD5c5a150693B9782105d51 | [view](https://testnet.bscscan.com/address/0x94fC998398666eD30FD5c5a150693B9782105d51#code) | [view](https://testnet.hecoinfo.com/address/0x94fC998398666eD30FD5c5a150693B9782105d51#code) | [view](https://mumbai.polygonscan.com/address/0x94fC998398666eD30FD5c5a150693B9782105d51#code) | [view](https://testnet.ftmscan.com/address/0x94fC998398666eD30FD5c5a150693B9782105d51#code) |
+| TKENA Lottery | 0x9d7baE6A23d6419C33AedA4eCd855a5E670b2194 | [view](https://testnet.bscscan.com/address/0x9d7baE6A23d6419C33AedA4eCd855a5E670b2194#code) | [view](https://testnet.hecoinfo.com/address/0x9d7baE6A23d6419C33AedA4eCd855a5E670b2194#code) | [view](https://mumbai.polygonscan.com/address/0x9d7baE6A23d6419C33AedA4eCd855a5E670b2194#code) | [view](https://testnet.ftmscan.com/address/0x9d7baE6A23d6419C33AedA4eCd855a5E670b2194#code) |
+| TKENB Lottery | 0x6B12364f5327f3E22b36Fe4051dd8fCe0B38c2dd | [view](https://testnet.bscscan.com/address/0x6B12364f5327f3E22b36Fe4051dd8fCe0B38c2dd#code) | [view](https://testnet.hecoinfo.com/address/0x6B12364f5327f3E22b36Fe4051dd8fCe0B38c2dd#code) | [view](https://mumbai.polygonscan.com/address/0x6B12364f5327f3E22b36Fe4051dd8fCe0B38c2dd#code) | [view](https://testnet.ftmscan.com/address/0x6B12364f5327f3E22b36Fe4051dd8fCe0B38c2dd#code) |
