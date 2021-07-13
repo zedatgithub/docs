@@ -17,7 +17,7 @@ TKENA is the first **stable-pairs-only** yield farm and AMM decentralized exchan
 TKENB is a **mixed-pairs** yield farm and AMM decentralized exchange running on **Binance Smart Chain**, **Heco**, **Polygon** and **Fantom**, with Yield Farming, Staking, Lottery, multi-chain Bridge, auto-compounding Vaults and more.
 
 {% hint style="info" %}
-TKENB will be available after IFO, one week after farming for TKENA has started.
+[TKENB](tokenomics/tkenb.md) will be available after [IFO](features/tkenb-ifo.md)
 {% endhint %}
 
 ## **Main Features** <a id="main-features"></a>
