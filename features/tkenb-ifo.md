@@ -1,6 +1,7 @@
 # 🌕 TKENB IFO
 
-[IFO](tkenb-ifo.md) for [TKENB](../tokenomics/tkenb.md) stars [GMT 2021-08-09 12:00:00](https://www.timeanddate.com/countdown/launch?iso=2021-08-09T12:00:00Z&font=sanserif&p0=769&csz=1&msg=GalaxyFinance.one | IFO TKENB) - 3 weeks after contracts deployment
+[IFO](tkenb-ifo.md) for [TKENB](../tokenomics/tkenb.md) stars [GMT 2021-08-09 12:00:00](https://www.timeanddate.com/countdown/launch?iso=2021-08-09T12:00:00Z&font=sanserif&p0=769&csz=1&msg=GalaxyFinance.one%20|%20IFO%20TKENB) - 3 weeks after contracts deployment
 
 * all collected TKENA in the IFO will be burned
 * all collected USD in the IFO will be equal split and used to create [locked liquidity](locked-liquidity.md) in TKENB platform
+

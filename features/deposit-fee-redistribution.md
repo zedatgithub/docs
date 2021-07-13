@@ -19,10 +19,12 @@ Every 8 hours \(3 times per day\), at exact GMT hours: 0 AM, 8 AM, 4 PM
   * 20% of USDT will be injected into the [USDT pool](token-pools.md)
   * 20% of USDC will be injected into the [USDC pool](token-pools.md)
   * 20% of DAI will be injected into the [DAI pool](token-pools.md)
-* 40% of the BUSD/USDT/USDC/DAI used to add liqudity to AMM and [locked](locked-liquidity.md)
+* 40% of the BUSD/USDT/USDC/DAI used to add liquidity to AMM and [locked](locked-liquidity.md)
 * 20% of the BUSD/USDT/USDC/DAI will be sent to developer address for future development
 
-\* on Heco, HUSD instead BUSD \* on Polygon \(MATIC\), BUSD is not available \* on Fantom, FUSD instead BUSD, FUSDT instead USDT
+\* on Heco, HUSD instead BUSD   
+\* on Polygon \(MATIC\), BUSD is not available   
+\* on Fantom, FUSD instead BUSD, FUSDT instead USDT
 
 ### TKENB Platform
 
@@ -39,11 +41,12 @@ Every 8 hours \(3 times per day\), at exact GMT hours: 0 AM, 8 AM, 4 PM
   * 20% of BNB will be injected into the [BNB pool](token-pools.md)
   * 20% of BTC will be injected into the [BTC pool](token-pools.md)
   * 20% of ETH will be injected into the [ETH pool](token-pools.md)
-* 40% of the BUSD/BNB/BTCB/ETH used to add liqudity to AMM  and [locked](locked-liquidity.md)
+* 40% of the BUSD/BNB/BTCB/ETH used to add liquidity to AMM and [locked](locked-liquidity.md)
 * 20% of the BUSD/BNB/BTCB/ETH will be sent to developer address for future development
-* all received BELT tokens will be swapped to BUSD and used for TKENB buybacks
-
-\* on Heco, HT instead BNB , USDT instead BUSD \* on Polygon \(MATIC\), MATIC instead BNB, USDC instead BUSD \* on Fantom, FTM instead BNB, USDC instead BUSD
+* 
+\* on Heco, HT instead BNB , USDT instead BUSD   
+\* on Polygon \(MATIC\), MATIC instead BNB, USDC instead BUSD   
+\* on Fantom, FTM instead BNB, USDC instead BUSD
 
 ## Deposit Fee <a id="deposit-fee"></a>
 
