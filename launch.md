@@ -47,10 +47,10 @@ Polygon \(MATIC\) \* the developer will mine 15,000 TKENA for [locked liquidity]
 {% hint style="success" %}
 Fantom \* the developer will mine 20,000 TKENA for [locked liquidity](features/locked-liquidity.md) which will be distributed as follows:
 
-* **TKENA-USDC**: 5,000 TKENA - 1,000 USDC
+* **TKENA-USDC**:   5,000 TKENA - 1,000 USDC
 * **TKENA-FUSDT**: 5,000 TKENA - 1,000 FUSDT
-* **TKENA-FUSD**: 5,000 TKENA - 1,000 FUSD
-* **TKENA-DAI**:     5,000 TKENA - 1,000 DAI
+* **TKENA-FUSD**:   5,000 TKENA - 1,000 FUSD
+* **TKENA-DAI**:       5,000 TKENA - 1,000 DAI
 {% endhint %}
 
 {% hint style="warning" %}
