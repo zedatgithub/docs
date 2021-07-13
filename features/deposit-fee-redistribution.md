@@ -43,7 +43,7 @@ Every 8 hours \(3 times per day\), at exact GMT hours: 0 AM, 8 AM, 4 PM
   * 20% of ETH will be injected into the [ETH pool](token-pools.md)
 * 40% of the BUSD/BNB/BTCB/ETH used to add liquidity to AMM and [locked](locked-liquidity.md)
 * 20% of the BUSD/BNB/BTCB/ETH will be sent to developer address for future development
-* 
+
 \* on Heco, HT instead BNB , USDT instead BUSD   
 \* on Polygon \(MATIC\), MATIC instead BNB, USDC instead BUSD   
 \* on Fantom, FTM instead BNB, USDC instead BUSD
