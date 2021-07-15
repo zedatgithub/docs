@@ -2,10 +2,10 @@
 
 ## Launch <a id="launch"></a>
 
-* Simultaneous token launch on 4 networks: Binance Smart Chain, Heco Polygon and Fantom
+* Simultaneous token launch on 4 networks: Binance Smart Chain, Huobi Eco \(HECO\), Polygon and Fantom
 * Farms with compound feature
 * Pools with compound feature
-* Vaults with automated compound
+* Vaults with automated compounding
 * Lottery
 * Cross transfer/exchange between Binance Smart Chain, Heco, Polygon and Fantom
 * Referrals
