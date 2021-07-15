@@ -12,6 +12,7 @@ New kind of Fair Launch
 * All contracts will be deployed with liquidity simultaneously on 4 networks - [Binance Smart Chain](https://www.binance.org/en/smartChain), [Huobi Eco \(HECO\)](https://www.hecochain.com/en-us/), [Polygon](https://polygon.technology/) and [Fantom](https://fantom.foundation/) on [GMT 2021-07-16 12:00:00](https://www.timeanddate.com/countdown/generic?iso=2021-07-16T12:00:00Z&font=sanserif&p0=769&csz=0&msg=DEFIFinance.one%20|%20Contracts) so that community/auditors will have enough time to review the smart contracts and, in case any **High Severity Issues** are to be found, these will be fixed, the new smart contracts will be deployed, and [Bug Bounty](security/bug-bounty.md) rewards will be awarded.
 * TKENA trading starts [GMT 2021-07-30 12:00:00](https://www.timeanddate.com/countdown/generic?iso=2021-07-30T12:00:00Z&font=sanserif&p0=769&csz=0&msg=DEFIFinance.one%20|%20TKENA%20trading)
 * TKENA Farming/Vaults/Pools start [GMT 2021-08-06 12:00:00](https://www.timeanddate.com/countdown/generic?iso=2021-08-06T12:00:00Z&font=sanserif&p0=769&csz=0&msg=DEFIFinance.one%20|%20TKENA%20Farming)
+* Lottery first draw  [GMT 2021-08-07 08:00:00](https://www.timeanddate.com/countdown/generic?iso=2021-08-06T12:00:00Z&font=sanserif&p0=769&csz=0&msg=DEFIFinance.one%20|%20TKENA%20Farming) after that start the 8 hour cycles
 * [IFO](features/tkenb-ifo.md) for [TKENB](tokenomics/tkenb.md) starts [GMT 2021-08-13 12:00:00](https://www.timeanddate.com/countdown/generic?iso=2021-08-13T12:00:00Z&font=sanserif&p0=769&csz=0&msg=DEFIFinance.one%20|%20IFO%20TKENB)
 * TKENB Trading/Farming/Vaults/Pools start after IFO for TKENB
 * Emission Rates:
@@ -19,21 +20,25 @@ New kind of Fair Launch
   * [TKENB](tokenomics/tkena.md)
 
 {% hint style="success" %}
-Binance Smart Chain \* the developer will mine 20,000 TKENA for [locked liquidity](features/locked-liquidity.md) which will be distributed as follows:
+Binance Smart Chain \* the developer will mine 52,500 TKENA for [locked liquidity](features/locked-liquidity.md), [brige](features/token-bridge.md), [lottery](features/lottery.md) which will be distributed as follows:
 
-* **TKENA-BUSD**: 5,000 TKENA - 1,000 BUSD
-* **TKENA-USDT**: 5,000 TKENA - 1,000 USDT
-* **TKENA-USDC**: 5,000 TKENA - 1,000 USDC
-* **TKENA-DAI**:     5,000 TKENA - 1,000 DAI
+* **TKENA-BUSD**: 10,000 TKENA - 500 BUSD
+* **TKENA-USDT**: 10,000 TKENA - 500 USDT
+* **TKENA-USDC**: 10,000 TKENA - 500 USDC
+* **TKENA-DAI**:     10,000 TKENA - 500 DAI
+* **BRIDGE:**            10,000 TKENA
+* **LOTTERY:**           2,500 TKENA
 {% endhint %}
 
 {% hint style="success" %}
-Huobi Eco \(HECO\) \* the developer will mine 20,000 TKENA for [locked liquidity](features/locked-liquidity.md) which will be distributed as follows:
+Huobi Eco \(HECO\) \* the developer will mine 52,500 TKENA for [locked liquidity](features/locked-liquidity.md) which will be distributed as follows:
 
-* **TKENA-BUSD**: 5,000 TKENA - 1,000 HUSD
-* **TKENA-USDT**: 5,000 TKENA - 1,000 USDT
-* **TKENA-USDC**: 5,000 TKENA - 1,000 USDC
-* **TKENA-DAI**:     5,000 TKENA - 1,000 DAI
+* **TKENA-BUSD**: 10,000 TKENA - 500 HUSD
+* **TKENA-USDT**: 10,000 TKENA - 500 USDT
+* **TKENA-USDC**: 10,000 TKENA - 500 USDC
+* **TKENA-DAI**:     10,000 TKENA - 500 DAI
+* **BRIDGE:**            10,000 TKENA
+* **LOTTERY:**           2,500 TKENA
 {% endhint %}
 
 {% hint style="success" %}
