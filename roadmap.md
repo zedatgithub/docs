@@ -11,7 +11,7 @@
 * Pools with compound feature
 * Vaults with automated compounding
 * Lottery
-* Cross transfer/exchange between 
+* Cross transfer/exchange via our own integrated Bridge between 
   * [Binance Smart Chain](https://www.binance.org/en/smartChain)
   * [Huobi Eco \(HECO\)](https://www.hecochain.com/en-us/)
   * [Polygon](https://polygon.technology/)

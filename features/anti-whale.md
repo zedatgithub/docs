@@ -4,9 +4,9 @@ description: preventing Whales from quickly buying/selling large amounts (pump &
 
 # 🐋 Anti Whale
 
-Transfers that exceed **1.5%** of the circulating supply of NATIVE Tokens will be rejected.
+Transfers that exceed **1.5%** of the circulating supply of the NATIVE Tokens will be rejected.
 
-Circulating supply = total supply - burn address - fee/tax address - bridge address
+Circulating supply = total supply - amount in burn address - amount in fee/tax address - amount in bridge address
 
 {% hint style="info" %}
 The value of **1.5%** is set in the beginning and as the circulating supply grows this value will be adjusted.

@@ -28,10 +28,7 @@ TKENB is a **mixed-pairs** yield farm, AMM, decentralized exchange \(DEX\) and m
   * harvest lockup time is also reduced by **50%** when compounding
 * [Pools](features/token-pools.md) where you deposit TKENA, TKENB and earn **other tokens**; pools allow you to [compound](features/farms-pools-compound.md) your tokens without any fee!
 * [Vaults](features/vaults-auto-compound.md) where your LPs are automatically and optimally compounded for you
-* [Cross-chain transfer/exchange](features/token-bridge.md) between [Binance Smart Chain](https://www.binance.org/en/smartChain), [Huobi Eco \(HECO\)](https://www.hecochain.com/en-us/), [Polygon](https://polygon.technology/) and [Fantom](https://fantom.foundation/)
-
-   via our integrated Bridge
-
+* [Cross-chain transfer/exchange](features/token-bridge.md) between [Binance Smart Chain](https://www.binance.org/en/smartChain), [Huobi Eco \(HECO\)](https://www.hecochain.com/en-us/), [Polygon](https://polygon.technology/) and [Fantom](https://fantom.foundation/) via our own integrated Bridge
 * [AMM](features/amm.md) using an industry low fee of **0.2%** per transaction
 * [Lottery](features/lottery.md) with ticket price always set to **$2**, regardless of the token's price, and with the range of possible random numbers on the ticket set to the range 1-9 so that more people have a chance to win
 * improved [Referral Program](features/referral-program.md) where you now know who your referrer is and **you** are the one deciding if you want to have a referrer at all, who your referrer is, and when to confirm your referrer
