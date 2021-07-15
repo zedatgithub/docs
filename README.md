@@ -10,11 +10,11 @@ description: >-
 
 ### About TKENA <a id="about-pantherswap"></a>
 
-TKENA is the first **stable-pairs-only** yield farm and AMM decentralized bridge exchange running on **Binance Smart Chain**, **Heco**, **Polygon** and **Fantom**, with Yield Farming, Staking, Lottery, multi-chain Bridge, auto-compounding Vaults and more.
+TKENA is the first **stable-pairs-only** yield farm, AMM, decentralized exchange \(DEX\) and multi-chain Bridge running on **Binance Smart Chain**, **Heco**, **Polygon** and **Fantom**, with Yield Farming, Staking, Lottery, auto-compounding Vaults and more.
 
 ### About TKENB <a id="main-features"></a>
 
-TKENB is a **mixed-pairs** yield farm and AMM decentralized bridge exchange running on **Binance Smart Chain**, **Heco**, **Polygon** and **Fantom**, with Yield Farming, Staking, Lottery, multi-chain Bridge, auto-compounding Vaults and more.
+TKENB is a **mixed-pairs** yield farm, AMM, decentralized exchange \(DEX\) and multi-chain Bridge running on **Binance Smart Chain**, **Heco**, **Polygon** and **Fantom**, with Yield Farming, Staking, Lottery, auto-compounding Vaults and more.
 
 {% hint style="info" %}
 [TKENB](tokenomics/tkenb.md) will be available after [IFO](features/tkenb-ifo.md)
