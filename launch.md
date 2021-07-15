@@ -42,11 +42,13 @@ Huobi Eco \(HECO\) \* the developer will mine 52,500 TKENA for [locked liquidity
 {% endhint %}
 
 {% hint style="success" %}
-Polygon \(MATIC\) \* the developer will mine 15,000 TKENA for [locked liquidity](features/locked-liquidity.md) which will be distributed as follows:
+Polygon \(MATIC\) \* the developer will mine 42,500 TKENA for [locked liquidity](features/locked-liquidity.md) which will be distributed as follows:
 
-* **TKENA-USDC**: 5,000 TKENA - 1,000 USDC
-* **TKENA-USDT**: 5,000 TKENA - 1,000 USDT
-* **TKENA-DAI**:     5,000 TKENA - 1,000 DAI
+* **TKENA-USDC**: 10,000 TKENA - 500 USDC
+* **TKENA-USDT**: 10,000 TKENA - 500 USDT
+* **TKENA-DAI**:     10,000 TKENA - 500 DAI
+* **BRIDGE:**            10,000 TKENA
+* **LOTTERY:**         2,500   TKENA
 {% endhint %}
 
 {% hint style="success" %}
