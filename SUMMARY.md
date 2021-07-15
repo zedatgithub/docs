@@ -20,7 +20,7 @@
 * [💸 Referral Program](features/referral-program.md)
 * [🤑 Lottery](features/lottery.md)
 * [💱 AMM](features/amm.md)
-* [🔁 Token Bridge](features/token-bridge.md)
+* [🔁 Bridge & Exchange](features/token-bridge.md)
 * [🌕 TKENB IFO](features/tkenb-ifo.md)
 
 ## TOKENOMICS
