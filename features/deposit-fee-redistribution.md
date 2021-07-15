@@ -31,22 +31,22 @@ _\* on Fantom, FUSD replaces BUSD and FUSDT replaces USDT_
 * 30% of collected TKENB will be injected into the [Lottery](lottery.md)
 * 30% of collected TKENB will be [🔥BURNED🔥](https://testnet.bscscan.com/token/0x8a5a76401ada8998603d982d8343752fec75972b?a=0x000000000000000000000000000000000000dEaD)
 * 20% of collected TKENB will be distributed in [Automatic Liquidity](automatic-liquidity.md) as follows:
-  * 20% of collected BUSD and TKENB  used to [add liquidity](automatic-liquidity.md) TKENB-BUSD and [locked](locked-liquidity.md)
-  * 20% of collected BNB and TKENB  used to [add liquidity](automatic-liquidity.md) TKENB-BNB and [locked](locked-liquidity.md)
-  * 20% of collected BTC and TKENB  used to [add liquidity](automatic-liquidity.md) TKENB-BTC and [locked](locked-liquidity.md)
-  * 20% of collected ETH and TKENB used to [add liquidity](automatic-liquidity.md) TKENB-ETH and [locked](locked-liquidity.md)
+  * 20% of collected BUSD and TKENB will be used to [add](automatic-liquidity.md) and [lock](locked-liquidity.md) TKENB-BUSD liquidity
+  * 20% of collected BNB and TKENB will be used to [add](automatic-liquidity.md) and [lock](locked-liquidity.md) TKENB-BNB liquidity
+  * 20% of collected BTC and TKENB will be used to [add](automatic-liquidity.md) and [lock](locked-liquidity.md) TKENB-BTC liquidity
+  * 20% of collected ETH and TKENB will be used to [add](automatic-liquidity.md) and [lock](locked-liquidity.md) TKENB-ETH liquidity
 * 20% of collected TKENB will be injected into the TKENB Pool on TKENA Platform
 * 20% of collected BUSD/BNB/BTC/ETH will be distributed in [pools](token-pools.md) as follows:
-  * 20% of BUSD will be injected into the [BUSD pool](token-pools.md)
-  * 20% of BNB will be injected into the [BNB pool](token-pools.md)
-  * 20% of BTC will be injected into the [BTC pool](token-pools.md)
-  * 20% of ETH will be injected into the [ETH pool](token-pools.md)
+  * 20% of BUSD will be injected in the [BUSD pool](token-pools.md)
+  * 20% of BNB will be injected in the [BNB pool](token-pools.md)
+  * 20% of BTC will be injected in the [BTC pool](token-pools.md)
+  * 20% of ETH will be injected in the [ETH pool](token-pools.md)
 * 40% of the BUSD/BNB/BTCB/ETH will be [locked as liquidity ](locked-liquidity.md)in AMM
 * 20% of the BUSD/BNB/BTCB/ETH will be sent to developer address for future development
 
-\* on Heco, HT instead BNB , USDT instead BUSD   
-\* on Polygon \(MATIC\), MATIC instead BNB, USDC instead BUSD   
-\* on Fantom, FTM instead BNB, USDC instead BUSD
+_\* on Huobi Eco \(HECO\), HUSD replaces BUSD_   
+_\* on Polygon \(MATIC\), BUSD is not available_   
+_\* on Fantom, FUSD replaces BUSD and FUSDT replaces USDT_
 
 ## Deposit Fee <a id="deposit-fee"></a>
 
