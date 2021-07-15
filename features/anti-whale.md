@@ -13,7 +13,7 @@ The value of **0.5%** is set in the beginning and as the circulating supply grow
 {% endhint %}
 
 {% hint style="success" %}
-Following case are not subjected to this restriction:
+Following cases are not subject to this restriction:
 
 * Farm: Deposit
 * Farm: Withdraw
