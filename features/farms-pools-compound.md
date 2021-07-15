@@ -1,6 +1,6 @@
 # 🚜 Farms & Pools Compound
 
-The first place where you can reinvest your earnings by simply clicking the **Compound** button, increasing your LP Tokens or Staked NATIVE Tokens, and earning you even more while also getting a discount:
+You can constantly reinvest your earnings by simply clicking the **Compound** button, increasing your LP Tokens or Staked NATIVE Tokens, and earn even more while also getting a discount, because each time you compound:
 
 * for NATIVE pairs you pay 50% less **Transfer tax** 
 * for NON NATIVE pairs you pay 50% less **Deposit Fee**
