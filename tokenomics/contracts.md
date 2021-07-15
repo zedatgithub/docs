@@ -1,7 +1,6 @@
 ---
 description: >-
-  Identical contract source code with identical contract addresses deployed on
-  all chains chains
+  Identical contract source code with identical contract addresses deployed on all chains
 ---
 
 # 📑 Contracts
@@ -10,7 +9,7 @@ description: >-
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | Timelock | 0x3355A83831bA8cc2dF61c475f078E43b4d3D0E4e | [view](https://testnet.bscscan.com/address/0x3355A83831bA8cc2dF61c475f078E43b4d3D0E4e#code) | [view](https://testnet.hecoinfo.com/address/0x3355A83831bA8cc2dF61c475f078E43b4d3D0E4e#code) | [view](https://mumbai.polygonscan.com/address/0x3355A83831bA8cc2dF61c475f078E43b4d3D0E4e#code) | [view](https://testnet.ftmscan.com/address/0x3355A83831bA8cc2dF61c475f078E43b4d3D0E4e#code) |
 | Locker | 0xF9864d3fC7C0D608b34c4CF1505F46eb6D3DC66b | [view](https://testnet.bscscan.com/address/0xF9864d3fC7C0D608b34c4CF1505F46eb6D3DC66b#code) | [view](https://testnet.hecoinfo.com/address/0xF9864d3fC7C0D608b34c4CF1505F46eb6D3DC66b#code) | [view](https://mumbai.polygonscan.com/address/0xF9864d3fC7C0D608b34c4CF1505F46eb6D3DC66b#code) | [view](https://testnet.ftmscan.com/address/0xF9864d3fC7C0D608b34c4CF1505F46eb6D3DC66b#code) |
-| Bridge | 0x692637D4529cA4AD53840889a515df4A234F8a4a | [view](https://testnet.bscscan.com/address/0x692637D4529cA4AD53840889a515df4A234F8a4a#code) | [view](https://testnet.hecoinfo.com/address/0x692637D4529cA4AD53840889a515df4A234F8a4a#code) | [view](https://mumbai.polygonscan.com/address/0x692637D4529cA4AD53840889a515df4A234F8a4a#code) | [view](https://testnet.ftmscan.com/address/0x692637D4529cA4AD53840889a515df4A234F8a4a#code) |
+| Bridge | 0xa672AD58E0c6858cc2f9E119bf511f391Af4BBbE | [view](https://testnet.bscscan.com/address/0xa672AD58E0c6858cc2f9E119bf511f391Af4BBbE#code) | [view](https://testnet.hecoinfo.com/address/0xa672AD58E0c6858cc2f9E119bf511f391Af4BBbE#code) | [view](https://mumbai.polygonscan.com/address/0xa672AD58E0c6858cc2f9E119bf511f391Af4BBbE#code) | [view](https://testnet.ftmscan.com/address/0xa672AD58E0c6858cc2f9E119bf511f391Af4BBbE#code) |
 | Factory | 0x985e334CE01111b5ea95218555d6eA8d3f8AD80F | [view](https://testnet.bscscan.com/address/0x985e334CE01111b5ea95218555d6eA8d3f8AD80F#code) | [view](https://testnet.hecoinfo.com/address/0x985e334CE01111b5ea95218555d6eA8d3f8AD80F#code) | [view](https://mumbai.polygonscan.com/address/0x985e334CE01111b5ea95218555d6eA8d3f8AD80F#code) | [view](https://testnet.ftmscan.com/address/0x985e334CE01111b5ea95218555d6eA8d3f8AD80F#code) |
 | Router | 0xcb9531Cd8e7Df67f56D9591205Fbc61193D367C5 | [view](https://testnet.bscscan.com/address/0xcb9531Cd8e7Df67f56D9591205Fbc61193D367C5#code) | [view](https://testnet.hecoinfo.com/address/0xcb9531Cd8e7Df67f56D9591205Fbc61193D367C5#code) | [view](https://mumbai.polygonscan.com/address/0xcb9531Cd8e7Df67f56D9591205Fbc61193D367C5#code) | [view](https://testnet.ftmscan.com/address/0xcb9531Cd8e7Df67f56D9591205Fbc61193D367C5#code) |
 | Pool | 0xD3Bc673B80dA7d9C058890351C308A23D2014cBD | [view](https://testnet.bscscan.com/address/0xD3Bc673B80dA7d9C058890351C308A23D2014cBD#code) | [view](https://testnet.hecoinfo.com/address/0xD3Bc673B80dA7d9C058890351C308A23D2014cBD#code) | [view](https://mumbai.polygonscan.com/address/0xD3Bc673B80dA7d9C058890351C308A23D2014cBD#code) | [view](https://testnet.ftmscan.com/address/0xD3Bc673B80dA7d9C058890351C308A23D2014cBD#code) |
