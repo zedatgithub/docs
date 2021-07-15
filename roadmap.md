@@ -2,12 +2,20 @@
 
 ## Launch <a id="launch"></a>
 
-* Simultaneous token launch on 4 networks: [Binance Smart Chain](https://www.binance.org/en/smartChain), [Huobi Eco \(HECO\)](https://www.hecochain.com/en-us/), [Polygon](https://polygon.technology/) and [Fantom](https://fantom.foundation/)
+* Simultaneous token launch on 4 networks: 
+  * [Binance Smart Chain](https://www.binance.org/en/smartChain), 
+  * [Huobi Eco \(HECO\)](https://www.hecochain.com/en-us/), 
+  * [Polygon](https://polygon.technology/) 
+  * [Fantom](https://fantom.foundation/)
 * Farms with compound feature
 * Pools with compound feature
 * Vaults with automated compounding
 * Lottery
-* Cross transfer/exchange between [Binance Smart Chain](https://www.binance.org/en/smartChain), [Huobi Eco \(HECO\)](https://www.hecochain.com/en-us/), [Polygon](https://polygon.technology/) and [Fantom](https://fantom.foundation/)
+* Cross transfer/exchange between 
+  * [Binance Smart Chain](https://www.binance.org/en/smartChain)
+  * [Huobi Eco \(HECO\)](https://www.hecochain.com/en-us/)
+  * [Polygon](https://polygon.technology/)
+  * [Fantom](https://fantom.foundation/)
 * Referrals
 * AMM
 * IFO
