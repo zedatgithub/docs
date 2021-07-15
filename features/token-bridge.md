@@ -9,7 +9,7 @@ Transferring other than NATIVE tokens will incur a **0.2%** trading fee.
 Optional user can opt to Anonimize transaction.  
   
 Transaction privacy is ensured by separating the on-chain link between recipient and destination addresses, and the involved amount.It utilizes a smart contract that obfuscates the receiving address on the chain and then, **within the next hour**, it sends the requested amount to the receiving address via 2 separate transactions with the original amount split randomly between the two.  
-Using this feature incurs a **1%** fee and sent to [Fee/Tax Distribution](deposit-fee-redistribution.md)
+Using this feature incurs a **1%** fee which is sent to [Fee/Tax Distribution](deposit-fee-redistribution.md)
 
 In order to provide liquidity for this feature, **9.09%** of the emission rate is directed to the bridge contract.
 
