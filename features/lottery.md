@@ -19,7 +19,7 @@ Additionally to the jackpot, users that match 2 or 3 numbers in the correct orde
 * Match 2 numbers in the exact order = win or split\* **15%** of the pot
 * [🔥BURN🔥](https://testnet.bscscan.com/token/0x8a5a76401ada8998603d982d8343752fec75972b?a=0x000000000000000000000000000000000000dEaD) the remaining **20%** of the pot
 
-\( \* the pot is split when there are more winners \)
+_\* the pot is split when there are more winners_
 
 {% hint style="warning" %}
 If there are no winners in a category, the pot allocated to the respective category will also be [🔥BURNED🔥](https://testnet.bscscan.com/token/0x8a5a76401ada8998603d982d8343752fec75972b?a=0x000000000000000000000000000000000000dEaD)
@@ -37,9 +37,9 @@ If the winning numbers are "1-9-3-2**"**
 
 ## **Lottery phases** <a id="lottery-phases"></a>
 
-Lottery first draw [GMT 2021-08-07 08:00:00](https://www.timeanddate.com/countdown/generic?iso=2021-08-06T12:00:00Z&font=sanserif&p0=769&csz=0&msg=DEFIFinance.one%20|%20TKENA%20Farming) after that start the 8 hour cycles
+Lottery first draw is on [GMT 2021-08-07 08:00:00](https://www.timeanddate.com/countdown/generic?iso=2021-08-06T12:00:00Z&font=sanserif&p0=769&csz=0&msg=DEFIFinance.one%20|%20TKENA%20Farming).
 
-There are 3 draws per day, once every 8 hours, with at specific GMT time:
+There are 3 draws per day, once every 8 hours, at specific GMT time:
 
 * 0 AM
 * 8 AM
