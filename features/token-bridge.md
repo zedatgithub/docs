@@ -11,7 +11,11 @@ Optional user can opt to Anonimize transaction.
 Transaction privacy is ensured by separating the on-chain link between recipient and destination addresses, and the involved amount.It utilizes a smart contract that obfuscates the receiving address on the chain and then, **within the next hour**, it sends the requested amount to the receiving address via 2 separate transactions with the original amount split randomly between the two.  
 Using this feature incurs a **1%** fee which is sent to [Fee/Tax Distribution](deposit-fee-redistribution.md)
 
+You can also send to a fresh wallet BNB/HT/MATIC/FTM\*
+
 In order to provide liquidity for this feature, **9.09%** of the emission rate is directed to the bridge contract.
 
 [Anti Whale](anti-whale.md) measures still apply.
+
+_\* BNB/HT/MATIC/FTM, ETH, BTC transfer will be available after_ [_TKENB IFO_](tkenb-ifo.md)\_\_
 
