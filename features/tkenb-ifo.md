@@ -4,3 +4,4 @@
 
 * all collected TKENA in the IFO will be burned
 * all collected USD in the IFO will be equal split and used to create [locked liquidity](locked-liquidity.md) in TKENB platform
+

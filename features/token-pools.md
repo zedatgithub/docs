@@ -20,5 +20,5 @@ _\* BUSD is only available on Binance Smart Chain_
 Below is the list of pools with **mixed-pairs** available after [TKENB IFO](tkenb-ifo.md)
 
 Farming pools allow TKENB holders to stake their TKENB and earn following tokens:  
-TKENB, TKENA, BNB/MATIC/FTM, BTC, ETH
+TKENB, TKENA, BNB/MATIC/FTM \(depending on the chain you are on\), BTC and ETH
 
