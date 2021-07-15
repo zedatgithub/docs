@@ -6,15 +6,15 @@ Vaults are investment instruments making use of automation to continually reinve
 
 When browsing the vaults on the platform, you will see the annual percentage yield \(APY\), which takes the frequent compounding into consideration compared to annual percentage rate \(APR\) which does not.
 
-Summarizing, vaults can:
+Vaults can:
 
 * Compound rewards into the initially deposited asset
 * Use any asset as liquidity
 * Put any asset to work to generate a yield
 * Reinvest earned profits
 * The assets staked in the Vaults will automatically be compounded \(reinvested\) for you for a small fee
-* The compounding function is triggered by other users who get a small bounty for triggering it, and also automatically, a few times per day
-* Interest is displayed as APY, which takes into account the continual compounding
+* The compounding function is triggered by other users who get a small bounty for triggering it as well as automatically, by the platform, a few times per day
+* Interest is displayed as APY, which takes into account the perpetual compounding
 * A small performance fee is subtracted from your earnings each time the pool is automatically compounded \(see below\)
 * An unstaking fee applies when you unstake within 48 hours after a manual staking \(see below\)
 

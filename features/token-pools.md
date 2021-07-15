@@ -11,7 +11,7 @@ Every time you **harvest** your earnings will be sent to your wallet and a new *
 Below is the list of pools with **stable-pairs-only** available at launch
 
 Farming pools allow TKENA holders to stake their TKENA and earn following tokens:  
-TKENA, TKENB, BUSD\*, USDT, USDC, DAI
+TKENA, TKENB, BUSD\*, USDT, USDC and DAI.
 
 _\* BUSD is only available on Binance Smart Chain_
 
@@ -20,5 +20,5 @@ _\* BUSD is only available on Binance Smart Chain_
 Below is the list of pools with **mixed-pairs** available after [TKENB IFO](tkenb-ifo.md)
 
 Farming pools allow TKENB holders to stake their TKENB and earn following tokens:  
-TKENB, TKENA, BNB/MATIC/FTM \(depending on the chain you are on\), BTC and ETH
+TKENB, TKENA, BNB/MATIC/FTM \(depending on the network you are on\), BTC and ETH.
 
