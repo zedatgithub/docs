@@ -27,8 +27,8 @@ Vaults can:
 
 **Unstaking fee**
 
-* **4%    fee for NATIVE token/pairs if you unstake \(withdraw\) within 2 days**
-* **4% fee for NON NATIVE pairs if you unstake \(withdraw\) within 3 days**
+* **4%    fee for NATIVE token/pairs if you unstake \(withdraw\) within 48 hours**
+* **4% fee for NON NATIVE pairs if you unstake \(withdraw\) within 72 hours**
 * Only applies after manually staking
 * After that, you can unstake **without any fees**
 * The timer resets every time you manually stake more in the vault
