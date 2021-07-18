@@ -6,7 +6,7 @@ You can constantly reinvest your earnings by simply clicking the **Compound** bu
 * for NON NATIVE pairs you pay 50% less **Deposit Fee**
 * the added Harvest Lockup time is reduced by 50% every time you compound
 
-{% hint style="success" %}
+{% hint style="info" %}
 The compounded amount will be lost and sent to [Fee/Tax Distribution](deposit-fee-redistribution.md) if unstaking before harvest lockup time has passed!
 {% endhint %}
 
