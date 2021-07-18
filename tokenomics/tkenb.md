@@ -34,7 +34,7 @@ The transfer tax is applied **only** for transactions involving the TKENB token
 
 ## Emission Rate - Polygon \(MATIC\)
 
-* 0.7 TKENB / block
+* 0.6 TKENB / block
 * 28,800 TKENB / day \*\*\*
 * 9.09% of the emission rate will be locked in the [Bridge Contract](../features/token-bridge.md) in order to provide liquidity
 
