@@ -20,46 +20,46 @@ New kind of Fair Launch
   * [TKENB](tokenomics/tkena.md)
 
 {% hint style="success" %}
-Binance Smart Chain \* the developer will mine 52,500 TKENA for [locked liquidity](features/locked-liquidity.md), [bridge](features/token-bridge.md), [lottery](features/lottery.md) which will be distributed as follows:
+Binance Smart Chain \* the developer will mine 102,000 TKENA for [locked liquidity](features/locked-liquidity.md), [bridge](features/token-bridge.md), [lottery](features/lottery.md) which will be distributed as follows:
 
-* **TKENA-BUSD**: 10,000 TKENA - 500 BUSD
-* **TKENA-USDT**: 10,000 TKENA - 500 USDT
-* **TKENA-USDC**: 10,000 TKENA - 500 USDC
-* **TKENA-DAI**:     10,000 TKENA - 500 DAI
-* **BRIDGE:**            10,000 TKENA
-* **LOTTERY:**           2,500 TKENA
+* **TKENA-BUSD**: 20,000 TKENA - 200 BUSD
+* **TKENA-USDT**: 20,000 TKENA - 200 USDT
+* **TKENA-USDC**: 20,000 TKENA - 200 USDC
+* **TKENA-DAI**:     20,000 TKENA - 200 DAI
+* **BRIDGE:**            20,000 TKENA
+* **LOTTERY:**           2,000 TKENA
 {% endhint %}
 
 {% hint style="success" %}
-Huobi Eco \(HECO\) \* the developer will mine 52,500 TKENA for [locked liquidity](features/locked-liquidity.md), [bridge](features/token-bridge.md) and [lottery](features/lottery.md), which will be distributed as follows:
+Huobi Eco \(HECO\) \* the developer will mine 102,000 TKENA for [locked liquidity](features/locked-liquidity.md), [bridge](features/token-bridge.md) and [lottery](features/lottery.md), which will be distributed as follows:
 
-* **TKENA-BUSD**: 10,000 TKENA - 500 HUSD
-* **TKENA-USDT**: 10,000 TKENA - 500 USDT
-* **TKENA-USDC**: 10,000 TKENA - 500 USDC
-* **TKENA-DAI**:     10,000 TKENA - 500 DAI
-* **BRIDGE:**            10,000 TKENA
-* **LOTTERY:**           2,500 TKENA
+* **TKENA-BUSD**: 20,000 TKENA - 200 HUSD
+* **TKENA-USDT**: 20,000 TKENA - 200 USDT
+* **TKENA-USDC**: 20,000 TKENA - 200 USDC
+* **TKENA-DAI**:     20,000 TKENA - 200 DAI
+* **BRIDGE:**            20,000 TKENA
+* **LOTTERY:**           2,000 TKENA
 {% endhint %}
 
 {% hint style="success" %}
-Polygon \(MATIC\) \* the developer will mine 42,500 TKENA for [locked liquidity](features/locked-liquidity.md), [bridge](features/token-bridge.md) and [lottery](features/lottery.md), which will be distributed as follows:
+Polygon \(MATIC\) \* the developer will mine 82,000 TKENA for [locked liquidity](features/locked-liquidity.md), [bridge](features/token-bridge.md) and [lottery](features/lottery.md), which will be distributed as follows:
 
-* **TKENA-USDC**: 10,000 TKENA - 500 USDC
-* **TKENA-USDT**: 10,000 TKENA - 500 USDT
-* **TKENA-DAI**:     10,000 TKENA - 500 DAI
-* **BRIDGE:**            10,000 TKENA
-* **LOTTERY:**           2,500 TKENA
+* **TKENA-USDC**: 20,000 TKENA - 200 USDC
+* **TKENA-USDT**: 20,000 TKENA - 200 USDT
+* **TKENA-DAI**:     20,000 TKENA - 200 DAI
+* **BRIDGE:**            20,000 TKENA
+* **LOTTERY:**           2,000 TKENA
 {% endhint %}
 
 {% hint style="success" %}
-Fantom \* the developer will mine 52,500 TKENA for [locked liquidity](features/locked-liquidity.md), [bridge](features/token-bridge.md) and [lottery](features/lottery.md), which will be distributed as follows:
+Fantom \* the developer will mine 102,000 TKENA for [locked liquidity](features/locked-liquidity.md), [bridge](features/token-bridge.md) and [lottery](features/lottery.md), which will be distributed as follows:
 
-* **TKENA-USDC**:   10,000 TKENA - 500 USDC
-* **TKENA-FUSDT**: 10,000 TKENA - 500 FUSDT
-* **TKENA-FUSD**:   10,000 TKENA - 500 FUSD
-* **TKENA-DAI**:       10,000 TKENA - 500 DAI
-* **BRIDGE:**              10,000 TKENA
-* **LOTTERY:**             2,500 TKENA
+* **TKENA-USDC**:   20,000 TKENA - 200 USDC
+* **TKENA-FUSDT**: 20,000 TKENA - 200 FUSDT
+* **TKENA-FUSD**:   20,000 TKENA - 200 FUSD
+* **TKENA-DAI**:       20,000 TKENA - 200 DAI
+* **BRIDGE:**              20,000 TKENA
+* **LOTTERY:**             2,000 TKENA
 {% endhint %}
 
 {% hint style="warning" %}
@@ -73,4 +73,3 @@ Many projects give superior advantage to early depositors because they will be a
 ​
 
 ​
-
