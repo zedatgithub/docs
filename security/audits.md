@@ -3,6 +3,7 @@
 ### Audits
 
 * [ ] [https://rugdoc.io/​](https://rugdoc.io/)
+* [ ] [https://paladinsec.co/](https://paladinsec.co/audits/#contact)
 * [ ] [https://techrate.org/](https://techrate.org/)
 * [ ] [https://mythx.io/](https://mythx.io/)
 * [ ] [https://www.anchain.ai/](https://www.anchain.ai/)

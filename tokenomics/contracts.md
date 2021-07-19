@@ -1,6 +1,7 @@
 ---
 description: >-
-  Identical contract source code with identical contract addresses deployed on all chains
+  Identical contract source code with identical contract addresses deployed on
+  all chains
 ---
 
 # 📑 Contracts
