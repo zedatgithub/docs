@@ -2,7 +2,7 @@
 
 An on-chain referral program has been implemented to incentivize users to invite their friends to join the farming.
 
-Referrers will earn **3%** of their referrals' earnings, forever.
+Referrers will earn **2%** of their referrals' earnings, forever.
 
 ## How to enroll
 
