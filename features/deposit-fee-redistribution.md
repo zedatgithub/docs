@@ -58,7 +58,7 @@ For each trade on the AMM, a **0.2% trading fee** is charged.
 
 ## Transfer Tax <a id="transfer-tax"></a>
 
-For each transfer, an **8% transfer tax** is charged.
+For each transfer, an **5% transfer tax** is charged.
 
 {% hint style="info" %}
 The transfer tax applies **only** for transactions involving the NATIVE Tokens
