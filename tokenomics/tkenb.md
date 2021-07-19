@@ -14,7 +14,7 @@ description: farming token used for mixed pairs
 
 ## Transfer Tax <a id="transfer-tax"></a>
 
-For each transfer an **8% transfer tax** is charged and sent to [Fee/Tax Distribution](../features/deposit-fee-redistribution.md)
+For each transfer an **5% transfer tax** is charged and sent to [Fee/Tax Distribution](../features/deposit-fee-redistribution.md)
 
 {% hint style="info" %}
 The transfer tax is applied **only** for transactions involving the TKENB token
