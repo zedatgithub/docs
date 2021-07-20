@@ -20,46 +20,46 @@ New kind of Fair Launch
   * [TKENB](tokenomics/tkena.md)
 
 {% hint style="success" %}
-Binance Smart Chain \* the developer will mine 102,000 TKENA for [locked liquidity](features/locked-liquidity.md), [bridge](features/token-bridge.md), [lottery](features/lottery.md) which will be distributed as follows:
+Binance Smart Chain \* the developer will mine 11,000 TKENA for [locked liquidity](features/locked-liquidity.md), [bridge](features/token-bridge.md), [lottery](features/lottery.md) which will be distributed as follows:
 
-* **TKENA-BUSD**: 20,000 TKENA - 200 BUSD
-* **TKENA-USDT**: 20,000 TKENA - 200 USDT
-* **TKENA-USDC**: 20,000 TKENA - 200 USDC
-* **TKENA-DAI**:     20,000 TKENA - 200 DAI
-* **BRIDGE:**            20,000 TKENA
-* **LOTTERY:**           2,000 TKENA
+* **TKENA-BUSD**: 2,000 TKENA - 200 BUSD
+* **TKENA-USDT**: 2,000 TKENA - 200 USDT
+* **TKENA-USDC**: 2,000 TKENA - 200 USDC
+* **TKENA-DAI**:     2,000 TKENA - 200 DAI
+* **BRIDGE:**            2,000 TKENA
+* **LOTTERY:**         1,000 TKENA
 {% endhint %}
 
 {% hint style="success" %}
-Huobi Eco \(HECO\) \* the developer will mine 102,000 TKENA for [locked liquidity](features/locked-liquidity.md), [bridge](features/token-bridge.md) and [lottery](features/lottery.md), which will be distributed as follows:
+Huobi Eco \(HECO\) \* the developer will mine 11,000 TKENA for [locked liquidity](features/locked-liquidity.md), [bridge](features/token-bridge.md) and [lottery](features/lottery.md), which will be distributed as follows:
 
-* **TKENA-BUSD**: 20,000 TKENA - 200 HUSD
-* **TKENA-USDT**: 20,000 TKENA - 200 USDT
-* **TKENA-USDC**: 20,000 TKENA - 200 USDC
-* **TKENA-DAI**:     20,000 TKENA - 200 DAI
-* **BRIDGE:**            20,000 TKENA
-* **LOTTERY:**           2,000 TKENA
+* **TKENA-BUSD**: 2,000 TKENA - 200 HUSD
+* **TKENA-USDT**: 2,000 TKENA - 200 USDT
+* **TKENA-USDC**: 2,000 TKENA - 200 USDC
+* **TKENA-DAI**:     2,000 TKENA - 200 DAI
+* **BRIDGE:**            2,000 TKENA
+* **LOTTERY:**         1,000 TKENA
 {% endhint %}
 
 {% hint style="success" %}
-Polygon \(MATIC\) \* the developer will mine 82,000 TKENA for [locked liquidity](features/locked-liquidity.md), [bridge](features/token-bridge.md) and [lottery](features/lottery.md), which will be distributed as follows:
+Polygon \(MATIC\) \* the developer will mine 9,000 TKENA for [locked liquidity](features/locked-liquidity.md), [bridge](features/token-bridge.md) and [lottery](features/lottery.md), which will be distributed as follows:
 
-* **TKENA-USDC**: 20,000 TKENA - 200 USDC
-* **TKENA-USDT**: 20,000 TKENA - 200 USDT
-* **TKENA-DAI**:     20,000 TKENA - 200 DAI
-* **BRIDGE:**            20,000 TKENA
-* **LOTTERY:**           2,000 TKENA
+* **TKENA-USDC**: 2,000 TKENA - 200 USDC
+* **TKENA-USDT**: 2,000 TKENA - 200 USDT
+* **TKENA-DAI**:     2,000 TKENA - 200 DAI
+* **BRIDGE:**            2,000 TKENA
+* **LOTTERY:**         1,000 TKENA
 {% endhint %}
 
 {% hint style="success" %}
-Fantom \* the developer will mine 102,000 TKENA for [locked liquidity](features/locked-liquidity.md), [bridge](features/token-bridge.md) and [lottery](features/lottery.md), which will be distributed as follows:
+Fantom \* the developer will mine 11,000 TKENA for [locked liquidity](features/locked-liquidity.md), [bridge](features/token-bridge.md) and [lottery](features/lottery.md), which will be distributed as follows:
 
-* **TKENA-USDC**:   20,000 TKENA - 200 USDC
-* **TKENA-FUSDT**: 20,000 TKENA - 200 FUSDT
-* **TKENA-FUSD**:   20,000 TKENA - 200 FUSD
-* **TKENA-DAI**:       20,000 TKENA - 200 DAI
-* **BRIDGE:**              20,000 TKENA
-* **LOTTERY:**             2,000 TKENA
+* **TKENA-USDC**:   2,000 TKENA - 200 USDC
+* **TKENA-FUSDT**: 2,000 TKENA - 200 FUSDT
+* **TKENA-FUSD**:   2,000 TKENA - 200 FUSD
+* **TKENA-DAI**:       2,000 TKENA - 200 DAI
+* **BRIDGE:**              2,000 TKENA
+* **LOTTERY:**           1,000 TKENA
 {% endhint %}
 
 {% hint style="warning" %}
