@@ -52,11 +52,10 @@ Polygon \(MATIC\) \* the developer will mine 9,000 TKENA for [locked liquidity](
 {% endhint %}
 
 {% hint style="success" %}
-Fantom \* the developer will mine 11,000 TKENA for [locked liquidity](features/locked-liquidity.md), [bridge](features/token-bridge.md) and [lottery](features/lottery.md), which will be distributed as follows:
+Fantom \* the developer will mine 9,000 TKENA for [locked liquidity](features/locked-liquidity.md), [bridge](features/token-bridge.md) and [lottery](features/lottery.md), which will be distributed as follows:
 
 * **TKENA-USDC**:   2,000 TKENA - 200 USDC
 * **TKENA-FUSDT**: 2,000 TKENA - 200 FUSDT
-* **TKENA-FUSD**:   2,000 TKENA - 200 FUSD
 * **TKENA-DAI**:       2,000 TKENA - 200 DAI
 * **BRIDGE:**              2,000 TKENA
 * **LOTTERY:**           1,000 TKENA
