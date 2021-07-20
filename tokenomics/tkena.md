@@ -21,26 +21,26 @@ The transfer tax is applied **only** for transactions involving the TKENA token
 
 ## Emission Rate - Binance Smart Chain <a id="emission-rate"></a>
 
-* 1 TKENA / block
-* 28,800 TKENA / day \*
+* 10 TKENA / block
+* ~288,000 TKENA / day \*
 * 9.09% of the emission rate will be locked in the [Bridge Contract](../features/token-bridge.md) in order to provide liquidity
 
 ## Emission Rate - Huobi Eco \(HECO\)
 
-* 1 TKENA / block
-* 28,800 TKENA / day \*\*
+* 10 TKENA / block
+* ~288,000 TKENA / day \*\*
 * 9.09% of the emission rate will be locked in the [Bridge Contract](../features/token-bridge.md) in order to provide liquidity
 
 ## Emission Rate - Polygon \(MATIC\)
 
-* 0.6 TKENA / block
-* 28,800 TKENA / day \*\*\*
+* 6,6 TKENA / block
+* 288,000 TKENA / day \*\*\*
 * 9.09% of the emission rate will be locked in the [Bridge Contract](../features/token-bridge.md) in order to provide liquidity
 
 ## Emission Rate - Fantom
 
-* 0.3 TKENA / block
-* 28,800 TKENA / day \*\*\*\*
+* 3,3 TKENA / block
+* 288,000 TKENA / day \*\*\*\*
 * 9.09% of the emission rate will be locked in the [Bridge Contract](../features/token-bridge.md) in order to provide liquidity
 
 _\* Binance Smart Chain has an_ [_Average Block Time_](https://bscscan.com/chart/blocktime) _of ~ 3 seconds_   
