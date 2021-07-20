@@ -24,7 +24,7 @@ Every 8 hours \(3 times per day\), at exact GMT hours: 0 AM, 8 AM, 4 PM
 
 _\* on Huobi Eco \(HECO\), HUSD replaces BUSD_   
 _\* on Polygon \(MATIC\), BUSD is not available_   
-_\* on Fantom, FUSD replaces BUSD and FUSDT replaces USDT_
+_\* on Fantom, BUSD is not available_ 
 
 ### TKENB Platform
 
@@ -44,9 +44,9 @@ _\* on Fantom, FUSD replaces BUSD and FUSDT replaces USDT_
 * 40% of the BUSD/BNB/BTCB/ETH will be [locked as liquidity ](locked-liquidity.md)in AMM
 * 20% of the BUSD/BNB/BTCB/ETH will be sent to developer address for future development
 
-_\* on Huobi Eco \(HECO\), HUSD replaces BUSD_   
-_\* on Polygon \(MATIC\), BUSD is not available_   
-_\* on Fantom, FUSD replaces BUSD and FUSDT replaces USDT_
+_\* on Huobi Eco \(HECO\), USDT replaces BUSD_   
+_\* on Polygon \(MATIC\), USDC replaces BUSD   
+\* on Polygon, USDC replaces BUSD_
 
 ## Deposit Fee <a id="deposit-fee"></a>
 
