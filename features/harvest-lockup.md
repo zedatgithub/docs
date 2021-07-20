@@ -96,7 +96,7 @@ Below is the list of farms with **stable-pairs-only** available at launch to ear
 
 _\* on Huobi Eco \(HECO\), HUSD replaces BUSD_   
 _\* on Polygon \(MATIC\), BUSD is not available_   
-_\* on Fantom, FUSDT replaces USDT_
+_\* on Fantom, BUSD is not available_
 
 ## TKENB Farms
 
