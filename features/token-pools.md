@@ -13,7 +13,9 @@ Below is the list of pools with **stable-pairs-only** available at launch
 Farming pools allow TKENA holders to stake their TKENA and earn following tokens:  
 TKENA, TKENB, BUSD\*, USDT, USDC and DAI.
 
-_\* BUSD is only available on Binance Smart Chain_
+_\* on Huobi Eco \(HECO\), HUSD replaces BUSD_   
+_\* on Polygon \(MATIC\), BUSD is not available_   
+_\* on Fantom, BUSD is not available_
 
 ## TKENB Pools
 
