@@ -20,7 +20,7 @@ New kind of Fair Launch
   * [TKENB](tokenomics/tkena.md)
 
 {% hint style="success" %}
-Binance Smart Chain \* the developer will mine 11,000 TKENA for [locked liquidity](features/locked-liquidity.md), [bridge](features/token-bridge.md), [lottery](features/lottery.md) which will be distributed as follows:
+Binance Smart Chain \* the developer will mine 11,000 TKENA for [locked liquidity](features/locked-liquidity.md), [bridge](features/token-bridge.md) and [lottery](features/lottery.md) which will be distributed as follows:
 
 * **TKENA-BUSD**: 2,000 TKENA - 200 BUSD
 * **TKENA-USDT**: 2,000 TKENA - 200 USDT
