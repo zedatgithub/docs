@@ -2,7 +2,7 @@
 
 You can use the Bridge to transfer assets between [Binance Smart Chain](https://www.binance.org/en/smartChain), [Huobi Eco \(HECO\)](https://www.hecochain.com/en-us/), [Polygon](https://polygon.technology/) and [Fantom](https://fantom.foundation/) networks. Thanks to the bridge you can easily transfer your assets from one network to another and you may also look for arbitrage opportunities for either the NATIVE tokens or the farming APRs.
 
-When transferring NATIVE tokens, the regular Transfer Tax \(see [Fee/Tax Distribution](deposit-fee-redistribution.md)\) will be discounted from 8% to **0%** instead.
+When transferring NATIVE tokens, the regular Transfer Tax \(see [Fee/Tax Distribution](deposit-fee-redistribution.md)\) will be discounted from **8%** to **0%** instead.
 
 Transferring other than NATIVE tokens will incur a **0.2%** trading fee.
 
