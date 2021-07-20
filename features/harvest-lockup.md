@@ -9,15 +9,15 @@ Below is the list of farms with **stable-pairs-only** available at launch to ear
     <tr>
       <th style="text-align:center">
         <p>Farm ID</p>
-        <p>BSC/Heco/Fantom</p>
+        <p>BSC/Heco</p>
       </th>
       <th style="text-align:center">Farm ID
-        <br />Polygon</th>
+        <br />Polygon/Fantom</th>
       <th style="text-align:left">LP</th>
       <th style="text-align:center">Multiplier
-        <br />BSC/Heco/Fantom</th>
+        <br />BSC/Heco</th>
       <th style="text-align:center">Multiplier
-        <br />Polygon</th>
+        <br />Polygon/Fantom</th>
     </tr>
   </thead>
   <tbody>
@@ -96,7 +96,7 @@ Below is the list of farms with **stable-pairs-only** available at launch to ear
 
 _\* on Huobi Eco \(HECO\), HUSD replaces BUSD_   
 _\* on Polygon \(MATIC\), BUSD is not available_   
-_\* on Fantom, FUSD replaces BUSD and FUSDT replaces USDT_
+_\* on Fantom, FUSDT replaces USDT_
 
 ## TKENB Farms
 
@@ -115,7 +115,7 @@ Below is the list of farms with **mixed-pairs** available after the [TKENB IFO](
 | 9 | ETH-BNB LP | 5x |
 | 10 | ETH-BUSD LP | 5x |
 
-_\* on Huobi Eco \(HECO\), HUSD replaces BUSD_   
-_\* on Polygon \(MATIC\), BUSD is not available_   
-_\* on Fantom, FUSD replaces BUSD and FUSDT replaces USDT_
+_\* on Huobi Eco \(HECO\), USDT replaces BUSD_   
+_\* on Polygon \(MATIC\), USDC replaces BUSD   
+\* on Polygon, USDC replaces BUSD_
 
