@@ -37,7 +37,7 @@ If the winning numbers are "1-9-3-2**"**
 
 ## **Lottery phases** <a id="lottery-phases"></a>
 
-Lottery first draw is on [GMT 2021-08-07 08:00:00](https://www.timeanddate.com/countdown/generic?iso=2021-08-06T12:00:00Z&font=sanserif&p0=769&csz=0&msg=DEFIFinance.one%20|%20TKENA%20Farming).
+Lottery first draw is on [GMT 2021-08-07 08:00:00](https://www.timeanddate.com/countdown/generic?iso=2021-08-06T12:00:00Z&font=sanserif&p0=769&csz=0&msg=GalaxyFinance.one%20|%20Lottery).
 
 There are 3 draws per day, once every 8 hours, at specific GMT time:
 
