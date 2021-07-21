@@ -1,6 +1,6 @@
 # 🔒 Locked Liquidity
 
-The **Locker** contract locks and safeguards the initial liquidity \(LP tokens\) and also the [Automatic Liquidity](automatic-liquidity.md) created from [Fee/Tax Distribution](deposit-fee-redistribution.md).
+The **Locker** contract locks and safeguards the initial liquidity \(LP tokens\) and the [Automatic Liquidity](automatic-liquidity.md) created from [Fee/Tax Distribution](deposit-fee-redistribution.md).
 
 The ownership of the **Locker** [contract](../tokenomics/contracts.md) will be transferred to the [Timelock](../security/timelock.md).
 
