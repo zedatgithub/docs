@@ -10,11 +10,11 @@ description: >-
 
 ### About TKENA <a id="about-pantherswap"></a>
 
-TKENA is the first **stable-pairs-only** yield farm, AMM, decentralized exchange \(DEX\) and multi-chain Bridge running on [Binance Smart Chain](https://www.binance.org/en/smartChain), [Huobi Eco \(HECO\)](https://www.hecochain.com/en-us/), [Polygon](https://polygon.technology/) and [Fantom](https://fantom.foundation/), with Yield Farming, Staking, Lottery, auto-compounding Vaults and more.
+TKENA is the first token released by DXAMMFinance on the first **stable-pairs-only** yield farms, AMM, decentralized exchange \(DEX\) and multi-chain Bridge running on [Binance Smart Chain](https://www.binance.org/en/smartChain), [Huobi Eco \(HECO\)](https://www.hecochain.com/en-us/), [Polygon](https://polygon.technology/) and [Fantom](https://fantom.foundation/), with Yield Farming, Staking, Lottery, auto-compounding Vaults and more.
 
 ### About TKENB <a id="main-features"></a>
 
-TKENB is a **mixed-pairs** yield farm, AMM, decentralized exchange \(DEX\) and multi-chain Bridge running on [Binance Smart Chain](https://www.binance.org/en/smartChain), [Huobi Eco \(HECO\)](https://www.hecochain.com/en-us/), [Polygon](https://polygon.technology/) and [Fantom](https://fantom.foundation/), with Yield Farming, Staking, Lottery, auto-compounding Vaults and more.
+TKENB is the second token released by DXAMMFinance together with **mixed-pairs** yield farms, AMM, decentralized exchange \(DEX\) and multi-chain Bridge running on [Binance Smart Chain](https://www.binance.org/en/smartChain), [Huobi Eco \(HECO\)](https://www.hecochain.com/en-us/), [Polygon](https://polygon.technology/) and [Fantom](https://fantom.foundation/), with Yield Farming, Staking, Lottery, auto-compounding Vaults and more.
 
 {% hint style="info" %}
 [TKENB](tokenomics/tkenb.md) will be available after [IFO](features/tkenb-ifo.md)
