@@ -22,6 +22,7 @@ TKENB is the second token released by DXAMMFinance together with **mixed-pairs**
 
 ## **Main Features** <a id="main-features"></a>
 
+* 24 Hours [Timelock](security/timelock.md) already in place for every contract \([how to check contract is time locked](https://galaxyfinance.one/how-to-verify-contract-owner-is-timelock.mp4)\)
 * [Farms](features/farms-pools-compound.md) where you deposit LP tokens and earn TKENA, TKENB; farms allow you to [compound](features/farms-pools-compound.md) your LP tokens and, whenever you use this feature on a farm:
   * **without a deposit** **fee**, the **token tax** \(the fee you would be paying if using the exchange yourself to sell half of your tokens in order to create LPs\) will be **50%** off
   * **with a deposit** **fee**, the fee for re-staking your LP tokens will be **50%** off the regular fee you'd have to pay if you were to deposit the LPs yourself
@@ -37,5 +38,4 @@ TKENB is the second token released by DXAMMFinance together with **mixed-pairs**
 * [Anti Bot](features/anti-bot.md) mechanism preventing Bots from buying/selling the token too frequently
 * [Anti Whale](features/anti-whale.md) mechanism preventing Whales from quickly buying/selling large amounts \(pump & dump\)
 * [No Migrator Code](security/no-migrator-code.md)
-* [Timelock](security/timelock.md)
 
