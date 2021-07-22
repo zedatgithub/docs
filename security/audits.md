@@ -12,8 +12,8 @@ AMM contracts, forked from Pancakeswap v1 Certik audited project.
 
 BSC Online Contract Checker[ ](https://galaxyfinance.one/contractdiffchecker.html?a1=0xBCfCcbde45cE874adCB698cC183deBcF17952812&a2=0xd7581640DBfC558b3f4d729B8f8c60e0122511F8)\( feel free to compare different contracts \)
 
-* [PacakeFactory vs DXAMMFactory](https://galaxyfinance.one/contractdiffchecker.html?a1=0xBCfCcbde45cE874adCB698cC183deBcF17952812&a2=0xd7581640DBfC558b3f4d729B8f8c60e0122511F8) 
-* [PacakeRouter vs DXAMMRouter](https://galaxyfinance.one/contractdiffchecker.html?a1=0x05ff2b0db69458a0750badebc4f9e13add608c7f&a2=0x3d492a1Cf02112f201721544e13a5e239a5258d9) 
+* [PancakeFactory vs DXAMMFactory](https://galaxyfinance.one/contractdiffchecker.html?a1=0xBCfCcbde45cE874adCB698cC183deBcF17952812&a2=0xd7581640DBfC558b3f4d729B8f8c60e0122511F8) 
+* [PancakeRouter vs DXAMMRouter](https://galaxyfinance.one/contractdiffchecker.html?a1=0x05ff2b0db69458a0750badebc4f9e13add608c7f&a2=0x3d492a1Cf02112f201721544e13a5e239a5258d9) 
 
 _\* this small JavaScript tool downloads the 2 smart contract source codes from_ [_https://api.bscscan.com_](https://api.bscscan.com) _and compares it_  
   
