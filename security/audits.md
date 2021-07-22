@@ -2,10 +2,10 @@
 
 ### Audits
 
-* [ ] [https://rugdoc.io/​](https://rugdoc.io/) \( had initial talking they suggested audit from paladinsec but we had to postpone that audit as to expensive "Starting from 6k to 40k+++"  \)
+* [ ] [https://rugdoc.io/​](https://rugdoc.io/) \( had initial talking they suggested audit from paladinsec but we had to postpone that audit because being too expensive "Starting from 6k to 40k+++"  \)
 * [ ] [https://techrate.org/](https://techrate.org/) \( contacted \)
 * [ ] [https://mythx.io/](https://mythx.io/) \( signed up \)
-* [ ] [https://paladinsec.co/](https://paladinsec.co/audits/#contact) or [https://www.certik.org/](https://www.certik.org/)  \(after 2 week of launch and will be paid from [Fee/Tax Distribution](../features/deposit-fee-redistribution.md) \)
+* [ ] [https://paladinsec.co/](https://paladinsec.co/audits/#contact) or [https://www.certik.org/](https://www.certik.org/)  \(one of them after 2 week of launch and will be paid from [Fee/Tax Distribution](../features/deposit-fee-redistribution.md) \)
 
 MasterChef contract, forked from Pancake v1 Certik audited project.  
 AMM contracts, forked from Pancakeswap v1 Certik audited project.
