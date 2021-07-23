@@ -100,8 +100,7 @@ Multi Chain - Online Contract Diff Checker source code which runs on your PC ins
     <form action='' method='get'>
         <div>
             <input type='text' id='disabled' value='Comma separated ignored words' disabled>
-            <input type='text' id='ignore' name='ignore' title='Comma separated ignored words'
-                placeholder='Comma separated ignored words'>
+            <input type='text' id='ignore' name='ignore' title='Comma separated ignored words' placeholder='Comma separated ignored words'>
         </div>
         <div>
             <select id='chain1' name='chain1'>
@@ -110,8 +109,7 @@ Multi Chain - Online Contract Diff Checker source code which runs on your PC ins
                 <option>Polygon</option>
                 <option>Fantom</option>
             </select>
-            <input type='text' id='address1' name='address1' title='Smart contract address'
-                placeholder='Smart contract address'>
+            <input type='text' id='address1' name='address1' title='Smart contract address' placeholder='Smart contract address'>
             <input type='submit' id='verify' value='Verify' onclick='$(".overlay").show();'>
             <select id='chain2' name='chain2'>
                 <option>Binance</option>
@@ -119,8 +117,7 @@ Multi Chain - Online Contract Diff Checker source code which runs on your PC ins
                 <option>Polygon</option>
                 <option>Fantom</option>
             </select>
-            <input type='text' id='address2' name='address2' title='Smart contract address'
-                placeholder='Smart contract address'>
+            <input type='text' id='address2' name='address2' title='Smart contract address' placeholder='Smart contract address'>
         </div>
     </form>
     <div id="diffResult"></div>
