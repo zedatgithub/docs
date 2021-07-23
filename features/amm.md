@@ -41,10 +41,10 @@ You can use the links below to compare the smart contracts of DXAMM Finance and 
 * Factory: [https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812](https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812#code)
 * Router: [https://bscscan.com/address/0x05ff2b0db69458a0750badebc4f9e13add608c7f](https://bscscan.com/address/0x05ff2b0db69458a0750badebc4f9e13add608c7f#readContract)
 
-BSC Online Contract Checker[ ](https://galaxyfinance.one/contractdiffchecker.html?a1=0xBCfCcbde45cE874adCB698cC183deBcF17952812&a2=0xd7581640DBfC558b3f4d729B8f8c60e0122511F8)\( feel free to compare different contracts \)
+Multi Chain - Online Contract Checker[ ](https://galaxyfinance.one/contractdiffchecker.html?a1=0xBCfCcbde45cE874adCB698cC183deBcF17952812&a2=0xd7581640DBfC558b3f4d729B8f8c60e0122511F8)\( feel free to compare different contracts \)
 
-* [PancakeFactory vs DXAMMFactory](https://galaxyfinance.one/contractdiffchecker.html?a1=0xBCfCcbde45cE874adCB698cC183deBcF17952812&a2=0xd7581640DBfC558b3f4d729B8f8c60e0122511F8) 
-* [PancakeRouter vs DXAMMRouter](https://galaxyfinance.one/contractdiffchecker.html?a1=0x05ff2b0db69458a0750badebc4f9e13add608c7f&a2=0x3d492a1Cf02112f201721544e13a5e239a5258d9) 
+* [PancakeFactory vs DXAMMFactory](https://galaxyfinance.one/contractdiffchecker.html?ignore=Pancake%2Cpancake%2CCake%2CGalaxy%2Cpragma+solidity.*&chain1=Binance&address1=0xBCfCcbde45cE874adCB698cC183deBcF17952812&chain2=Binance&address2=0xd7581640DBfC558b3f4d729B8f8c60e0122511F8) 
+* [PancakeRouter vs DXAMMRouter](https://galaxyfinance.one/contractdiffchecker.html?ignore=Pancake%2CGalaxy%2Cpragma+solidity.*&chain1=Binance&address1=0x05ff2b0db69458a0750badebc4f9e13add608c7f&chain2=Binance&address2=0x3d492a1Cf02112f201721544e13a5e239a5258d9) 
 
 ## Trading Fee <a id="trading-fee"></a>
 
