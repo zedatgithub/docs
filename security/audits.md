@@ -28,7 +28,7 @@ Binance Smart Chain - Online Contract Diff Checker source code which runs on you
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/diff2html/bundles/css/diff2html.min.css" />
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/diff2html/bundles/js/diff2html-ui.min.js"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jsdiff/5.0.0/diff.min.js"></script>
-    <title>Binance Smart Chain Smart Online Contract Checker</title>
+    <title>Binance Smart Chain - Online Contract Diff Checker</title>
 </head>
 <script>
     urlParams = new URLSearchParams(window.location.search);
