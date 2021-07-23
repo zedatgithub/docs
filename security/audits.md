@@ -20,20 +20,27 @@ _\* this small JavaScript tool downloads the 2 smart contract source codes from_
 Binance Smart Chain - Online Contract Diff Checker source code which runs on your PC instead on server
 
 ```javascript
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jsdiff/5.0.0/diff.min.js" integrity="sha512-Rjml7/E2zETyVFhzIQnTEjW7PBCH5/Y4ac2uu9MGqh1JclCVHbvT1lIlcVmvAGFipi/L16eA6Jr9km2zit9Tfg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<title>Binance Smart Chain - Online Contract Checker</title>
-<pre id="display"></pre>
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.1/styles/github.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/diff2html/bundles/css/diff2html.min.css" />
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/diff2html/bundles/js/diff2html-ui.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jsdiff/5.0.0/diff.min.js"></script>
+    <title>Binance Smart Chain Smart Online Contract Checker</title>
+</head>
 <script>
     urlParams = new URLSearchParams(window.location.search);
     function getFlatSourceCode(address) {
         var xmlHttp = new XMLHttpRequest();
-        xmlHttp.open( "GET", 'https://api.bscscan.com/api?module=contract&action=getsourcecode&apikey=E1GZ8ZJZ1G2KC314EPJQQIP8MCAG9X553D&address=' + address, false );
-        xmlHttp.send( null );
+        xmlHttp.open("GET", 'https://zed.ro/apiXmodule=contract&action=getsourcecode&apikey=E1GZ8ZJZ1G2KC314EPJQQIP8MCAG9X553D&address=' + address, false);
+        xmlHttp.send(null);
         response = JSON.parse(xmlHttp.responseText)
         sourceCode = response.result[0].SourceCode;
         if (undefined === sourceCode) return 'Address ' + address + ' ' + (undefined === response.result ? 'Failed to get sourcecode' : response.result) + '<br>';
         if (sourceCode.substring(0, 2) == '{{') {
-            sourceCodes = JSON.parse(sourceCode.substring(1, sourceCode.length-1)).sources;
+            sourceCodes = JSON.parse(sourceCode.substring(1, sourceCode.length - 1)).sources;
             sourceCode = '';
             func = {}
             loop = 0;
@@ -54,20 +61,26 @@ Binance Smart Chain - Online Contract Diff Checker source code which runs on you
             Object.keys(func).forEach((k) => { if (func[k]) sourceCode = func[k]; })
         }
         if (urlParams.get('ignore')) urlParams.get('ignore').split(',').map(function (e) { sourceCode = sourceCode.replace(new RegExp(e, 'g'), ''); })
-        return sourceCode.replace(/\n/g, '\n<br>');
+        return sourceCode.replace(/\r+/g, '\n').replace(/\n{2,}/g, '\n').trim();
     }
-    var diff = Diff.diffLines(getFlatSourceCode(urlParams.get('a1')), getFlatSourceCode(urlParams.get('a2')), {ignoreWhitespace: true, newlineIsToken: true}),
-        display = document.getElementById('display'),
-        fragment = document.createDocumentFragment();
-    diff.forEach(function(part){
-        color = part.added ? 'green' : part.removed ? 'red' : 'grey';
-        span = document.createElement('span');
-        span.style.color = color;
-        span.appendChild(document.createTextNode(part.value.replace(/<br>/g, '\n')));
-        fragment.appendChild(span);
+    diffString = Diff.createTwoFilesPatch(urlParams.get('a1'), urlParams.get('a2'), getFlatSourceCode(urlParams.get('a1')), getFlatSourceCode(urlParams.get('a2')));
+    document.addEventListener('DOMContentLoaded', function () {
+        var targetElement = document.getElementById('myDiffElement');
+        var configuration = {
+            drawFileList: false,
+            fileListToggle: false,
+            fileContentToggle: false,
+            outputFormat: 'side-by-side',
+        };
+        var diff2htmlUi = new Diff2HtmlUI(targetElement, diffString, configuration);
+        diff2htmlUi.draw();
+        diff2htmlUi.highlightCode();
     });
-    display.appendChild(fragment);
 </script>
+<body>
+    <div id="myDiffElement"></div>
+</body>
+</html>
 ```
 
   
