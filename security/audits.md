@@ -42,44 +42,48 @@ Multi Chain - Online Contract Diff Checker source code which runs on your PC ins
         $("#ignore").val(urlParams.get('ignore'));
         function getFlatSourceCode(address, chain) {
             if (!/^(0x)?[0-9a-f]{40}$/i.test(address)) return { name: '', source: 'Invalid address: ' + address};
-            var xmlHttp = new XMLHttpRequest();
-            if (chain == 'heco') url = 'https://api.hecoinfo.com/api?module=contract&action=getsourcecode&apikey=5G3VJVUHVXCHY4JB1VECKYUMMPZCMXVZH6&address=';
-            else if (chain == 'polygon') url = 'https://api.polygon.com/api?module=contract&action=getsourcecode&apikey=WJXAMUTNMUV98I5NQPYM4URY2YK9RIBW25&address=';
-            else if (chain == 'fantom') url = 'https://api.ftmscan.com/api?module=contract&action=getsourcecode&apikey=H78J721C8UY75RIRJPZZ9BXMFJ2J15E2G9&address=';
+            if (chain == 'Heco') url = 'https://api.hecoinfo.com/api?module=contract&action=getsourcecode&apikey=5G3VJVUHVXCHY4JB1VECKYUMMPZCMXVZH6&address=';
+            else if (chain == 'Polygon') url = 'https://api.polygonscan.com/api?module=contract&action=getsourcecode&apikey=WJXAMUTNMUV98I5NQPYM4URY2YK9RIBW25&address=';
+            else if (chain == 'Fantom') url = 'https://api.ftmscan.com/api?module=contract&action=getsourcecode&apikey=H78J721C8UY75RIRJPZZ9BXMFJ2J15E2G9&address=';
             else url = 'https://api.bscscan.com/api?module=contract&action=getsourcecode&apikey=E1GZ8ZJZ1G2KC314EPJQQIP8MCAG9X553D&address=';
-            xmlHttp.open("GET", url + address, false);
-            xmlHttp.send(null);
-            response = JSON.parse(xmlHttp.responseText)
-            sourceCode = response.result[0].SourceCode;
-            if (undefined === sourceCode) return { name: '', source: 'Address ' + address + ' ' + (undefined === response.result ? 'Failed to get sourcecode' : response.result)};
-            if (sourceCode.substring(0, 2) == '{{') {
-                sourceCodes = JSON.parse(sourceCode.substring(1, sourceCode.length - 1)).sources;
-                sourceCode = '';
-                func = {}
-                loop = 0;
-                Object.keys(sourceCodes).forEach((k) => { func[k.match(/[^\/]*.sol/).pop()] = sourceCodes[k].content.replace(/\n/g, '\n'); })
-                do {
-                    hasImports = false;
-                    Object.keys(func).forEach((a) => {
-                        if (imports = func[a].match(/import(.*);/gm)) {
-                            hasImports = true;
-                            for (k in imports) {
-                                key = imports[k].match(/[^\/]*.sol/).pop();
-                                func[a] = func[a].replace(imports[k], func[key])
-                                func[key] = '';
+            try {
+                var xmlHttp = new XMLHttpRequest();
+                xmlHttp.open("GET", url + address, false);
+                xmlHttp.send(null);
+                response = JSON.parse(xmlHttp.responseText)
+                sourceCode = response.result[0].SourceCode;
+                if (undefined === sourceCode) return { name: '', source: 'Address ' + address + ' ' + (undefined === response.result ? 'Failed to get sourcecode' : response.result)};
+                if (sourceCode.substring(0, 2) == '{{') {
+                    sourceCodes = JSON.parse(sourceCode.substring(1, sourceCode.length - 1)).sources;
+                    sourceCode = '';
+                    func = {}
+                    loop = 0;
+                    Object.keys(sourceCodes).forEach((k) => { func[k.match(/[^\/]*.sol/).pop()] = sourceCodes[k].content.replace(/\n/g, '\n'); })
+                    do {
+                        hasImports = false;
+                        Object.keys(func).forEach((a) => {
+                            if (imports = func[a].match(/import(.*);/gm)) {
+                                hasImports = true;
+                                for (k in imports) {
+                                    key = imports[k].match(/[^\/]*.sol/).pop();
+                                    func[a] = func[a].replace(imports[k], func[key])
+                                    func[key] = '';
+                                }
                             }
-                        }
-                    });
-                } while (hasImports && loop++ < 100)
-                Object.keys(func).forEach((k) => { if (func[k]) sourceCode = func[k]; })
+                        });
+                    } while (hasImports && loop++ < 100)
+                    Object.keys(func).forEach((k) => { if (func[k]) sourceCode = func[k]; })
+                }
+                if (urlParams.get('ignore')) urlParams.get('ignore').split(',').map(function (e) { sourceCode = sourceCode.replace(new RegExp(e, 'gm'), ''); })
+            } catch (e) {
+                return { name: '', source: 'Address ' + address + ' failed to get sourcecode.' + e};
             }
-            if (urlParams.get('ignore')) urlParams.get('ignore').split(',').map(function (e) { sourceCode = sourceCode.replace(new RegExp(e, 'gm'), ''); })
             return { name: response.result[0].ContractName, source: sourceCode.replace(/\r+/g, '\n').replace(/\n{2,}/g, '\n').trim() };
         }
         $(".overlay").show();
         if (urlParams.get('address1')) contract1 = getFlatSourceCode(urlParams.get('address1'), urlParams.get('chain1'));
         if (urlParams.get('address2')) contract2 = getFlatSourceCode(urlParams.get('address2'), urlParams.get('chain2'));
-        if (urlParams.get('address1') && urlParams.get('address1')) diffString = Diff.createTwoFilesPatch(contract1.name, contract2.name, contract1.source, contract2.source);
+        if (urlParams.get('address1') && urlParams.get('address2')) diffString = Diff.createTwoFilesPatch(contract1.name, contract2.name, contract1.source, contract2.source);
         $(".overlay").hide();
         var targetElement = document.getElementById('diffResult');
         var configuration = {
