@@ -18,6 +18,10 @@ Below is the list of farms with **stable-pairs-only** available at launch to ear
         <br />BSC/Heco</th>
       <th style="text-align:center">Multiplier
         <br />Polygon/Fantom</th>
+      <th style="text-align:center">
+        <p>Harvest</p>
+        <p>Loockup</p>
+      </th>
     </tr>
   </thead>
   <tbody>
@@ -27,6 +31,7 @@ Below is the list of farms with **stable-pairs-only** available at launch to ear
       <td style="text-align:left">TKENA-BUSD LP</td>
       <td style="text-align:center">20x</td>
       <td style="text-align:center">-</td>
+      <td style="text-align:center">4 hours</td>
     </tr>
     <tr>
       <td style="text-align:center">2</td>
@@ -34,6 +39,7 @@ Below is the list of farms with **stable-pairs-only** available at launch to ear
       <td style="text-align:left">TKENA-USDC LP</td>
       <td style="text-align:center">20x</td>
       <td style="text-align:center">27x</td>
+      <td style="text-align:center">4 hours</td>
     </tr>
     <tr>
       <td style="text-align:center">3</td>
@@ -41,6 +47,7 @@ Below is the list of farms with **stable-pairs-only** available at launch to ear
       <td style="text-align:left">TKENA-USDT LP</td>
       <td style="text-align:center">20x</td>
       <td style="text-align:center">27x</td>
+      <td style="text-align:center">4 hours</td>
     </tr>
     <tr>
       <td style="text-align:center">4</td>
@@ -48,6 +55,7 @@ Below is the list of farms with **stable-pairs-only** available at launch to ear
       <td style="text-align:left">TKENA-DAI LP</td>
       <td style="text-align:center">20x</td>
       <td style="text-align:center">27x</td>
+      <td style="text-align:center">4 hours</td>
     </tr>
     <tr>
       <td style="text-align:center">5</td>
@@ -55,6 +63,7 @@ Below is the list of farms with **stable-pairs-only** available at launch to ear
       <td style="text-align:left">BUSD-USDT LP</td>
       <td style="text-align:center">5x</td>
       <td style="text-align:center">-</td>
+      <td style="text-align:center">8 hours</td>
     </tr>
     <tr>
       <td style="text-align:center">6</td>
@@ -62,6 +71,7 @@ Below is the list of farms with **stable-pairs-only** available at launch to ear
       <td style="text-align:left">BUSD-DAI LP</td>
       <td style="text-align:center">5x</td>
       <td style="text-align:center">-</td>
+      <td style="text-align:center">8 hours</td>
     </tr>
     <tr>
       <td style="text-align:center">7</td>
@@ -69,6 +79,7 @@ Below is the list of farms with **stable-pairs-only** available at launch to ear
       <td style="text-align:left">USDT-USDC LP</td>
       <td style="text-align:center">5x</td>
       <td style="text-align:center">10x</td>
+      <td style="text-align:center">8 hours</td>
     </tr>
     <tr>
       <td style="text-align:center">8</td>
@@ -76,6 +87,7 @@ Below is the list of farms with **stable-pairs-only** available at launch to ear
       <td style="text-align:left">USDT-DAI LP</td>
       <td style="text-align:center">5x</td>
       <td style="text-align:center">10x</td>
+      <td style="text-align:center">8 hours</td>
     </tr>
     <tr>
       <td style="text-align:center">9</td>
@@ -83,6 +95,7 @@ Below is the list of farms with **stable-pairs-only** available at launch to ear
       <td style="text-align:left">USDC-BUSD LP</td>
       <td style="text-align:center">5x</td>
       <td style="text-align:center">-</td>
+      <td style="text-align:center">8 hours</td>
     </tr>
     <tr>
       <td style="text-align:center">10</td>
@@ -90,6 +103,7 @@ Below is the list of farms with **stable-pairs-only** available at launch to ear
       <td style="text-align:left">USDC-DAI LP</td>
       <td style="text-align:center">5x</td>
       <td style="text-align:center">10x</td>
+      <td style="text-align:center">8 hours</td>
     </tr>
   </tbody>
 </table>
@@ -102,18 +116,81 @@ _\* on Fantom, BUSD is not available_
 
 Below is the list of farms with **mixed-pairs** available after the [TKENB IFO](tkenb-ifo.md), on all networks
 
-| Farm  ID | LP | Multiplier |
-| :---: | :--- | :---: |
-| 1 | TKENB-BUSD LP | 20x |
-| 2 | TKENB-BNB LP | 20x |
-| 3 | TKENB-BTC LP | 20x |
-| 4 | TKENB-ETH LP | 20x |
-| 5 | BNB-BTC LP | 5x |
-| 6 | BNB-BUSD LP | 5x |
-| 7 | BTC-ETH LP | 5x |
-| 8 | BTC-BUSD LP | 5x |
-| 9 | ETH-BNB LP | 5x |
-| 10 | ETH-BUSD LP | 5x |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center">Farm ID</th>
+      <th style="text-align:left">LP</th>
+      <th style="text-align:center">Multiplier</th>
+      <th style="text-align:center">
+        <p>Harvest</p>
+        <p>Loockup</p>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">1</td>
+      <td style="text-align:left">TKENB-BUSD LP</td>
+      <td style="text-align:center">20x</td>
+      <td style="text-align:center">4 hours</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">2</td>
+      <td style="text-align:left">TKENB-BNB LP</td>
+      <td style="text-align:center">20x</td>
+      <td style="text-align:center">4 hours</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">3</td>
+      <td style="text-align:left">TKENB-BTC LP</td>
+      <td style="text-align:center">20x</td>
+      <td style="text-align:center">4 hours</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">4</td>
+      <td style="text-align:left">TKENB-ETH LP</td>
+      <td style="text-align:center">20x</td>
+      <td style="text-align:center">4 hours</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">5</td>
+      <td style="text-align:left">BNB-BTC LP</td>
+      <td style="text-align:center">5x</td>
+      <td style="text-align:center">8 hours</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">6</td>
+      <td style="text-align:left">BNB-BUSD LP</td>
+      <td style="text-align:center">5x</td>
+      <td style="text-align:center">8 hours</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">7</td>
+      <td style="text-align:left">BTC-ETH LP</td>
+      <td style="text-align:center">5x</td>
+      <td style="text-align:center">8 hours</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">8</td>
+      <td style="text-align:left">BTC-BUSD LP</td>
+      <td style="text-align:center">5x</td>
+      <td style="text-align:center">8 hours</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">9</td>
+      <td style="text-align:left">ETH-BNB LP</td>
+      <td style="text-align:center">5x</td>
+      <td style="text-align:center">8 hours</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">10</td>
+      <td style="text-align:left">ETH-BUSD LP</td>
+      <td style="text-align:center">5x</td>
+      <td style="text-align:center">8 hours</td>
+    </tr>
+  </tbody>
+</table>
 
 _\* on Huobi Eco \(HECO\), USDT replaces BUSD_   
 _\* on Polygon \(MATIC\), USDC replaces BUSD   
