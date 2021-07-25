@@ -2,7 +2,7 @@
 
 ## Fee/Tax Distribution <a id="deposit-fee"></a>
 
-Every 8 hours \(3 times per day\), at exact GMT hours: 0 AM, 8 AM, 4 PM
+Every hour
 
 ### TKENA Platform
 
