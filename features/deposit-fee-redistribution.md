@@ -22,9 +22,9 @@
 
 _\* on Huobi Eco \(HECO\), USDT replaces BUSD_   
 _\* on Polygon \(MATIC\), USDC replaces BUSD   
-\* on Polygon, USDC replaces BUSD  
+\* on Polygon, USDC replaces BUSD_  
   
-^ on Huobi Eco \(HECO\), HUSD replaces BUSD_   
+^ _on Huobi Eco \(HECO\), HUSD replaces BUSD_   
 ^ _on Polygon \(MATIC\), BUSD is not available_   
 ^ _on Fantom, BUSD is not available_ 
 
