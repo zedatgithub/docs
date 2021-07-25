@@ -10,14 +10,14 @@
 MasterChef contract, forked from Pancake v1 Certik audited project.  
 AMM contracts, forked from Pancakeswap v1 Certik audited project.
 
-Multi Chain - Online Contract Checker[ ](https://galaxyfinance.one/contractdiffchecker.html?a1=0xBCfCcbde45cE874adCB698cC183deBcF17952812&a2=0xd7581640DBfC558b3f4d729B8f8c60e0122511F8)\( feel free to compare different contracts \)
+Online multi-chain smart contract diff checker[ ](https://galaxyfinance.one/contractdiffchecker.html?a1=0xBCfCcbde45cE874adCB698cC183deBcF17952812&a2=0xd7581640DBfC558b3f4d729B8f8c60e0122511F8)\( feel free to compare different contracts \)
 
 * [PancakeFactory vs DXAMMFactory](https://galaxyfinance.one/contractdiffchecker.html?ignore=Pancake%2Cpancake%2CCake%2CGalaxy%2Cpragma+solidity.*&chain1=Binance&address1=0xBCfCcbde45cE874adCB698cC183deBcF17952812&chain2=Binance&address2=0xd7581640DBfC558b3f4d729B8f8c60e0122511F8) 
 * [PancakeRouter vs DXAMMRouter](https://galaxyfinance.one/contractdiffchecker.html?ignore=Pancake%2CGalaxy%2Cpragma+solidity.*&chain1=Binance&address1=0x05ff2b0db69458a0750badebc4f9e13add608c7f&chain2=Binance&address2=0x3d492a1Cf02112f201721544e13a5e239a5258d9) 
 
 _\* this small JavaScript tool downloads the 2 smart contract source codes from_ [_https://api.bscscan.com_](https://api.bscscan.com)_,_ [_https://api.hecoinfo.com_](https://api.hecoinfo.com)_,_ [_https://api.polygon.com_](https://api.polygon.com)_,_ [_https://api.ftmscan.com/_](https://api.ftmscan.com/) _and compares it on your PC_
 
-Multi Chain - Online Contract Diff Checker source code which runs on your PC instead on any server
+Online multi-chain smart contract diff checker source code which runs on your PC instead on any server
 
 ```javascript
 <!DOCTYPE html>
