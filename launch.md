@@ -23,43 +23,47 @@ New kind of Fair Launch
 {% hint style="success" %}
 Binance Smart Chain \* the developer will mine 11,000 TKENA for [locked liquidity](features/locked-liquidity.md), [bridge](features/token-bridge.md) and [lottery](features/lottery.md) which will be distributed as follows:
 
+* **TKENA-BUSD**: 1,000 TKENA - 100 BUSD - PancakeSwap
 * **TKENA-BUSD**: 2,000 TKENA - 200 BUSD
 * **TKENA-USDT**: 2,000 TKENA - 200 USDT
 * **TKENA-USDC**: 2,000 TKENA - 200 USDC
 * **TKENA-DAI**:     2,000 TKENA - 200 DAI
-* **BRIDGE:**            2,000 TKENA
-* **LOTTERY:**         1,000 TKENA
+* **BRIDGE:**             1,000 TKENA
+* **LOTTERY:**          1,000 TKENA
 {% endhint %}
 
 {% hint style="success" %}
 Huobi Eco \(HECO\) \* the developer will mine 11,000 TKENA for [locked liquidity](features/locked-liquidity.md), [bridge](features/token-bridge.md) and [lottery](features/lottery.md), which will be distributed as follows:
 
-* **TKENA-BUSD**: 2,000 TKENA - 200 HUSD
+* **TKENA-USDT**: 1,000 TKENA - 100 USDT - SushiSwap
 * **TKENA-USDT**: 2,000 TKENA - 200 USDT
+* **TKENA-BUSD**: 2,000 TKENA - 200 HUSD
 * **TKENA-USDC**: 2,000 TKENA - 200 USDC
 * **TKENA-DAI**:     2,000 TKENA - 200 DAI
-* **BRIDGE:**            2,000 TKENA
-* **LOTTERY:**         1,000 TKENA
+* **BRIDGE:**             1,000 TKENA
+* **LOTTERY:**          1,000 TKENA
 {% endhint %}
 
 {% hint style="success" %}
 Polygon \(MATIC\) \* the developer will mine 9,000 TKENA for [locked liquidity](features/locked-liquidity.md), [bridge](features/token-bridge.md) and [lottery](features/lottery.md), which will be distributed as follows:
 
+* **TKENA-USDC**: 1,000 TKENA - 100 USDC - QuickSwap
 * **TKENA-USDC**: 2,000 TKENA - 200 USDC
 * **TKENA-USDT**: 2,000 TKENA - 200 USDT
 * **TKENA-DAI**:     2,000 TKENA - 200 DAI
-* **BRIDGE:**            2,000 TKENA
-* **LOTTERY:**         1,000 TKENA
+* **BRIDGE:**             1,000 TKENA
+* **LOTTERY:**          1,000 TKENA
 {% endhint %}
 
 {% hint style="success" %}
 Fantom \* the developer will mine 9,000 TKENA for [locked liquidity](features/locked-liquidity.md), [bridge](features/token-bridge.md) and [lottery](features/lottery.md), which will be distributed as follows:
 
+* **TKENA-USDC**:   1,000 TKENA - 100 USDC - SushiSwap
 * **TKENA-USDC**:   2,000 TKENA - 200 USDC
 * **TKENA-FUSDT**: 2,000 TKENA - 200 FUSDT
 * **TKENA-DAI**:       2,000 TKENA - 200 DAI
-* **BRIDGE:**              2,000 TKENA
-* **LOTTERY:**           1,000 TKENA
+* **BRIDGE:**               1,000 TKENA
+* **LOTTERY:**            1,000 TKENA
 {% endhint %}
 
 {% hint style="warning" %}
