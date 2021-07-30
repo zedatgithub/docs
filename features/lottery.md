@@ -37,15 +37,15 @@ If the winning numbers are "1-9-3-2**"**
 
 ## **Lottery phases** <a id="lottery-phases"></a>
 
-Lottery first draw is on [GMT 2021-08-07 08:00:00](https://www.timeanddate.com/countdown/generic?iso=2021-08-06T12:00:00Z&font=sanserif&p0=769&csz=0&msg=GalaxyFinance.one%20|%20Lottery).
+Lottery first draw is on [UTC 2021-08-07 08:00:00](https://www.timeanddate.com/countdown/generic?iso=2021-08-06T12:00:00Z&font=sanserif&p0=1440&csz=1&msg=GalaxyFinance.one%20|%20Lottery).
 
-There are 3 draws per day, once every 8 hours, at specific GMT time:
+There are 3 draws per day, once every 8 hours, at specific UTC time:
 
 * 0 AM
 * 8 AM
 * 4 PM
 
-An example of a lottery session starting at 8 AM \(GMT\) is as below:
+An example of a lottery session starting at 8 AM \(UTC\) is as below:
 
 **Phase 1 - Buy Tickets \(8 AM to 4 PM\)**
 
@@ -69,4 +69,3 @@ The lottery aims to be completely random. Even though the ticket numbers given o
 * The 2nd lottery number will be determined based on the %10 remainders of a hash encoded by the blockhash and the total pooled NATIVE Token balance at the entry deadline.
 * The 3rd lottery number will be determined based on the %10 remainders of a hash encoded by the blockhash and the timestamp of the last lottery participant at the entry deadline.
 * The 4th lottery number will be determined based on the %10 remainders of a hash encoded by the blockhash and the block difficulty at the entry deadline.
-

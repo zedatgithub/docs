@@ -11,10 +11,10 @@ New kind of Fair Launch
 * 24 Hours [Timelock](security/timelock.md) already in place for every contract \([how to check contract is time locked](https://galaxyfinance.one/how-to-verify-contract-owner-is-timelock.mp4)\)
 * [Locked Liquidity](features/locked-liquidity.md)
 * All [contracts](tokenomics/contracts.md) are deployed with liquidity simultaneously on 4 networks - [Binance Smart Chain](https://www.binance.org/en/smartChain), [Huobi Eco \(HECO\)](https://www.hecochain.com/en-us/), [Polygon](https://polygon.technology/) and [Fantom](https://fantom.foundation/) so that community/auditors will have enough time to review the smart contracts and, in case any **High Severity Issues** are to be found, these will be fixed, the new smart contracts will be deployed, and [Bug Bounty](security/bug-bounty.md) rewards will be awarded.
-* TKENA trading starts [GMT 2021-07-30 12:00:00](https://www.timeanddate.com/countdown/generic?iso=2021-07-30T12:00:00Z&font=sanserif&p0=769&csz=0&msg=DEFIFinance.one%20|%20TKENA%20trading)
-* TKENA Farming/Vaults/Pools start [GMT 2021-08-06 12:00:00](https://www.timeanddate.com/countdown/generic?iso=2021-08-06T12:00:00Z&font=sanserif&p0=769&csz=0&msg=DEFIFinance.one%20|%20TKENA%20Farming)
-* Lottery first draw [GMT 2021-08-07 08:00:00](https://www.timeanddate.com/countdown/generic?iso=2021-08-06T12:00:00Z&font=sanserif&p0=769&csz=0&msg=DEFIFinance.one%20|%20Lottery); after that, the 8 hour cycle starts
-* [IFO](features/tkenb-ifo.md) for [TKENB](tokenomics/tkenb.md) starts [GMT 2021-08-13 12:00:00](https://www.timeanddate.com/countdown/generic?iso=2021-08-13T12:00:00Z&font=sanserif&p0=769&csz=0&msg=DEFIFinance.one%20|%20IFO%20TKENB) and ends [GMT 2021-08-14 12:00:00](https://www.timeanddate.com/countdown/generic?iso=2021-08-14T12:00:00Z&font=sanserif&p0=769&csz=0&msg=DEFIFinance.one%20|%20IFO%20TKENB%20END)
+* TKENA trading starts [UTC 2021-07-30 12:00:00](https://www.timeanddate.com/countdown/generic?iso=2021-07-30T12:00:00Z&font=sanserif&p0=1440&csz=1&msg=DEFIFinance.one%20|%20TKENA%20trading)
+* TKENA Farming/Vaults/Pools start [UTC 2021-08-06 12:00:00](https://www.timeanddate.com/countdown/generic?iso=2021-08-06T12:00:00Z&font=sanserif&p0=1440&csz=1&msg=DEFIFinance.one%20|%20TKENA%20Farming)
+* Lottery first draw [UTC 2021-08-07 08:00:00](https://www.timeanddate.com/countdown/generic?iso=2021-08-06T12:00:00Z&font=sanserif&p0=1440&csz=1&msg=DEFIFinance.one%20|%20Lottery); after that, the 8 hour cycle starts
+* [IFO](features/tkenb-ifo.md) for [TKENB](tokenomics/tkenb.md) starts [UTC 2021-08-13 12:00:00](https://www.timeanddate.com/countdown/generic?iso=2021-08-13T12:00:00Z&font=sanserif&p0=1440&csz=1&msg=DEFIFinance.one%20|%20IFO%20TKENB) and ends [UTC 2021-08-14 12:00:00](https://www.timeanddate.com/countdown/generic?iso=2021-08-14T12:00:00Z&font=sanserif&p0=1440&csz=1&msg=DEFIFinance.one%20|%20IFO%20TKENB%20END)
 * TKENB Trading/Farming/Vaults/Pools start after IFO for TKENB
 * Emission Rates:
   * [TKENA](tokenomics/tkenb.md)
@@ -77,4 +77,3 @@ Many projects give superior advantage to early depositors because they will be a
 ​
 
 ​
-
