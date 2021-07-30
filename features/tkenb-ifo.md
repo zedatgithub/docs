@@ -6,3 +6,4 @@
 * all collected USD in the IFO will be equal split and used to create [locked liquidity](locked-liquidity.md) in TKENB platform
 
 Trading will start [GMT 2021-08-16 12:00:00](https://www.timeanddate.com/countdown/generic?iso=2021-08-16T12:00:00Z&font=sanserif&p0=1440&csz=1&msg=DEFIFinance.one%20|%20Trading%20TKENB).
+

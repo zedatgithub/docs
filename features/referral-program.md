@@ -2,7 +2,7 @@
 
 An on-chain referral program has been implemented to incentivize users to invite their friends to join the farming.
 
-Referrers will earn **2%** of their referrals' earnings, forever.
+Referrers will earn **2%** of their referrals' **farms harvest** earnings, forever.
 
 ## How to enroll
 
@@ -12,7 +12,7 @@ Referrers will earn **2%** of their referrals' earnings, forever.
 4. Every time your friends harvest from farms, you will receive your referral commissions automatically
 
 {% hint style="warning" %}
-The amount will **not** be deducted from your friends' earnings but will instead be minted every time they harvest
+The amount will **not** be deducted from your friends' **farms harvest** earnings but will instead be minted every time they harvest
 {% endhint %}
 
 ## Yes, we've also improved the referral program

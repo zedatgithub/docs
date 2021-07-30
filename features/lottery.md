@@ -69,3 +69,4 @@ The lottery aims to be completely random. Even though the ticket numbers given o
 * The 2nd lottery number will be determined based on the %10 remainders of a hash encoded by the blockhash and the total pooled NATIVE Token balance at the entry deadline.
 * The 3rd lottery number will be determined based on the %10 remainders of a hash encoded by the blockhash and the timestamp of the last lottery participant at the entry deadline.
 * The 4th lottery number will be determined based on the %10 remainders of a hash encoded by the blockhash and the block difficulty at the entry deadline.
+
