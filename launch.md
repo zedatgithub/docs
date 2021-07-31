@@ -67,10 +67,10 @@ Fantom \* the developer will mine 9,000 TKENA for [locked liquidity](features/lo
 {% endhint %}
 
 {% hint style="warning" %}
-LP tokens can be deposited into the farms before farming starts but there will be **no farming rewards** until farming starts. Harvest lookup time countdown will also start when the farming starts.
-
-Many projects give superior advantage to early depositors because they will be able to harvest earlier than those who deposited when the farming started. We want to give equal chance to everyone.
+LP tokens can be created but **can not be deposited** into the farms until farming starts. Harvest lookup time countdown will also start when the farming starts.
 {% endhint %}
+
+
 
 ​
 

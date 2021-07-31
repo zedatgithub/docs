@@ -196,3 +196,7 @@ _\* on Huobi Eco \(HECO\), USDT replaces BUSD_
 _\* on Polygon \(MATIC\), USDC replaces BUSD   
 \* on Polygon, USDC replaces BUSD_
 
+{% hint style="warning" %}
+LP tokens can be created but **can not be deposited** into the farms until farming starts. Harvest lookup time countdown will also start when the farming starts.
+{% endhint %}
+
