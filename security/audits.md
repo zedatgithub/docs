@@ -2,6 +2,7 @@
 
 ## Audits
 
+* [ ] [BCFC.io](https://bcfg.io/) are the first ones to have done an audit for us, on **July 31st, 2021**; the [PDF document is posted on their GitHub account](https://github.com/BCFG-Audit/Smart_Contract_Security_Audits/blob/main/GalaxyFinance_BCFG_AUDIT.pdf) and also available for [download from our website](https://galaxyfinance.one/GalaxyFinance_BCFG_AUDIT.pdf)
 * [ ] [https://rugdoc.io/​](https://rugdoc.io/) \( held initial talks and they suggested audit from paladinsec but we had to postpone that audit because of being too expensive "Starting from 6k to 40k+++"  \)
 * [ ] [https://techrate.org/](https://techrate.org/) \( contacted \)
 * [ ] [https://mythx.io/](https://mythx.io/) \( signed up \)
