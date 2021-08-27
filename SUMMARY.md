@@ -6,7 +6,6 @@
 
 ## FEATURES
 
-* [🤖 Anti Bot](features/anti-bot.md)
 * [🐋 Anti Whale](features/anti-whale.md)
 * [🚜 Farms](features/harvest-lockup.md)
 * [🌾 Pools](features/token-pools.md)

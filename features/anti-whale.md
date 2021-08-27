@@ -4,30 +4,9 @@ description: preventing Whales from quickly buying/selling large amounts (pump &
 
 # 🐋 Anti Whale
 
-Transfers that exceed **1.5%** of the circulating supply of the NATIVE Tokens will be rejected.
+Transfers of more than **1.5 Millions** TKENB will be rejected. 
 
-Circulating supply = total supply - amount in burn address - amount in fee/tax address - amount in bridge address
+Deposits and withdraws of TKENB to/from farms/pools/vaults is not subject to this restriction.
 
-{% hint style="info" %}
-The value of **1.5%** is set in the beginning and as the circulating supply grows this value will be adjusted.
-{% endhint %}
-
-{% hint style="success" %}
-Following cases are not subject to this restriction:
-
-* Farm: Deposit
-* Farm: Withdraw
-* Farm: Compound
-* Lottery: Buy tickets
-* Lottery: Collecting Prize
-{% endhint %}
-
-> The current value can be viewed in the TKENA, TKENB [contracts](../tokenomics/contracts.md)  
-> \( scroll down and search for the `maxTransferAmount` function \)
-
-## More Anti Whale Measures
-
-To prevent whales from entering with high volumes, staking, compounding and then quickly unstaking **before** the harvest lockup time ends in order to dump their tokens, the pending amount and the compounded amount will be lost if unstaking before harvest lockup time has not passed \(all this information is also available on the farm and pool cards\)
-
-Therefore, only those users will be eligible for their rewards who respect the harvest lockup time!
+This number can be changed. You can view the max transfer amount on our home page.
 

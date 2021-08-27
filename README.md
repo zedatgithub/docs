@@ -27,7 +27,7 @@ TKENB is mined via _Liquidity Mining_ where a user can mine TKENB by staking oth
 * [Lottery](features/lottery.md) with ticket price always set to **$2**, regardless of the token's price, and with the range of possible random numbers on the ticket set to the range 1-9 so that more people have a chance to win
 * improved [Referral Program](features/referral-program.md) where you now know who your referrer is and **you** are the one deciding if you want to have a referrer at all, who your referrer is, and when to confirm your referrer
 * [Locked Liquidity](features/locked-liquidity.md)
-* [Anti Bot](features/anti-bot.md) mechanism preventing Bots from buying/selling the token too frequently
+* [Anti Bot]() mechanism preventing Bots from buying/selling the token too frequently
 * [Anti Whale](features/anti-whale.md) mechanism preventing Whales from quickly buying/selling large amounts \(pump & dump\)
 * [No Migrator Code](security/no-migrator-code.md)
 
