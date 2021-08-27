@@ -6,15 +6,11 @@ Every time you **harvest** your earnings will be sent to your wallet and a new *
 
 Below is the list of available pools, on all networks:
 
-## TKENB Pools
-
-Below is the list of available pools:
-
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Farm ID</th>
-      <th style="text-align:left">LP</th>
+      <th style="text-align:left">Pool ID</th>
+      <th style="text-align:left">TOKEN</th>
       <th style="text-align:left">Multiplier</th>
       <th style="text-align:left">
         <p>Harvest</p>
