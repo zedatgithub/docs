@@ -1,7 +1,7 @@
 ---
 description: >-
-  The Galactic Yield Farm and Bridge On Binance Smart Chain, Heco, Polygon and
-  Fantom
+  The Galactic Yield Farm and multi-chain Bridge On Binance Smart Chain, Heco,
+  Polygon and Fantom
 ---
 
 # 🏫 Home
