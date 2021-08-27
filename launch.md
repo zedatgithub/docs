@@ -6,8 +6,7 @@ description: 'Fair Launch, No Pre-sale, No Pre-mine, Anti-Bot, Anti Whale'
 
 New kind of Fair Launch
 
-* No Pre-sale
-* No Pre-mine\*
+* Presale starts [Monday, September 6th, 2021 12:00 GMT](https://www.timeanddate.com/countdown/generic?iso=2021-09-06T12:00:00Z&font=sanserif&p0=1440&csz=1&msg=TKENB%20Presale)
 * 24 Hours [Timelock](security/timelock.md) already in place for every contract \([how to check contract is time locked](https://galaxyfinance.one/how-to-verify-contract-owner-is-timelock.mp4)\)
 * [Locked Liquidity](features/locked-liquidity.md)
 * All [contracts](tokenomics/contracts.md) are deployed with liquidity simultaneously on 4 networks - [Binance Smart Chain](https://www.binance.org/en/smartChain), [Huobi Eco \(HECO\)](https://www.hecochain.com/en-us/), [Polygon](https://polygon.technology/) and [Fantom](https://fantom.foundation/)
