@@ -2,7 +2,7 @@
 
 There will be a **harvest lockup**, specific for each pool, meaning that the pending earnings **can not be withdrawn** as long as the lockup is in effect.
 
-Every time you **harvest** your earnings will be sent to your wallet and a new **harvest lockup** timer is set for the next reward cycle. The harvest lockup is specific to each pool and is shown on each pool's card.
+Every time you **harvest** your earnings will be sent to your wallet and a new **harvest lockup** timer will be set for the next reward cycle. The harvest lockup is specific to each pool and is shown on each pool's card.
 
 Below is the list of available pools, on all networks:
 
