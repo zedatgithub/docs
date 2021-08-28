@@ -2,7 +2,7 @@
 
 ## **Specifics** <a id="specifics"></a>
 
-* Lottery Ticket price will be **2 USD** worth of TKENB Token, \(the necessary amount will be adjusted every 12 hours \(twice a day\) in concordance with TKENB price\)
+* Lottery Ticket price will be **2 USD** worth of TKENB, \(the necessary amount will be adjusted every 12 hours \(twice a day\) in concordance with TKENB price\)
 * Single User Lottery Entry Limit: No overall limit, but only 50 tickets can be bought at once through the UI
 * Paying for one ticket will give users a random **4 digit combination** with each digit being between 1-9, e.g. **"**1-9-3-2" \(a digit can appear multiple times, so 1-1-1-1 is a valid ticket\)
 
@@ -37,7 +37,7 @@ If the winning numbers are "1-9-3-2**"**
 
 ## **Lottery phases** <a id="lottery-phases"></a>
 
-Lottery first draw is on [Monday, September 13th, 2021, 08:00 PM ](https://www.timeanddate.com/countdown/generic?iso=2021-09-13T20:00:00Z&font=sanserif&p0=1440&csz=1&msg=Lottery%20first%20draw)
+Lottery first draw is on [Monday, September 13th, 2021, 20:00 GMT](https://www.timeanddate.com/countdown/generic?iso=2021-09-13T20:00:00Z&font=sanserif&p0=1440&csz=1&msg=Lottery%20first%20draw)
 
 There are 2 draws per day, once every 12 hours, at specific GMT time:
 
