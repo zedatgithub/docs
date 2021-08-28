@@ -21,7 +21,6 @@
 
 ## TOKENOMICS
 
-* [🌔 TKENA](tokenomics/tkena.md)
 * [🌖 TKENB](tokenomics/tkenb.md)
 * [📑 Contracts](tokenomics/contracts.md)
 
