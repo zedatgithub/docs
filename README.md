@@ -20,7 +20,7 @@ TKENB is mined via _Liquidity Mining_ where a user can mine TKENB by staking oth
 ## **Main Features** <a id="main-features"></a>
 
 * 24 Hours [Timelock](security/timelock.md) already in place for every contract \([how to check contract is time locked](https://galaxyfinance.one/how-to-verify-contract-owner-is-timelock.mp4)\)
-* [Farms](features/farms-pools-compound.md) where you deposit LP tokens to earn TKENB
+* [Farms]() where you deposit LP tokens to earn TKENB
 * [Pools](features/token-pools.md) where you deposit single tokens and earn TKENB
 * [Vaults](features/vaults-auto-compound.md) where you deposit LPs or single tokens and these \(the deposited LP tokens or single tokens\) are automatically and optimally compounded for you
 * [Cross-chain transfer/exchange](features/token-bridge.md) between [Binance Smart Chain](https://www.binance.org/en/smartChain), [Huobi Eco \(HECO\)](https://www.hecochain.com/en-us/), [Polygon](https://polygon.technology/) and [Fantom](https://fantom.foundation/) via our own integrated Bridge

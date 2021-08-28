@@ -18,5 +18,5 @@ In order to provide liquidity for this feature, **9.09%** of the emission rate i
 
 [Anti Whale](anti-whale.md) measures still apply.
 
-_\* BNB/HT/MATIC/FTM, ETH, BTC transfers will be available after_ [_TKENB IFO_](tkenb-ifo.md)\_\_
+_\* BNB/HT/MATIC/FTM, ETH, BTC transfers will be available after_ [_TKENB IFO_]()\_\_
 

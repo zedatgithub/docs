@@ -6,7 +6,7 @@ description: farming token used for mixed pairs
 
 ## Basic Information <a id="basic-information"></a>
 
-* Available only after [IFO](../features/tkenb-ifo.md)
+* Available only after [IFO]()
 * Name: TKENB Token
 * Symbol: TKENB
 * Contract address can be found in [Contracts](contracts.md) section
