@@ -1,4 +1,4 @@
-# Static rewards
+# ⚡ Static rewards
 
 ## Why Static Rewards?
 

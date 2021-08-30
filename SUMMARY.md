@@ -22,7 +22,7 @@
 ## TOKENOMICS
 
 * [🌖 TKENB](tokenomics/tkenb.md)
-* [Static rewards](tokenomics/static-rewards.md)
+* [⚡ Static rewards](tokenomics/static-rewards.md)
 * [📑 Contracts](tokenomics/contracts.md)
 
 ## SECURITY
