@@ -44,5 +44,5 @@ On **Binance Smart Chain**:
 
 \*\*\*\*
 
-1. The reason behind this price is that we want all early holders of TKENB to have very good returns, so we set a price that can benefit everyone that trusted TKENB from the start.
+The reason behind this price is that we want all early holders of TKENB to have very good returns, so we set a price that can benefit everyone that trusted TKENB from the start.
 
