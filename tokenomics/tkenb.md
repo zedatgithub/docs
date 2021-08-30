@@ -13,7 +13,7 @@ description: farming token used for mixed pairs
 
 ## **Deflationary Auto Burn**
 
-Since the coin is deflationary, the supply keeps decreasing with every transaction ensure limited availability in near future. Deflation comes with burn wallet being one of the holders of TKENB, hence participating in reflection and auto burning tokens.
+Since the coin is deflationary, the supply keeps decreasing with every transaction and ensures a limited availability in the near future. Deflation comes with burn wallet being one of the holders of TKENB, hence participating in reflection and auto burning tokens.
 
 ## Transfer Tax <a id="transfer-tax"></a>
 
