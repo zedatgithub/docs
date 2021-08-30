@@ -2,6 +2,7 @@
 
 * [🏫 Home](README.md)
 * [🚀 Launch](launch.md)
+* [🌟 Presale](presale.md)
 * [🎯 Roadmap](roadmap.md)
 
 ## FEATURES
