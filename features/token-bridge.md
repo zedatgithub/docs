@@ -18,3 +18,5 @@ In order to provide liquidity for this feature, **9.09%** of the emission rate i
 
 [Anti Whale](anti-whale.md) measures still apply.
 
+_\*Depending on the network_
+

@@ -22,7 +22,8 @@ Additionally to the jackpot, users that match 2 or 3 numbers in the correct orde
 _\* the pot is split when there are more winners_
 
 {% hint style="warning" %}
-If there are no winners in a category, the pot allocated to the respective category will also be [🔥BURNED🔥](https://testnet.bscscan.com/token/0x8a5a76401ada8998603d982d8343752fec75972b?a=0x000000000000000000000000000000000000dEaD)
+If there are no winners in a category, the pot allocated to the respective category will be [  
+🔥BURNED🔥](https://testnet.bscscan.com/token/0x8a5a76401ada8998603d982d8343752fec75972b?a=0x000000000000000000000000000000000000dEaD)
 {% endhint %}
 
 ## Examples of tickets
