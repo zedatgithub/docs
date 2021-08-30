@@ -22,13 +22,13 @@ Vaults can:
 
 **Deposit fee**
 
-* 0% fee for NATIVE token/pairs 
-* 4%    fee for NON NATIVE pairs
+* 0% fee for TKENB token/pairs 
+* 4%    fee for NON TKENB pairs
 
 **Unstaking fee**
 
-* **4%    fee for NATIVE token/pairs if you unstake \(withdraw\) within 48 hours**
-* **4% fee for NON NATIVE pairs if you unstake \(withdraw\) within 72 hours**
+* **4%    fee for TKENB token/pairs if you unstake \(withdraw\) within 48 hours**
+* **4% fee for NON TKENB pairs if you unstake \(withdraw\) within 72 hours**
 * Only applies after manually staking
 * After that, you can unstake **without any fees**
 * The timer resets every time you manually stake more in the vault
@@ -37,7 +37,7 @@ Vaults can:
 **Performance fee**
 
 * **2%, subtracted automatically from each yield harvest**
-* Example: if the harvest was 1 TKENA, then 0.02 TKENA would be subtracted as the performance fee
+* Example: if the harvest was 1 TKENB, then 0.02 TKENB would be subtracted as the performance fee
 
 Fees collected from early unstaking, as well as the performance fees, are sent to [Fee/Tax Distribution](deposit-fee-redistribution.md)
 
@@ -49,7 +49,7 @@ This bounty is given as a reward for providing a service to other users.
 
 Whenever you successfully claim the bounty, you are also helping out by activating the auto-compounding feature for everyone.
 
-_Make sure that the amount of NATIVE Token you receive will be greater than the BNB/MATIC/FTM fees you’ll spend to submit the blockchain transaction!_
+_Make sure that the amount of TKENB you receive will be greater than the BNB/MATIC/FTM fees you’ll spend to submit the blockchain transaction!_
 
 ## Why can't someone just do the compounding by themselves? <a id="why-cant-someone-just-do-this-themselves"></a>
 
