@@ -15,7 +15,7 @@
 * [🏧 Automatic Liquidity](features/automatic-liquidity.md)
 * [🔒 Locked Liquidity](features/locked-liquidity.md)
 * [🔥 Automatic Burning](features/automatic-burning.md)
-* [💰 Fee/Tax Distribution](features/deposit-fee-redistribution.md)
+* [💰 Fees/Taxes](features/deposit-fee-redistribution.md)
 * [💸 Referral Program](features/referral-program.md)
 * [🤑 Lottery](features/lottery.md)
 * [🔁 Bridge & Exchange](features/token-bridge.md)

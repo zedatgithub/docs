@@ -1,4 +1,4 @@
-# 💰 Fee/Tax Distribution
+# 💰 Fees/Taxes
 
 ## Deposit Fees <a id="deposit-fee"></a>
 
