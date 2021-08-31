@@ -40,6 +40,54 @@ On **Binance Smart Chain**:
 | 100 **USDC** | = | 35,000 TKENB |
 | 100 **DAI** | = | 35,000 TKENB |
 
+On **Avalanche**:
+
+| **Asset** | = | Rate |
+| ---: | :---: | :--- |
+| 1 **BNB** | = | 35,000 TKENB |
+| 0.001 **BTC** | = | 35,000 TKENB |
+| 0.01 **ETH** | = | 35,000 TKENB |
+| 100 **BUSD** | = | 35,000 TKENB |
+| 100 **USDT** | = | 35,000 TKENB |
+| 100 **USDC** | = | 35,000 TKENB |
+| 100 **DAI** | = | 35,000 TKENB |
+
+On **Huobi ECO (HECO)**:
+
+| **Asset** | = | Rate |
+| ---: | :---: | :--- |
+| 1 **BNB** | = | 35,000 TKENB |
+| 0.001 **BTC** | = | 35,000 TKENB |
+| 0.01 **ETH** | = | 35,000 TKENB |
+| 100 **BUSD** | = | 35,000 TKENB |
+| 100 **USDT** | = | 35,000 TKENB |
+| 100 **USDC** | = | 35,000 TKENB |
+| 100 **DAI** | = | 35,000 TKENB |
+
+On **Polygon (Matic)**:
+
+| **Asset** | = | Rate |
+| ---: | :---: | :--- |
+| 1 **BNB** | = | 35,000 TKENB |
+| 0.001 **BTC** | = | 35,000 TKENB |
+| 0.01 **ETH** | = | 35,000 TKENB |
+| 100 **BUSD** | = | 35,000 TKENB |
+| 100 **USDT** | = | 35,000 TKENB |
+| 100 **USDC** | = | 35,000 TKENB |
+| 100 **DAI** | = | 35,000 TKENB |
+
+On **Fantom**:
+
+| **Asset** | = | Rate |
+| ---: | :---: | :--- |
+| 1 **BNB** | = | 35,000 TKENB |
+| 0.001 **BTC** | = | 35,000 TKENB |
+| 0.01 **ETH** | = | 35,000 TKENB |
+| 100 **BUSD** | = | 35,000 TKENB |
+| 100 **USDT** | = | 35,000 TKENB |
+| 100 **USDC** | = | 35,000 TKENB |
+| 100 **DAI** | = | 35,000 TKENB |
+
 **No Contribution Limit \(you can buy any amount you want\)**
 
 **Duration: 3 days.** 
