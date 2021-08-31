@@ -15,12 +15,13 @@ DXAMMFinance.One is the Galactic yield farm and multi-chain Bridge, running on [
 | Assignment | Amount | Percentage |
 | :--- | :--- | ---: |
 | Total supply: | 5,000,000,000 | 100% |
-| Locked in [bridge](features/token-bridge.md): | 2,000,000,000 | 40% |
-| Used in [presale](presale.md): | 500,000,000 available for buying | 10% |
-|  | 500,000,000 used for pairing with the assets collected  from the presale and providing [locked liquidity](features/locked-liquidity.md) for farms | 10% |
-| Devs: | 100,000 \(used for marketing purposes\) | 1% |
-| Giveaway | 100,000 | 1% |
-| Liquidity mining: | 1,900,000 | 38% |
+| Burned: | 2,000,000,000 | 40% |
+| Liquidity mining: | 1,000,000,000 | 20% |
+| Locked in [bridge](features/token-bridge.md): | 1,000,000,000 | 20% |
+| Used in [presale](presale.md): | 499,900,000 available for buying | 9.99% |
+|  | 499,900,000 used for pairing with the assets collected  from the presale and providing [locked liquidity](features/locked-liquidity.md) for farms | 9.99% |
+| Devs: | 100,000 \(used for marketing purposes\) | 0.01% |
+| Giveaway | 100,000 | 0.01% |
 
 TKENB is mined via **liquidity mining** __where users can mine TKENB by staking other coins such as BNB, BUSD, ETH, etc., or by staking liquidity pairs \(LPs\) such as BNB-BTCB, BNB-ETH, etc.
 
