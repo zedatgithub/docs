@@ -1,8 +1,8 @@
 # 🔁 Bridge & Exchange
 
-You can use the Bridge to transfer assets between [Binance Smart Chain](https://www.binance.org/en/smartChain), [Huobi Eco \(HECO\)](https://www.hecochain.com/en-us/), [Polygon](https://polygon.technology/) and [Fantom](https://fantom.foundation/) networks. Thanks to the bridge you can easily transfer your assets from one network to another and you may also look for arbitrage opportunities for either TKENB or the farming APRs.
+You can use the Bridge to transfer assets between [Binance Smart Chain](https://www.binance.org/en/smartChain), [Avalanche](https://www.avax.network/), [Huobi Eco \(HECO\)](https://www.hecochain.com/en-us/), [Polygon](https://polygon.technology/) and [Fantom](https://fantom.foundation/) networks. Thanks to the bridge you can easily transfer your assets from one network to another and you may also look for arbitrage opportunities for either TKENB or the farming APRs.
 
-When transferring TKENB, the regular Transfer Tax \(see [Fee/Tax Distribution](deposit-fee-redistribution.md)\) will be discounted from **4%** to **0%** instead.
+When transferring TKENB, the regular Transfer Tax \(see [Fee/Tax Distribution](deposit-fee-redistribution.md)\) will be discounted from **14%** to **0%** instead.
 
 Using the bridge incurs a **1%** fee.
 
@@ -12,11 +12,9 @@ Transaction privacy for anonymized transactions is ensured by separating the on-
 
 Using the anonymize feature incurs an additional **1%** fee which is sent to [Fee/Tax Distribution](deposit-fee-redistribution.md).
 
-You can use the Bridge to send a network's native token \(BNB/HT/MATIC/FTM\*\) to a fresh/blank wallet so you don't have to worry about having any to pay for fees.
+You can use the Bridge to send a network's native token BNB/AVAX/HT/MATIC/FTM \(depending on the chain\) to a fresh/blank wallet so you don't have to worry about having any to pay for fees.
 
-In order to provide liquidity for this feature, **9.09%** of the emission rate is directed to the bridge contract.
+Of the [initial supply](../tokenomics/tkenb.md), 1,000,000,000 TKENB is assigned and locked in the bridge.
 
 [Anti Whale](anti-whale.md) measures still apply.
-
-_\*Depending on the network_
 
