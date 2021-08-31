@@ -6,6 +6,10 @@ description: >-
 
 # 🌟 Presale
 
+## **Why Presale?** <a id="why-presale"></a>
+
+Nowadays, all fair-launches seem to be negatively impacted by bots; presale is actually fairer for people to participate equally and without the price being altered by bots. We want more people to own TKENB than a few whales with big bags as that it is healthier for the growth of the ecosystem.
+
 | Event | Value |
 | :--- | :--- |
 | Presale start | [Monday, September 6th, 12:00 GMT](https://www.timeanddate.com/countdown/generic?iso=2021-09-06T12:00:00Z&font=sanserif&p0=1440&csz=1&msg=Presale%20start) |
@@ -31,12 +35,6 @@ Unsold TKENB will be 🔥burned🔥 automatically once the presale ends.
 You can use a referrer address and have it receive from us TKENB representing **3%** of the TKENB amount you buy.
 
 Liquidity mining will start once the presale ends, [Thursday, September 9th, 12:00 GMT](https://www.timeanddate.com/countdown/generic?iso=2021-09-09T12:00:00Z&font=sanserif&p0=1440&csz=1&msg=Presale%20end)
-
-## **Why Presale?** <a id="why-presale"></a>
-
-Nowadays, all fair-launches seem to be negatively impacted by bots; presale is actually fairer for people to participate equally and without the price being altered by bots.
-
-We want more people to own TKENB than a few whales with big bags as that it is healthier for the growth of the ecosystem.
 
 The presale rates are as follow:
 
