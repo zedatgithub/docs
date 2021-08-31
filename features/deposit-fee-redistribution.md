@@ -1,6 +1,11 @@
 # 💰 Fees/Taxes
 
-## Deposit Fees <a id="deposit-fee"></a>
+All fees will be converted to the respective chain's native token \(BNB/AVAX/HT/MATIC/FTM\).  
+Once converted:  
+25% will be sent to the dev address  
+75% will sent to the token's address and used for buy backs
+
+### Deposit Fees
 
 <table>
   <thead>
@@ -43,7 +48,14 @@
   </tbody>
 </table>
 
-## Transfer Tax <a id="transfer-tax"></a>
+### Bridge fees
 
-For each transfer, an **14% transfer tax** is charged - [read more](../tokenomics/tkenb.md).
+Using the bridge incurs a **1%** fee.   
+Using the bridge's anonymize feature incurs an additional **1%** fee
+
+### Vault unstaking fees
+
+4% unstaking fee if users unstake from vaults before the lock timer runs out
+
+
 

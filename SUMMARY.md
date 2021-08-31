@@ -32,7 +32,6 @@
 * [🛡️ No Migrator Code](security/no-migrator-code.md)
 * [🛡️ Emergency Withdraw](security/emergency-withdraw.md)
 * [📕 Audits](security/audits.md)
-* [🐛 Bug Bounty](security/bug-bounty.md)
 
 ## COMMUNITY
 
