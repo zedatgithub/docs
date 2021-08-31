@@ -8,14 +8,21 @@ description: >-
 
 ## Introduction <a id="introduction"></a>
 
-DXAMMFinance.One is the Galactic yield farm and multi-chain Bridge, running on [Binance Smart Chain](https://www.binance.org/en/smartChain), [Huobi Eco \(HECO\)](https://www.hecochain.com/en-us/), [Polygon](https://polygon.technology/) and [Fantom](https://fantom.foundation/), with Yield Farming, Staking, Lottery, auto-compounding Vaults and more.
+DXAMMFinance.One is the Galactic yield farm and multi-chain Bridge, running on [Binance Smart Chain](https://www.binance.org/en/smartChain), [Avalanche](https://www.avax.network/), [Huobi Eco \(HECO\)](https://www.hecochain.com/en-us/), [Polygon](https://polygon.technology/) and [Fantom](https://fantom.foundation/), with Yield Farming, Staking, Lottery, auto-compounding Vaults and more.
 
 ### About TKENB <a id="main-features"></a>
 
-TKENB is a limited supply token hard capped at **5 Billions** total supply, of which **1 Billion** is locked in the [bridge](features/token-bridge.md), **1 Billion** will be used for presale, **100K** is available for DEVs for marketing purposes, leaving   
-**2.9 Billion** TKENB tokens which can be **liquidity mined**.
+| Assignment | Amount | Percentage |
+| :--- | :--- | ---: |
+| Total supply: | 5,000,000,000 | 100% |
+| Locked in [bridge](features/token-bridge.md): | 2,000,000,000 | 40% |
+| Used in [presale](presale.md): | 500,000,000 available for buying | 10% |
+|  | 500,000,000 used for pairing with the assets collected  from the presale and providing [locked liquidity](features/locked-liquidity.md) for farms | 10% |
+| Devs: | 100,000 \(used for marketing purposes\) | 1% |
+| Giveaway | 100,000 | 1% |
+| Liquidity mining: | 1,900,000 | 39% |
 
-TKENB is mined via _Liquidity Mining_ where a user can mine TKENB by staking other coins such as BNB, BUSD, ETH, etc., or by staking liquidity pairs \(LPs\) such as BNB-BTCB, BNB-ETH, etc.
+TKENB is mined via **liquidity mining** __where users can mine TKENB by staking other coins such as BNB, BUSD, ETH, etc., or by staking liquidity pairs \(LPs\) such as BNB-BTCB, BNB-ETH, etc.
 
 ## **Main Features** <a id="main-features"></a>
 

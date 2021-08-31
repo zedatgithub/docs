@@ -10,7 +10,7 @@ description: >-
 | :--- | :--- |
 | Presale start | [Monday, September 6th, 12:00 GMT](https://www.timeanddate.com/countdown/generic?iso=2021-09-06T12:00:00Z&font=sanserif&p0=1440&csz=1&msg=Presale%20start) |
 | Presale duration | 3 days \(until [Thursday, September 9th, 12:00 GMT](https://www.timeanddate.com/countdown/generic?iso=2021-09-09T12:00:00Z&font=sanserif&p0=1440&csz=1&msg=Presale%20end)\) |
-| Presale quantity | 1,000,000,000 TKENB of which 500,000,000 can be bought |
+| Presale quantity | 1,000,000,000 TKENB of which only 500,000,000 can be bought |
 | Presale price | approximately ****$0.015, see rates table below |
 | Buying limit | no limit \(you can buy as much as you want\) |
 
