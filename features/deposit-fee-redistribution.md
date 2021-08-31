@@ -1,27 +1,49 @@
 # 💰 Fee/Tax Distribution
 
-## Hourly Fee/Tax Distribution <a id="deposit-fee"></a>
+## Deposit Fees <a id="deposit-fee"></a>
 
-* 30% of collected TKENB will be injected into the [Lottery](lottery.md)
-* 50% of collected TKENB will be [🔥BURNED🔥](https://testnet.bscscan.com/token/0x8a5a76401ada8998603d982d8343752fec75972b?a=0x000000000000000000000000000000000000dEaD)
-* 60% of the BUSD\*/BNB/BTCB/ETH will be converted to BUSD\* and will be held in the fee address as buyback reserve. From the fee address, every hour, `BUSD* value in buyback reserve/30/24` will be used for TKENB buybacks and added as [locked](locked-liquidity.md) TKENB-BUSD\* [liquidity](automatic-liquidity.md). The formula above ensures that the buyback reserve is not used up instantly but the BUSD\* amount in the buyback reserve is evenly split for hourly buybacks \(`24` hours/day\) over one month period \(`30` days\). The formula is applied every hour to the existing value in the buyback reserve
-* 20% of the BUSD/BNB/BTCB/ETH will be sent to developer address for future development
-
-_\* on Huobi Eco \(HECO\), USDT replaces BUSD_   
-_\* on Polygon \(MATIC\), USDC replaces BUSD   
-\* on Polygon, USDC replaces BUSD_
-
-## Deposit Fee <a id="deposit-fee"></a>
-
-When staking into NON NATIVE farms \(farms where the pair does not contain TKENB\), a **4% deposit fee** will be charged. Staking into NATIVE farms \(farms where the pair contains TKENB\) but **not** TKENB-BNB\*, a **1% deposit fee** will be charged. The deposit fee for for staking into TKENB-BNB\* is **0%**.
-
-_\* HT on Huobi Eco \(HECO\), MATIC on Polygon, FTM on Fantom_
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Farm</th>
+      <th style="text-align:center">Deposit Fee</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p><b>NON-TKENB farms</b>
+        </p>
+        <p><em>(farms where the pair does not contain TKENB, e.g. BNB-BUSD)</em>
+        </p>
+      </td>
+      <td style="text-align:center"><b>4%</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p><b>TKENB farms</b>
+        </p>
+        <p><em>(farms where the pair contains TKENB but <b>*not* </b>the chain&apos;s native token<br />e.g. TKENB-DAI)</em>
+        </p>
+      </td>
+      <td style="text-align:center"><b>1%</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p><b>TKENB-NATIVE* farm</b>
+        </p>
+        <p><em>(*BNB on BSC, AVAX on Avalanche, HT on Huobi Eco (HECO), <br />MATIC on Polygon, FTM on Fantom)</em>
+        </p>
+      </td>
+      <td style="text-align:center"><b>0%</b>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Transfer Tax <a id="transfer-tax"></a>
 
-For each transfer, an **4% transfer tax** is charged.
-
-{% hint style="info" %}
-The transfer tax applies **only** for transactions involving the TKENB
-{% endhint %}
+For each transfer, an **14% transfer tax** is charged - [read more](../tokenomics/tkenb.md).
 

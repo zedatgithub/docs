@@ -1,6 +1,6 @@
 # 💸 Referral Program
 
-An on-chain referral program has been implemented to incentivize users to invite friends to join the farming. Referrers can earn **2%** of their referrals' **farms/pools harvests**, forever. Our referral program lets users earn TKENB without having to deposit any tokens.
+An on-chain referral program has been implemented to incentivize users to invite friends to join the farming. Referrers can earn **3%** of their referrals' **farms/pools harvests**, forever. Our referral program lets users earn TKENB without having to deposit any tokens.
 
 ## How to enroll
 
@@ -10,7 +10,7 @@ An on-chain referral program has been implemented to incentivize users to invite
 4. Every time your friends harvest from farms and/or pools you will receive your referral commissions automatically
 
 {% hint style="warning" %}
-The amount will **not** be deducted from your friends' **farms harvest** earnings but will instead be minted every time they harvest
+The amount will **not** be deducted from your friends' **harvested amount** but will instead be given to you by the MasterChef contract every time they harvest
 {% endhint %}
 
 ## We've improved the referral program
