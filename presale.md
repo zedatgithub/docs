@@ -14,11 +14,11 @@ Nowadays, all fair-launches seem to be negatively impacted by bots; presale is a
 | :--- | :--- |
 | Presale start | [Monday, September 6th, 12:00 GMT](https://www.timeanddate.com/countdown/generic?iso=2021-09-06T12:00:00Z&font=sanserif&p0=1440&csz=1&msg=Presale%20start) |
 | Presale duration | 3 days \(until [Thursday, September 9th, 12:00 GMT](https://www.timeanddate.com/countdown/generic?iso=2021-09-09T12:00:00Z&font=sanserif&p0=1440&csz=1&msg=Presale%20end)\) |
-| Presale quantity | 1,000,000,000 TKENB of which only 500,000,000 can be bought |
-| Presale price | approximately ****$0.015, see rates table below |
+| Presale quantity | 500,000,000 TKENB |
+| Presale price | approximately ****$0.0045, see rates table below |
 | Buying limit | no limit \(you can buy as much as you want\) |
 
-100% of the collected funds will be automatically paired with TKENB from the 500,000,000 pool that cannot be bought, and automatically placed in the appropriate liquidity pools \(e.g. if you bought TKENB using BTC, that BTC will be paired with an amount of TKENB equivalent in value, and deposited as [**locked liquidity**](features/locked-liquidity.md) in the BTC-TKENB pool\).
+100% of the collected funds will be automatically paired with TKENB and automatically placed in the appropriate liquidity pools \(e.g. if you bought TKENB using BTC, that BTC will be paired with an amount of TKENB equivalent in value, and deposited as [**locked liquidity**](features/locked-liquidity.md) in the BTC-TKENB pool\).
 
 Unsold TKENB will be 🔥burned🔥 automatically once the presale ends.
 

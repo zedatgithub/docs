@@ -17,9 +17,9 @@ Since the coin is deflationary, the supply keeps decreasing with every transacti
 
 ## Transfer Tax <a id="transfer-tax"></a>
 
-* Reflection Rate: 4%-6% of transfer tax will be reflected back to current holders as static rewards
-* Automatic Liquidity Rate: 8%-10% of transfer tax will be used for Thor Thunder \(a special auto buyback and burn mechanism\).
-* Total Transfer Tax Rate: **12%-14% of every transfer.**
+* Reflection Rate: 4% of transfer tax will be reflected back to current holders as static rewards
+* Automatic Liquidity Rate: 10% of transfer tax will be used for buyback and burn mechanism
+* Total Transfer Tax Rate: **14% of every transfer.**
 
 {% hint style="info" %}
 The transfer tax is applied **only** for transactions involving TKENB
