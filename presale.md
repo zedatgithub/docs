@@ -6,7 +6,13 @@ description: >-
 
 # 🌟 Presale
 
-**The only way of buying** TKENB during the presale is on our project's website, at the following links, depending on the chain you are on:
+| Event | Value |
+| :--- | :--- |
+| Presale start | [Monday, September 6th, 12:00 GMT](https://www.timeanddate.com/countdown/generic?iso=2021-09-06T12:00:00Z&font=sanserif&p0=1440&csz=1&msg=Presale%20start) |
+| Presale duration | 3 days |
+| Buying limit | no limit \(you can buy as much as you want\) |
+
+**The only way of buying** TKENB during the presale is on our project's website, at the addresses shown below, depending on the chain you are on:
 
 | Chain | URL |
 | :--- | :--- |
@@ -20,7 +26,7 @@ You can use a referrer address and have it receive from us TKENB representing **
 
 Liquidity mining will start once the presale ends, [Monday, September 13th, 2021, 12:00 GMT](https://www.timeanddate.com/countdown/generic?iso=2021-09-13T12:00:00Z&font=sanserif&p0=1440&csz=1&msg=Farms/Pools/Vaults%20start)
 
-## **Why Presale?**  <a id="why-presale"></a>
+## **Why Presale?** <a id="why-presale"></a>
 
 Nowadays, all fair-launches seem to be negatively impacted by bots; presale is actually fairer for people to participate equally and without the price being altered by bots.
 
@@ -52,7 +58,7 @@ On **Avalanche**:
 | 100 **USDC** | = | 35,000 TKENB |
 | 100 **DAI** | = | 35,000 TKENB |
 
-On **Huobi ECO (HECO)**:
+On **Huobi ECO \(HECO\)**:
 
 | **Asset** | = | Rate |
 | ---: | :---: | :--- |
@@ -64,7 +70,7 @@ On **Huobi ECO (HECO)**:
 | 100 **USDC** | = | 35,000 TKENB |
 | 100 **DAI** | = | 35,000 TKENB |
 
-On **Polygon (Matic)**:
+On **Polygon \(Matic\)**:
 
 | **Asset** | = | Rate |
 | ---: | :---: | :--- |
@@ -88,9 +94,7 @@ On **Fantom**:
 | 100 **USDC** | = | 35,000 TKENB |
 | 100 **DAI** | = | 35,000 TKENB |
 
-**No Contribution Limit \(you can buy any amount you want\)**
-
-**Duration: 3 days.** 
+\*\*\*\*
 
 100% of the collected funds will be automatically paired with TKENB tokens and automatically placed in the appropriate liquidity pools \(e.g. if you bought TKEBN using BTC, that BTC will be paired with an amount of TKENB equivalent in value, and deposited as [**locked liquidity**](features/locked-liquidity.md) in the BTC-TKENB pool\).
 
