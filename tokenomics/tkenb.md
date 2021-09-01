@@ -9,7 +9,7 @@ description: farming token used for mixed pairs
 * Name: TKENB Token
 * Symbol: TKENB
 * Contract address can be found in [Contracts](contracts.md) section
-* Max Supply: Unlimited
+* Max Supply: 5,000,000,000
 
 ## **Deflationary Auto Burn**
 
@@ -18,7 +18,7 @@ Since the coin is deflationary, the supply keeps decreasing with every transacti
 ## Transfer Tax <a id="transfer-tax"></a>
 
 * Reflection Rate: 4% of transfer tax will be reflected back to current holders as static rewards
-* Automatic Liquidity Rate: 10% of transfer tax will be used for buyback and burn mechanism
+* Liquidity Rate: 10% of transfer tax will be used for buyback and burn mechanism
 * Total Transfer Tax Rate: **14% of every transfer.**
 
 {% hint style="info" %}
