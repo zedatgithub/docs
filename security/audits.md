@@ -8,5 +8,5 @@ Our **Token contract** is an **exact 1:1 fork** of thoreum.finance's Token contr
 
 thoreum.finance's contracts were audited by [**Techrate**](https://docs.thoreum.finance/security/audits) \(paid version\), [**Paladin BlockChain Security**](https://docs.thoreum.finance/security/audits) and [**CertiK**](https://docs.thoreum.finance/security/audits)**.**
 
-We wanted to have our contracts audited anyways by Paladin and we contacted them in this regard, mentioning that our contracts are exact forks of thoreum finance's and they replied with a **15K** quote so, unfortunately, we are unable to pay for an audit from them.
+We wanted to have our contracts audited anyways by Paladin and we contacted them in this regard, mentioning that our contracts are exact forks of thoreum.finance's and they replied with a **15K** quote so, unfortunately, we are unable to pay for an audit from them.
 
