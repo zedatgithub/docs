@@ -28,10 +28,10 @@ Unsold TKENB will be 🔥burned🔥 automatically once the presale ends.
 | Chain | URL |
 | :--- | :--- |
 | Binance Smart Chain | [https://oberon-bsc-galaxyfinance.one/presale](https://oberon-bsc-galaxyfinance.one/presale) |
+| Avalanche | [https://oberon-avalanche-galaxyfinance.one/presale](https://oberon-avalanche-galaxyfinance.one/presale) |
 | Huobi ECO \(HECO\) | [https://oberon-heco-galaxyfinance.one/presale](https://oberon-heco-galaxyfinance.one/presale) |
 | Polygon \(Matic\) | [https://oberon-polygon-galaxyfinance.one/presale](https://oberon-polygon-galaxyfinance.one/presale) |
 | Fantom | [https://oberon-fantom-galaxyfinance.one/presale](https://oberon-fantom-galaxyfinance.one/presale) |
-| Avalanche | [https://oberon-avalanche-galaxyfinance.one/presale](https://oberon-avalanche-galaxyfinance.one/presale) |
 
 You can use a referrer address and have it receive from us TKENB representing **3%** of the TKENB amount you buy.
 
