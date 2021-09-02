@@ -1,10 +1,6 @@
 # 🔥 Automatic Burning
 
-We use the Automatic Burning feature differently in order to:
+As mentioned previously, there is a **14%** transfer tax on each TKENB transaction, **4%** of which will be reflected back to current holders as [static rewards](../tokenomics/static-rewards.md), while **10%** will be sold for BNB/AVAX/HT/MATIC/FTM \(depending on the chain\) through the contract automatically whenever 100,000 TKENB is collected, and added to TKENB's contract.
 
-* maximize and optimize the amount used to create [NATIVE Pair Liquidity](automatic-liquidity.md) 
-* provide liquidity for the [Lottery](lottery.md)
-* maximize the amount we [🔥BURN🔥](https://testnet.bscscan.com/token/0x8a5a76401ada8998603d982d8343752fec75972b?a=0x000000000000000000000000000000000000dEaD) 
-
-Read more at [Fee/Tax Distribution](deposit-fee-redistribution.md) for more on how the fees are used and how much is burned.
+This liquidity will be locked in TKENB contract and no one - not even the developers - can withdraw it, and this liquidity will be used for doing the automatic buy backs and burns. It should be beneficial in the long term because it will help keep the price level of TKENB and raise it over time.
 
