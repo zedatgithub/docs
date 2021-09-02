@@ -9,7 +9,6 @@ description: farming token used for mixed pairs
 * Name: TKENB Token
 * Symbol: TKENB
 * Contract address can be found in [Contracts](contracts.md) section
-* Max Supply: 5,000,000,000
 
 | Assignment | Amount | Percentage |
 | :--- | :--- | ---: |
@@ -21,6 +20,10 @@ description: farming token used for mixed pairs
 |  | 499,900,000 used for pairing with the assets collected  from the presale and providing [locked liquidity](https://github.com/zedatgithub/pancake-docs/tree/69f12926d7970e4756d48e399e4ed4a8a952acfe/tokenomics/features/locked-liquidity.md) for farms | 9.99% |
 | Devs: | 100,000 \(used for marketing purposes\) | 0.01% |
 | Giveaway | 100,000 | 0.01% |
+
+## **Liquidity Mining**
+
+TKENB is mined via **liquidity mining** __where users can mine TKENB by staking other coins such as BNB, BUSD, ETH, etc., or by staking liquidity pairs \(LPs\) such as BNB-BTCB, BNB-ETH, etc.
 
 ## **Deflationary Auto Burn**
 
