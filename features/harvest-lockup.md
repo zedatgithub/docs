@@ -131,17 +131,9 @@ Below is the list of available farms, on all networks:
   </tbody>
 </table>
 
-_\* BNB/AVAX/HT/MATIC/FTM, depending on the chain_
-
-_- USDT avalanche/heco, USDC fantom/poly_
-
-_~_
-
-_\*   
-^ on Aalanche, USDT replaces BUSD  
-^ on Huobi Eco \(HECO\), USDT replaces BUSD_  
-^ _on Polygon \(MATIC\), USDC replaces BUSD  
-^ on Polygon, USDC replaces BUSD_
+_\* **BNB**/**AVAX**/**HT**/**MATIC**/**FTM**, depending on the network  
+\*\* **HUSD** on Huobi ECO \(HECO\), **DAI** on Polygon \(Matic\), Fantom and Avalanche  
+^ **fUSDT** on Fantom_
 
 {% hint style="warning" %}
 LP tokens can be created but **can not be deposited** into the farms until farming starts. Harvest lookup time countdown will also start when the farming starts.
