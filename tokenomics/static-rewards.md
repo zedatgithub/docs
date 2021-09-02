@@ -6,7 +6,7 @@ Static rewards solve a host of problems. First, the reward amount depends on the
 
 ### **Automatic Rewards to Holders**
 
-When TKENB is transferred, a 14% tax fee is taxed for each transaction. Of which, 10% is for automatic buy backs and burn, and 4% is redistributed to existing TKENB holders as static rewards. 
+When TKENB is transferred, a **14%** tax fee is taxed for each transaction. Of this, **10%** is used for [automatic buy backs and burn](../features/automatic-burning.md), and **4%** is redistributed to existing TKENB holders as [static rewards](static-rewards.md). 
 
 Those who decide to hold their TKENB are rewarded from those who sell, so this mechanism encourages holders and discourages pump and dump traders. Holders are incentivized to hold their coin because their holdings will increase over time. And even if TKENB investors take no action, they still collect additional TKENB just by holding it.
 
