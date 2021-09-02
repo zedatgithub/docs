@@ -2,37 +2,35 @@
 
 ## What are the Vaults? <a id="what-is-a-vault"></a>
 
-Vaults are investment instruments making use of automation to continually reinvest deposited funds, helping you achieve high levels of compounded interest and earning you more of the staked assets. For example, vaults where one staked USDC-USDT LPs will result in more USDC-USDT LPs over time, effectively growing your share in the vault and thus allowing for more and more rewards over time.
+Vaults are investment instruments making use of automation to continually reinvest deposited funds, helping you achieve high levels of compounded interest and earning you more of the staked assets. For example, vaults where one staked BNB-BUSD LPs will result in more BNB-BUSD LPs over time, effectively growing your share in the vault and thus allowing for more and more rewards over time.
 
 When browsing the vaults on the platform, you will see the annual percentage yield \(APY\), which takes the frequent compounding into consideration compared to annual percentage rate \(APR\) which does not.
 
 Vaults can:
 
-* Compound rewards into the initially deposited asset
-* Use any asset as liquidity
-* Put any asset to work to generate a yield
-* Reinvest earned profits
-* The assets staked in the Vaults will automatically be compounded \(reinvested\) for you for a small fee
-* The compounding function is triggered by other users who get a small bounty for triggering it as well as automatically, by the platform, a few times per day
-* Interest is displayed as APY, which takes into account the perpetual compounding
-* A small performance fee is subtracted from your earnings each time the pool is automatically compounded \(see below\)
-* An unstaking fee applies when you unstake within 48 hours after a manual staking \(see below\)
+* compound rewards into the **initially deposited asset** \(you will not earn TKENB but your invested asset, be that LPs or single tokens!\)
+* use any asset as liquidity and put it to work for you and to generate interest
+* reinvest earned profits
+* the assets staked in the vaults will automatically be compounded \(reinvested\) for you for free
+* the compounding function is triggered by other users who get a small bounty for triggering it as well as automatically, by the platform, a few times per day
+* interest is displayed as APY, which takes into account the perpetual compounding
+* an unstaking fee applies when you unstake before the required amount of time after a manual staking \(see below\)
 
 ## What are the fees for the Vaults? <a id="what-are-the-fees-for-the-auto-cake-syrup-pool"></a>
 
 **Deposit fee**
 
-* 0% fee for TKENB token/pairs 
-* 4%    fee for NON TKENB pairs
+* **0%** for TKENB token/pairs 
+* **4%**    for NON TKENB pairs
 
 **Unstaking fee**
 
-* **4%    fee for TKENB token/pairs if you unstake \(withdraw\) within 48 hours**
-* **4% fee for NON TKENB pairs if you unstake \(withdraw\) within 72 hours**
-* Only applies after manually staking
-* After that, you can unstake **without any fees**
-* The timer resets every time you manually stake more in the vault
-* This fee only applies to manual unstaking - it does not apply to automatic compounding
+* **4%**    if you unstake \(withdraw\) within **48 hours** for TKENB token/pairs 
+* **4%** if you unstake \(withdraw\) within **72 hours** for NON TKENB pairs 
+* only applies after manually staking \(not for auto-compounding\)
+* after that, you can unstake **without any fees**
+* the timer resets every time you manually stake more \(add\) to the vault
+* this fee only applies to manual unstaking - it does not apply to automatic compounding
 
 Fees collected from early unstaking are sent to [Fees/Taxes](deposit-fee-redistribution.md).
 
@@ -45,10 +43,6 @@ This bounty is given as a reward for providing a service to other users.
 Whenever you successfully claim the bounty, you are also helping out by activating the auto-compounding feature for everyone.
 
 _Make sure that the amount of TKENB you receive will be greater than the BNB/AVAX/HT/MATIC/FTM \(depending on the chain\) fees you will be spending to submit the blockchain transaction!_
-
-## **Does the performance fee get taken out when I withdraw my funds?** <a id="does-the-performance-fee-get-taken-out-when-i-withdraw-my-funds"></a>
-
-No, the performance fees are taken every time someone claims the Bounty because the action will trigger the harvesting and the compounding for everyone.
 
 ## Does the vault page show the APY? <a id="does-the-vault-page-show-the-apy"></a>
 

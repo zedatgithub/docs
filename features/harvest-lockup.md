@@ -4,7 +4,7 @@ There will be a **harvest lockup**, specific for each farm, meaning that the pen
 
 Every time you **harvest** your earnings will be sent to your wallet and a new **harvest lockup** timer will be set for the next reward cycle. The harvest lockup is specific to each farm and is shown on each farm's card.
 
-Below is the list of available farms, on all networks:
+Below is the list of available farms, on all 5 networks:
 
 <table>
   <thead>
