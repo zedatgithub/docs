@@ -31,49 +31,70 @@ Since the coin is deflationary, the supply keeps decreasing with every transacti
 
 ## Transfer Tax <a id="transfer-tax"></a>
 
-* Reflection Rate: 4% of transfer tax will be reflected back to current holders as static rewards
-* Liquidity Rate: 10% of transfer tax will be used for buyback and burn mechanism
-* Total Transfer Tax Rate: **14% of every transfer.**
+* Reflection Rate: **4%** of transfer tax will be reflected back to current holders as [static rewards](static-rewards.md)
+* Liquidity Rate: **10%** of transfer tax will be used for the [buyback and burn](../features/automatic-burning.md) mechanism
+* Total Transfer Tax Rate: **10 + 4 = 14% of every transfer.**
 
 {% hint style="info" %}
 The transfer tax is applied **only** for transactions involving TKENB
 {% endhint %}
 
-## Mining Rate - Binance Smart Chain <a id="emission-rate"></a>
+## Mining rates <a id="emission-rate"></a>
 
-* 100 TKENB / block
-* ~28,800 TKENB / day \*
-* 10% of the emission rate goes to the [lottery](../features/lottery.md)
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Network</th>
+      <th style="text-align:center">Emission
+        <br />rate</th>
+      <th style="text-align:center">Emissions/
+        <br />day</th>
+      <th style="text-align:center">
+        <p>Block</p>
+        <p>time</p>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Binance Smart Chain</td>
+      <td style="text-align:center">100 TKENB / block*</td>
+      <td style="text-align:center">~ 28,000 TKENB / day</td>
+      <td style="text-align:center"><a href="https://bscscan.com/chart/blocktime">~ 3 seconds</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Avalanche</td>
+      <td style="text-align:center">33 TKENB / block*</td>
+      <td style="text-align:center">~ 28,000 TKENB / day</td>
+      <td style="text-align:center"><a href="https://cchain.explorer.avax.network/">~ 1 second</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Huobi ECO (HECO)</td>
+      <td style="text-align:center">100 TKENB / block*</td>
+      <td style="text-align:center">~ 28,000 TKENB / day</td>
+      <td style="text-align:center"><a href="https://hecoinfo.com/chart/blocktime">~ 3 seconds</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Polygon (Matic)</td>
+      <td style="text-align:center">66 TKENB / block*</td>
+      <td style="text-align:center">~ 28,000 TKENB / day</td>
+      <td style="text-align:center"><a href="https://polygonscan.com/chart/blocktime">~ 2 seconds</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Fantom</td>
+      <td style="text-align:center">33 TKENB / block*</td>
+      <td style="text-align:center">~ 28,000 TKENB / day</td>
+      <td style="text-align:center"><a href="https://ftmscan.com/chart/blocktime">~ 1 second</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-## Mining Rate - Avalanche
-
-* 33 TKENB / block
-* ~28,800 TKENB / day \*\*\*\*
-* 10% of the emission rate goes to the [lottery](../features/lottery.md)
-
-## Mining Rate - Huobi Eco \(HECO\)
-
-* 100 TKENB / block
-* ~28,800 TKENB / day \*\*
-* 10% of the emission rate goes to the [lottery](../features/lottery.md)
-
-## Mining Rate - Polygon \(MATIC\)
-
-* 66 TKENB / block
-* ~28,800 TKENB / day \*\*\*
-* 10% of the emission rate goes to the [lottery](../features/lottery.md)
-
-## Mining Rate - Fantom
-
-* 33 TKENB / block
-* ~28,800 TKENB / day \*\*\*\*
-* 10% of the emission rate goes to the [lottery](../features/lottery.md)
-
-_\* Binance Smart Chain has an_ [_Average Block Time_](https://bscscan.com/chart/blocktime) _of ~ 3 seconds_  
-_\*\* Huobi Eco \(HECO\) has an_ [_Average Block Time_](https://hecoinfo.com/chart/blocktime) _of ~ 3 seconds_  
-_\*\*\* Polygon has an_ [_Average Block Time_](https://polygonscan.com/chart/blocktime) _of ~ 2 seconds_  
-_\*\*\*\* Fantom has an_ [_Average Block Time_](https://ftmscan.com/chart/blocktime) _of ~ 1 second  
-\*\*\*\* Avalanche has an_ [_Average Block Time_](https://cchain.explorer.avax.network) _of ~ 1 second_
+\*10% of the emission rate goes to the [lottery](../features/lottery.md)
 
 ## Why TKENB Has A Hard Cap?
 
