@@ -2,7 +2,7 @@
 
 There will be a **harvest lockup**, specific for each pool, meaning that the pending earnings **can not be withdrawn** as long as the lockup is in effect.
 
-Every time you **harvest** your earnings will be sent to your wallet and a new **harvest lockup** timer will be set for the next reward cycle. The harvest lockup is specific to each pool and is shown on each pool's card.
+Every time you **harvest,** your earnings will be sent to your wallet and a new **harvest lockup** timer will be set for the next reward cycle. The harvest lockup is specific to each pool and is shown on each pool's card.
 
 Below is the list of available pools, on all networks:
 
@@ -27,21 +27,21 @@ Below is the list of available pools, on all networks:
     </tr>
     <tr>
       <td style="text-align:left">2</td>
-      <td style="text-align:left">BNB/HT/MATIC/FTM*</td>
+      <td style="text-align:left">BNB/AVAX/HT/MATIC/FTM*</td>
       <td style="text-align:left">5x</td>
-      <td style="text-align:left">4 hours</td>
+      <td style="text-align:left">8 hours</td>
     </tr>
     <tr>
       <td style="text-align:left">3</td>
       <td style="text-align:left">BTC</td>
       <td style="text-align:left">5x</td>
-      <td style="text-align:left">4 hours</td>
+      <td style="text-align:left">8 hours</td>
     </tr>
     <tr>
       <td style="text-align:left">4</td>
       <td style="text-align:left">ETH</td>
       <td style="text-align:left">5x</td>
-      <td style="text-align:left">4 hours</td>
+      <td style="text-align:left">8 hours</td>
     </tr>
     <tr>
       <td style="text-align:left">5</td>
@@ -65,4 +65,6 @@ Below is the list of available pools, on all networks:
 </table>
 
 _\* depending on the network_
+
+_USDT on Huobi ECO \(HECO\)_
 

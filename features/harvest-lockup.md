@@ -21,13 +21,13 @@ Below is the list of available farms, on all networks:
   <tbody>
     <tr>
       <td style="text-align:left">1</td>
-      <td style="text-align:left">TKENB-BUSD LP</td>
+      <td style="text-align:left">TKENB-BUSD^ LP</td>
       <td style="text-align:left">20x</td>
       <td style="text-align:left">4 hours</td>
     </tr>
     <tr>
       <td style="text-align:left">2</td>
-      <td style="text-align:left">TKENB-BNB LP</td>
+      <td style="text-align:left">TKENB-NATIVE* LP</td>
       <td style="text-align:left">20x</td>
       <td style="text-align:left">4 hours</td>
     </tr>
@@ -45,13 +45,13 @@ Below is the list of available farms, on all networks:
     </tr>
     <tr>
       <td style="text-align:left">5</td>
-      <td style="text-align:left">BNB-BTC LP</td>
+      <td style="text-align:left">NATIVE*-BTC LP</td>
       <td style="text-align:left">5x</td>
       <td style="text-align:left">8 hours</td>
     </tr>
     <tr>
       <td style="text-align:left">6</td>
-      <td style="text-align:left">BNB-BUSD LP</td>
+      <td style="text-align:left">NATIVE*-BUSD^ LP</td>
       <td style="text-align:left">5x</td>
       <td style="text-align:left">8 hours</td>
     </tr>
@@ -63,28 +63,30 @@ Below is the list of available farms, on all networks:
     </tr>
     <tr>
       <td style="text-align:left">8</td>
-      <td style="text-align:left">BTC-BUSD LP</td>
+      <td style="text-align:left">BTC-BUSD^ LP</td>
       <td style="text-align:left">5x</td>
       <td style="text-align:left">8 hours</td>
     </tr>
     <tr>
       <td style="text-align:left">9</td>
-      <td style="text-align:left">ETH-BNB LP</td>
+      <td style="text-align:left">ETH-NATIVE* LP</td>
       <td style="text-align:left">5x</td>
       <td style="text-align:left">8 hours</td>
     </tr>
     <tr>
       <td style="text-align:left">10</td>
-      <td style="text-align:left">ETH-BUSD LP</td>
+      <td style="text-align:left">ETH-BUSD^ LP</td>
       <td style="text-align:left">5x</td>
       <td style="text-align:left">8 hours</td>
     </tr>
   </tbody>
 </table>
 
-_\* on Huobi Eco \(HECO\), USDT replaces BUSD_  
-_\* on Polygon \(MATIC\), USDC replaces BUSD  
-\* on Polygon, USDC replaces BUSD_
+_\* NATIVE means BNB/AVAX/HT/MATIC/FTM, depending on the chain  
+^ on Aalanche, USDT replaces BUSD  
+^ on Huobi Eco \(HECO\), USDT replaces BUSD_  
+^ _on Polygon \(MATIC\), USDC replaces BUSD  
+^ on Polygon, USDC replaces BUSD_
 
 {% hint style="warning" %}
 LP tokens can be created but **can not be deposited** into the farms until farming starts. Harvest lookup time countdown will also start when the farming starts.
