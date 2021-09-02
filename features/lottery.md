@@ -33,12 +33,12 @@ If the winning numbers are "1-9-13-2**"**
 * "2-13-9-1" = no matches
 * **"1-9-13-2" = match all 4**
 * "**1**-**9**-2-**2**" = 3 numbers matched
-* "2-3-1**3**-**2**" = 2 numbers matched
+* "2-3-**13**-**2**" = 2 numbers matched
 * "**1**-2-1-**2**" = 2 numbers matched
 
 ## **Lottery phases** <a id="lottery-phases"></a>
 
-Lottery first draw is on [Friday, September 10th, 12:00 GMT](https://www.timeanddate.com/countdown/generic?iso=2021-09-10T12:00:00Z&font=sanserif&p0=1440&csz=1&msg=Lottery%20first%20draw)
+Lottery first draw is on [Friday, September 17th, 12:00 GMT](https://www.timeanddate.com/countdown/generic?iso=2021-09-17T12:00:00Z&font=sanserif&p0=1440&csz=1&msg=Lottery%20first%20draw).
 
 There will be 1 \(one\) draw per day, once every 24 hours, at specific 12:00 GMT.
 
