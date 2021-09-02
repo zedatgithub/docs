@@ -38,7 +38,7 @@ TKENB is mined via **liquidity mining** __where users can mine TKENB by staking 
 * [Presale](presale.md)
 * [Farms](features/harvest-lockup.md) where you deposit LP tokens to earn TKENB with high APYs
 * [Pools](features/token-pools.md) where you deposit single tokens and earn TKENB with high APYs
-* [Vaults](features/vaults.md) where you deposit LPs or single tokens and these \(the deposited LP tokens and/or single tokens\) are automatically and optimally compounded for you
+* [Vaults](features/vaults.md) where you deposit LPs or single tokens and these \(the deposited LP tokens and/or single tokens, not TKENB!\) are automatically and optimally compounded for you
 * [Cross-chain transfer/exchange](features/token-bridge.md) between 5 chains via our own integrated [bridge](features/token-bridge.md):
   * [Binance Smart Chain](https://www.binance.org/en/smartChain)
   * [Avalanche](https://www.avax.network/)
