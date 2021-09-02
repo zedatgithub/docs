@@ -11,8 +11,12 @@ Below is the list of available pools, on all networks:
     <tr>
       <th style="text-align:left">Pool ID</th>
       <th style="text-align:left">TOKEN</th>
-      <th style="text-align:left">Multiplier</th>
-      <th style="text-align:left">
+      <th style="text-align:center">Multiplier</th>
+      <th style="text-align:center">
+        <p>Deposit</p>
+        <p>Fee</p>
+      </th>
+      <th style="text-align:center">
         <p>Harvest</p>
         <p>Lockup</p>
       </th>
@@ -22,49 +26,56 @@ Below is the list of available pools, on all networks:
     <tr>
       <td style="text-align:left">0</td>
       <td style="text-align:left">TKENB</td>
-      <td style="text-align:left">10x</td>
-      <td style="text-align:left">4 hours</td>
+      <td style="text-align:center">10x</td>
+      <td style="text-align:center">0%</td>
+      <td style="text-align:center">4 hours</td>
     </tr>
     <tr>
       <td style="text-align:left">1</td>
-      <td style="text-align:left">BNB/AVAX/HT/MATIC/FTM*</td>
-      <td style="text-align:left">5x</td>
-      <td style="text-align:left">8 hours</td>
+      <td style="text-align:left">BNB*</td>
+      <td style="text-align:center">5x</td>
+      <td style="text-align:center">4%</td>
+      <td style="text-align:center">8 hours</td>
     </tr>
     <tr>
       <td style="text-align:left">2</td>
       <td style="text-align:left">BTC</td>
-      <td style="text-align:left">5x</td>
-      <td style="text-align:left">8 hours</td>
+      <td style="text-align:center">5x</td>
+      <td style="text-align:center">4%</td>
+      <td style="text-align:center">8 hours</td>
     </tr>
     <tr>
       <td style="text-align:left">3</td>
       <td style="text-align:left">ETH</td>
-      <td style="text-align:left">5x</td>
-      <td style="text-align:left">8 hours</td>
+      <td style="text-align:center">5x</td>
+      <td style="text-align:center">4%</td>
+      <td style="text-align:center">8 hours</td>
     </tr>
     <tr>
       <td style="text-align:left">4</td>
-      <td style="text-align:left">BUSD/HUSD/DAI**</td>
-      <td style="text-align:left">5x</td>
-      <td style="text-align:left">8 hours</td>
+      <td style="text-align:left">BUSD**</td>
+      <td style="text-align:center">5x</td>
+      <td style="text-align:center">4%</td>
+      <td style="text-align:center">8 hours</td>
     </tr>
     <tr>
       <td style="text-align:left">5</td>
       <td style="text-align:left">USDC</td>
-      <td style="text-align:left">5x</td>
-      <td style="text-align:left">8 hours</td>
+      <td style="text-align:center">5x</td>
+      <td style="text-align:center">4%</td>
+      <td style="text-align:center">8 hours</td>
     </tr>
     <tr>
       <td style="text-align:left">6</td>
-      <td style="text-align:left">USDT/fUSDT^</td>
-      <td style="text-align:left">5x</td>
-      <td style="text-align:left">8 hours</td>
+      <td style="text-align:left">USDT^</td>
+      <td style="text-align:center">5x</td>
+      <td style="text-align:center">4%</td>
+      <td style="text-align:center">8 hours</td>
     </tr>
   </tbody>
 </table>
 
-_\* depending on the network  
-\*\* HUSD on Huobi ECO \(HECO\), DAI on Polygon \(Matic\), Fantom and Avalanche  
-^ fUSDT on Fantom_
+_\* **BNB**/**AVAX**/**HT**/**MATIC**/**FTM**, depending on the network  
+\*\* **HUSD** on Huobi ECO \(HECO\), **DAI** on Polygon \(Matic\), Fantom and Avalanche  
+^ **fUSDT** on Fantom_
 

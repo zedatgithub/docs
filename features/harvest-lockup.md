@@ -11,8 +11,12 @@ Below is the list of available farms, on all networks:
     <tr>
       <th style="text-align:left">Farm ID</th>
       <th style="text-align:left">LP</th>
-      <th style="text-align:left">Multiplier</th>
-      <th style="text-align:left">
+      <th style="text-align:center">Multiplier</th>
+      <th style="text-align:center">
+        <p>Deposit</p>
+        <p>Fee</p>
+      </th>
+      <th style="text-align:center">
         <p>Harvest</p>
         <p>Lockup</p>
       </th>
@@ -20,79 +24,120 @@ Below is the list of available farms, on all networks:
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">1</td>
-      <td style="text-align:left">TKENB-NATIVE* LP</td>
-      <td style="text-align:left">20x</td>
-      <td style="text-align:left">4 hours</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">2</td>
-      <td style="text-align:left">TKENB-BTC LP</td>
-      <td style="text-align:left">20x</td>
-      <td style="text-align:left">4 hours</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">3</td>
-      <td style="text-align:left">TKENB-ETH LP</td>
-      <td style="text-align:left">20x</td>
-      <td style="text-align:left">4 hours</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">4</td>
-      <td style="text-align:left">TKENB-BUSD^ LP</td>
-      <td style="text-align:left">20x</td>
-      <td style="text-align:left">4 hours</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">5</td>
-      <td style="text-align:left">TKENB-USDT~ LP</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">5</td>
-      <td style="text-align:left">NATIVE*-BTC LP</td>
-      <td style="text-align:left">5x</td>
-      <td style="text-align:left">8 hours</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">6</td>
-      <td style="text-align:left">NATIVE*-BUSD^ LP</td>
-      <td style="text-align:left">5x</td>
-      <td style="text-align:left">8 hours</td>
-    </tr>
-    <tr>
       <td style="text-align:left">7</td>
-      <td style="text-align:left">BTC-ETH LP</td>
-      <td style="text-align:left">5x</td>
-      <td style="text-align:left">8 hours</td>
+      <td style="text-align:left">TKENB-BNB* LP</td>
+      <td style="text-align:center">20x</td>
+      <td style="text-align:center">0%</td>
+      <td style="text-align:center">2 hours</td>
     </tr>
     <tr>
       <td style="text-align:left">8</td>
-      <td style="text-align:left">BTC-BUSD^ LP</td>
-      <td style="text-align:left">5x</td>
-      <td style="text-align:left">8 hours</td>
+      <td style="text-align:left">TKENB-BTC LP</td>
+      <td style="text-align:center">20x</td>
+      <td style="text-align:center">1%</td>
+      <td style="text-align:center">2 hours</td>
     </tr>
     <tr>
       <td style="text-align:left">9</td>
-      <td style="text-align:left">ETH-NATIVE* LP</td>
-      <td style="text-align:left">5x</td>
-      <td style="text-align:left">8 hours</td>
+      <td style="text-align:left">TKENB-ETH LP</td>
+      <td style="text-align:center">20x</td>
+      <td style="text-align:center">1%</td>
+      <td style="text-align:center">2 hours</td>
     </tr>
     <tr>
       <td style="text-align:left">10</td>
-      <td style="text-align:left">ETH-BUSD^ LP</td>
-      <td style="text-align:left">5x</td>
-      <td style="text-align:left">8 hours</td>
+      <td style="text-align:left">TKENB-BUSD** LP</td>
+      <td style="text-align:center">20x</td>
+      <td style="text-align:center">1%</td>
+      <td style="text-align:center">2 hours</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">11</td>
+      <td style="text-align:left">TKENB-USDC LP</td>
+      <td style="text-align:center">20x</td>
+      <td style="text-align:center">1%</td>
+      <td style="text-align:center">2 hours</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">12</td>
+      <td style="text-align:left">TKENB-USDT^ LP</td>
+      <td style="text-align:center">20x</td>
+      <td style="text-align:center">1%</td>
+      <td style="text-align:center">2 hours</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">13</td>
+      <td style="text-align:left">BNB*-BTC LP</td>
+      <td style="text-align:center">5x</td>
+      <td style="text-align:center">4%</td>
+      <td style="text-align:center">8 hours</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">14</td>
+      <td style="text-align:left">BNB*-USDx LP</td>
+      <td style="text-align:center">5x</td>
+      <td style="text-align:center">4%</td>
+      <td style="text-align:center">8 hours</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">15</td>
+      <td style="text-align:left">BTC-ETH LP</td>
+      <td style="text-align:center">5x</td>
+      <td style="text-align:center">4%</td>
+      <td style="text-align:center">8 hours</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">16</td>
+      <td style="text-align:left">BTC-USDx LP</td>
+      <td style="text-align:center">5x</td>
+      <td style="text-align:center">4%</td>
+      <td style="text-align:center">8 hours</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">17</td>
+      <td style="text-align:left">BNB*-ETH LP</td>
+      <td style="text-align:center">5x</td>
+      <td style="text-align:center">4%</td>
+      <td style="text-align:center">8 hours</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">18</td>
+      <td style="text-align:left">ETH-USDx LP</td>
+      <td style="text-align:center">5x</td>
+      <td style="text-align:center">4%</td>
+      <td style="text-align:center">8 hours</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">19</td>
+      <td style="text-align:left">BUSD**-USDC LP</td>
+      <td style="text-align:center">5x</td>
+      <td style="text-align:center">4%</td>
+      <td style="text-align:center">8 hours</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">20</td>
+      <td style="text-align:left">BUSD**-USDT^ LP</td>
+      <td style="text-align:center">5x</td>
+      <td style="text-align:center">4%</td>
+      <td style="text-align:center">8 hours</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">21</td>
+      <td style="text-align:left">USDT^-USDC LP</td>
+      <td style="text-align:center">5x</td>
+      <td style="text-align:center">4%</td>
+      <td style="text-align:center">8 hours</td>
     </tr>
   </tbody>
 </table>
 
-_^ - USDT avalanche/heco, USDC fantom/poly_
+_\* BNB/AVAX/HT/MATIC/FTM, depending on the chain_
+
+_- USDT avalanche/heco, USDC fantom/poly_
 
 _~_
 
-_\* NATIVE means BNB/AVAX/HT/MATIC/FTM, depending on the chain  
+_\*   
 ^ on Aalanche, USDT replaces BUSD  
 ^ on Huobi Eco \(HECO\), USDT replaces BUSD_  
 ^ _on Polygon \(MATIC\), USDC replaces BUSD  
