@@ -35,6 +35,7 @@ TKENB is mined via **liquidity mining** __where users can mine TKENB by staking 
 
 ## **Main Features** <a id="main-features"></a>
 
+* [Presale](presale.md)
 * [Farms](features/harvest-lockup.md) where you deposit LP tokens to earn TKENB with high APYs
 * [Pools](features/token-pools.md) where you deposit single tokens and earn TKENB with high APYs
 * [Vaults](features/vaults-auto-compound.md) where you deposit LPs or single tokens and these \(the deposited LP tokens and/or single tokens\) are automatically and optimally compounded for you
