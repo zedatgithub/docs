@@ -108,12 +108,13 @@ TKENB primary function is to become a deflationary utility coin with decreased s
 
 **Transfer tax**
 
-There is a **14%** transfer tax on each transaction, of which 4% is **10%** of which will be sold to get BNB/AVAX/HT/MATIC/FTM \(depending on the chain\) through the contract automatically. Every time the total of this transfer tax exceeds 100,000 TKENB, the contract will automatically sell 100,000 TKENB for BNB/AVAX/HT/MATIC/FTM \(depending on the chain\) and adding to TKENB's contract.
+As mentioned previously, there is a **14%** transfer tax on each transaction, **4%** of which will be reflected back to current holders as [static rewards](static-rewards.md), while **10%** will be sold for BNB/AVAX/HT/MATIC/FTM \(depending on the chain\) through the contract automatically whenever 100,000 TKENB is collected, and added to TKENB's contract.
 
-This liquidity will be locked in TKENB contract, no one, not even the developers can withdraw it, and this liquidity will be used for automatic buy backs and burn. It is very beneficial for long term because it keep price level of TKENB and raises it over time.
+This liquidity will be locked in TKENB contract and no one - not even the developers - can withdraw it, and this liquidity will be used for doing the automatic buy backs and burns. It should be beneficial in the long term because it will help keep the price level of TKENB and raise it over time.
 
 **Other burning mechanisms**
 
-* Developing games for burning mechanisms. Regular token burns are built into many of TKENB's products \(like a high burn rate of up to 100% of TKENB spent on lottery tickets\), with more on the way
-* New ideas and developments such as Predictions betting in progress
+* via the [Lottery](../features/lottery.md)
+* developing games for burning mechanisms
+* new ideas and developments such as Predictions betting in progress
 
