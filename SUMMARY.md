@@ -12,7 +12,6 @@
 * [🌾 Pools](features/token-pools.md)
 * [💵 Auto Compounding Vaults](features/vaults-auto-compound.md)
 * [⏳ Harvest Lockup](features/harvest-lockup-1.md)
-* [🏧 Automatic Liquidity](features/automatic-liquidity.md)
 * [🔒 Locked Liquidity](features/locked-liquidity.md)
 * [🔥 Automatic Burning](features/automatic-burning.md)
 * [💰 Fees/Taxes](features/deposit-fee-redistribution.md)
