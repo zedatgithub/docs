@@ -21,27 +21,33 @@ Below is the list of available farms, on all networks:
   <tbody>
     <tr>
       <td style="text-align:left">1</td>
-      <td style="text-align:left">TKENB-BUSD^ LP</td>
-      <td style="text-align:left">20x</td>
-      <td style="text-align:left">4 hours</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">2</td>
       <td style="text-align:left">TKENB-NATIVE* LP</td>
       <td style="text-align:left">20x</td>
       <td style="text-align:left">4 hours</td>
     </tr>
     <tr>
-      <td style="text-align:left">3</td>
+      <td style="text-align:left">2</td>
       <td style="text-align:left">TKENB-BTC LP</td>
       <td style="text-align:left">20x</td>
       <td style="text-align:left">4 hours</td>
     </tr>
     <tr>
-      <td style="text-align:left">4</td>
+      <td style="text-align:left">3</td>
       <td style="text-align:left">TKENB-ETH LP</td>
       <td style="text-align:left">20x</td>
       <td style="text-align:left">4 hours</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">4</td>
+      <td style="text-align:left">TKENB-BUSD^ LP</td>
+      <td style="text-align:left">20x</td>
+      <td style="text-align:left">4 hours</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">5</td>
+      <td style="text-align:left">TKENB-USDT~ LP</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">5</td>
@@ -81,6 +87,10 @@ Below is the list of available farms, on all networks:
     </tr>
   </tbody>
 </table>
+
+_^ - USDT avalanche/heco, USDC fantom/poly_
+
+_~_
 
 _\* NATIVE means BNB/AVAX/HT/MATIC/FTM, depending on the chain  
 ^ on Aalanche, USDT replaces BUSD  

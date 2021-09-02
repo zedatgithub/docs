@@ -12,7 +12,7 @@ Staked LP tokens in farms can be withdrawn at anytime.
 You can check the harvest lockup on each farm/pool card.
 
 {% hint style="danger" %}
-Unstaking before **harvest lockup** expiration time will result in the loss of the pending rewards and of the compounded amount. In case of [vaults](vaults-auto-compound.md) these will be instead sent to [Fess/Taxes](deposit-fee-redistribution.md), while in the case of [farms](harvest-lockup.md) and [pools](token-pools.md) these will remain on the TKENB contract. 
+Unstaking before **harvest lockup** expiration time will result in the loss of the pending rewards and of the compounded amount. In case of [vaults](vaults.md) these will be instead sent to [Fess/Taxes](deposit-fee-redistribution.md), while in the case of [farms](harvest-lockup.md) and [pools](token-pools.md) these will remain on the TKENB contract. 
 {% endhint %}
 
 

@@ -10,7 +10,7 @@
   * [Fantom](https://fantom.foundation/)
 * [Farms](features/harvest-lockup.md)
 * [Pools](features/token-pools.md)
-* [Vaults](features/vaults-auto-compound.md) with auto-compounding
+* [Vaults](features/vaults.md) with auto-compounding
 * [Lottery](features/lottery.md)
 * Cross transfer/exchange via our own integrated [bridge](features/token-bridge.md) between 
   * [Binance Smart Chain](https://www.binance.org/en/smartChain)

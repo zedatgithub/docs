@@ -39,6 +39,11 @@ Since the coin is deflationary, the supply keeps decreasing with every transacti
 The transfer tax is applied **only** for transactions involving TKENB
 {% endhint %}
 
+You can see the values on chain in the [token contract](contracts.md) if you look for:
+
+* _\_taxFee_ \(reflection rate\)
+* _\_liquidityFee_ \(liquidity rate\)
+
 ## Mining rates <a id="emission-rate"></a>
 
 <table>

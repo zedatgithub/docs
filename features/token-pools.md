@@ -20,51 +20,51 @@ Below is the list of available pools, on all networks:
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">1</td>
+      <td style="text-align:left">0</td>
       <td style="text-align:left">TKENB</td>
       <td style="text-align:left">10x</td>
       <td style="text-align:left">4 hours</td>
     </tr>
     <tr>
-      <td style="text-align:left">2</td>
+      <td style="text-align:left">1</td>
       <td style="text-align:left">BNB/AVAX/HT/MATIC/FTM*</td>
       <td style="text-align:left">5x</td>
       <td style="text-align:left">8 hours</td>
     </tr>
     <tr>
-      <td style="text-align:left">3</td>
+      <td style="text-align:left">2</td>
       <td style="text-align:left">BTC</td>
       <td style="text-align:left">5x</td>
       <td style="text-align:left">8 hours</td>
     </tr>
     <tr>
-      <td style="text-align:left">4</td>
+      <td style="text-align:left">3</td>
       <td style="text-align:left">ETH</td>
       <td style="text-align:left">5x</td>
       <td style="text-align:left">8 hours</td>
     </tr>
     <tr>
-      <td style="text-align:left">5</td>
-      <td style="text-align:left">DAI</td>
+      <td style="text-align:left">4</td>
+      <td style="text-align:left">BUSD/HUSD/DAI**</td>
       <td style="text-align:left">5x</td>
       <td style="text-align:left">8 hours</td>
     </tr>
     <tr>
-      <td style="text-align:left">6</td>
+      <td style="text-align:left">5</td>
       <td style="text-align:left">USDC</td>
       <td style="text-align:left">5x</td>
       <td style="text-align:left">8 hours</td>
     </tr>
     <tr>
-      <td style="text-align:left">7</td>
-      <td style="text-align:left">FUSD</td>
+      <td style="text-align:left">6</td>
+      <td style="text-align:left">USDT/fUSDT^</td>
       <td style="text-align:left">5x</td>
       <td style="text-align:left">8 hours</td>
     </tr>
   </tbody>
 </table>
 
-_\* depending on the network_
-
-_USDT on Huobi ECO \(HECO\)_
+_\* depending on the network  
+\*\* HUSD on Huobi ECO \(HECO\), DAI on Polygon \(Matic\), Fantom and Avalanche  
+^ fUSDT on Fantom_
 
