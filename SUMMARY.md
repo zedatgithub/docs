@@ -3,6 +3,7 @@
 * [🏫 Home](README.md)
 * [🚀 Launch](launch.md)
 * [🌟 Presale](presale.md)
+* [🎁 Giveaway](giveaway.md)
 * [🎯 Roadmap](roadmap.md)
 
 ## FEATURES
