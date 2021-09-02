@@ -8,23 +8,23 @@
   * [Huobi Eco \(HECO\)](https://www.hecochain.com/en-us/), 
   * [Polygon](https://polygon.technology/) 
   * [Fantom](https://fantom.foundation/)
-* Farms
-* Pools
-* Vaults with automated compounding
-* Lottery
-* Cross transfer/exchange via our own integrated Bridge between 
+* [Farms](features/harvest-lockup.md)
+* [Pools](features/token-pools.md)
+* [Vaults](features/vaults-auto-compound.md) with auto-compounding
+* [Lottery](features/lottery.md)
+* Cross transfer/exchange via our own integrated [bridge](features/token-bridge.md) between 
   * [Binance Smart Chain](https://www.binance.org/en/smartChain)
   * [Avalanche](https://www.avax.network/)
   * [Huobi Eco \(HECO\)](https://www.hecochain.com/en-us/)
   * [Polygon](https://polygon.technology/)
   * [Fantom](https://fantom.foundation/)
-* Referrals
-* Audits \(In progress\)
-* Apply for Listings on Coinmarketcap, Coingecko, DappRadar, BscScan, etc.
+* [Referrals](features/referral-program.md)
+* [Audits](security/audits.md) \(our main contracts are 1:1 forks of thoreum.finance's\)
+* Applied for listings on DappRadar, BscScan, ApeOClock, Coinmarketcap, Coingecko, , etc.
 
 ## Future Products <a id="other-products"></a>
 
-* IPO
+* IPOs
 * NFTs
 * Voting
 * Margin Trading \(Trade tokens with leverage on-chain\)
