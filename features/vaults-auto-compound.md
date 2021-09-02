@@ -39,7 +39,7 @@ Vaults can:
 * **2%, subtracted automatically from each yield harvest**
 * Example: if the harvest was 1 TKENB, then 0.02 TKENB would be subtracted as the performance fee
 
-Fees collected from early unstaking, as well as the performance fees, are sent to [Fee/Tax Distribution](deposit-fee-redistribution.md)
+Fees collected from early unstaking, as well as the performance fees, are sent to [Fees/Taxes](deposit-fee-redistribution.md).
 
 ## What’s the Bounty? <a id="whats-the-auto-cake-bounty"></a>
 
@@ -49,11 +49,7 @@ This bounty is given as a reward for providing a service to other users.
 
 Whenever you successfully claim the bounty, you are also helping out by activating the auto-compounding feature for everyone.
 
-_Make sure that the amount of TKENB you receive will be greater than the BNB/MATIC/FTM fees you’ll spend to submit the blockchain transaction!_
-
-## Why can't someone just do the compounding by themselves? <a id="why-cant-someone-just-do-this-themselves"></a>
-
-They could, but vaults help you save on personal time and transaction fees and automatically reinvest your earnings. Attempting to do this manually would result in large inefficiencies. Basically, "Sit back and relax, the vault does all the work for you."
+_Make sure that the amount of TKENB you receive will be greater than the BNB/AVAX/HT/MATIC/FTM \(depending on the chain\) fees you will be spending to submit the blockchain transaction!_
 
 ## **Does the performance fee get taken out when I withdraw my funds?** <a id="does-the-performance-fee-get-taken-out-when-i-withdraw-my-funds"></a>
 
