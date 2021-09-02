@@ -73,7 +73,7 @@ TKENB primary function is to become a deflationary utility coin with decreased s
 
 **Transfer tax**
 
-As mentioned previously, there is a 14% transfer tax on each transaction, the 10% transfer tax will be sold to get BNB/AVAX/HT/MATIC/FTM \(depending on the chain\) through the contract automatically. Every time the total of this transfer tax exceeds 100,000 TKENB, the contract will automatically sell 100,000 TKENB for BNB/AVAX/HT/MATIC/FTM \(depending on the chain\) and adding to TKENB's contract.
+There is a **14%** transfer tax on each transaction, of which 4% is  **10%** of which will be sold to get BNB/AVAX/HT/MATIC/FTM \(depending on the chain\) through the contract automatically. Every time the total of this transfer tax exceeds 100,000 TKENB, the contract will automatically sell 100,000 TKENB for BNB/AVAX/HT/MATIC/FTM \(depending on the chain\) and adding to TKENB's contract.
 
 This liquidity will be locked in TKENB contract, no one, not even the developers can withdraw it, and this liquidity will be used for automatic buy backs and burn. It is very beneficial for long term because it keep price level of TKENB and raises it over time.
 
