@@ -15,8 +15,8 @@ description: farming token used for mixed pairs
 | :--- | :--- | ---: |
 | Total supply: | 5,000,000,000 | 100% |
 | Burned: | 2,000,000,000 | 40% |
-| Liquidity mining: | 1,000,000,000 | 20% |
-| Locked in [bridge](https://github.com/zedatgithub/pancake-docs/tree/69f12926d7970e4756d48e399e4ed4a8a952acfe/tokenomics/features/token-bridge.md): | 1,000,000,000 | 20% |
+| Liquidity mining:       | 1,000,000,000 | 20% |
+| Locked in [bridge](https://github.com/zedatgithub/pancake-docs/tree/69f12926d7970e4756d48e399e4ed4a8a952acfe/tokenomics/features/token-bridge.md):        | 1,000,000,000 | 20% |
 | Used in [presale](https://github.com/zedatgithub/pancake-docs/tree/69f12926d7970e4756d48e399e4ed4a8a952acfe/tokenomics/presale.md): | 499,900,000 available for buying | 9.99% |
 |  | 499,900,000 used for pairing with the assets collected  from the presale and providing [locked liquidity](https://github.com/zedatgithub/pancake-docs/tree/69f12926d7970e4756d48e399e4ed4a8a952acfe/tokenomics/features/locked-liquidity.md) for farms | 9.99% |
 | Devs: | 100,000 \(used for marketing purposes\) | 0.01% |
