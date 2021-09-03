@@ -1,6 +1,6 @@
 ---
 description: >-
-  Our **contracts** are **exact 1:1 copy** source code with identical contract addresses deployed on all chains
+  Our contracts are exact 1:1 source code copy with identical contract addresses deployed on all chains
 ---
 
 # 📑 Contracts
