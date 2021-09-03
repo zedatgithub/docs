@@ -14,7 +14,7 @@ Our **MasterChef contract** is an **exact 1:1 fork** of thoreum.finance's Master
   
 Our **Token contract** is an **exact 1:1 fork** of thoreum.finance's Token contract; [here are the 2 contracts compared](https://bscscan.com/contractdiffchecker?a1=0x580de58c1bd593a43dadcf0a739d504621817c05&a2=0xc979E70611D997Aa109528c6A9aa73D82Eaa2881) \(you have to click on the "Compare Difference" button at the bottom\) - you will notice that the only difference is that we changed all instances of **THOREUM** to **TKENB**. 
 
-thoreum.finance's contracts were audited by [Techrate](https://docs.thoreum.finance/security/audits) \(paid version\), [Paladin BlockChain Security](https://docs.thoreum.finance/security/audits) and [CertiK](https://docs.thoreum.finance/security/audits)**.**
+thoreum.finance's contracts were audited by [Paladin BlockChain Security](https://docs.thoreum.finance/security/audits), [CertiK](https://docs.thoreum.finance/security/audits) and [Techrate](https://docs.thoreum.finance/security/audits) \(paid version\).
 
 ### About TKENB <a id="main-features"></a>
 
