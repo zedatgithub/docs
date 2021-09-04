@@ -25,6 +25,12 @@ description: farming token used for mixed pairs
 
 TKENB is mined via **liquidity mining** __where users can mine TKENB by staking other coins such as BNB, BUSD, ETH, etc., or by staking liquidity pairs \(LPs\) such as BNB-BTCB, BNB-ETH, etc.
 
+## **Automatic Rewards to Holders**
+
+Whenever TKENB is transferred, a 14% tax fee is applied. Of this, **4%** is redistributed to existing TKENB holders. 
+
+Those who decide to hold their TKENB are rewarded from those who sell, so this mechanism encourages holders and discourages pump and dump traders. Holders are incentivized to hold their coin because their holding will increase over time. And even if TKENB investors take no action, they still collect additional TKENB just by holding it.
+
 ## **Deflationary Auto Burn**
 
 Since the coin is deflationary, the supply keeps decreasing with every transaction and ensures a limited availability in the near future. Deflation comes with burn wallet being one of the holders of TKENB, hence participating in reflection and auto burning tokens.
