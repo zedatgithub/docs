@@ -13,7 +13,7 @@ Nowadays, all fair-launches seem to be negatively impacted by bots; presale is a
 | Event | Value |
 | :--- | :--- |
 | Presale start | [Monday, September 13th, 12:00 GMT](https://www.timeanddate.com/countdown/generic?iso=2021-09-13T12:00:00Z&font=sanserif&p0=1440&csz=1&msg=TKENB%20Presale%20start) |
-| Presale duration | 3 days \(until [Thursday, September 16th, 12:00 GMT](https://www.timeanddate.com/countdown/generic?iso=2021-09-16T12:00:00Z&font=sanserif&p0=1440&csz=1&msg=TKENB%20Presale%20end)\) |
+| Presale duration | 5 days \(until [Saturday, September 18th, 12:00 GMT](https://www.timeanddate.com/countdown/generic?iso=2021-09-18T12:00:00Z&font=sanserif&p0=1440&csz=1&msg=TKENB%20Presale%20end)\) |
 | Presale quantity | 500,000,000 TKENB |
 | Presale price | approximately ****$0.0045\* |
 |  | _\*for actual rates see the presale page for the chain of your choice_ |
@@ -35,5 +35,5 @@ Unsold TKENB will be 🔥burned🔥 automatically once the presale ends.
 
 You can use a referrer address and have it receive from us TKENB representing **3%** of the TKENB amount you buy.
 
-Liquidity mining will start once the presale ends, [Thursday, September 16th, 12:00 GMT](https://www.timeanddate.com/countdown/generic?iso=2021-09-16T12:00:00Z&font=sanserif&p0=1440&csz=1&msg=TKENB%20liquidity%20mining)
+Liquidity mining will start once the presale ends, [Saturday, September 18th, 12:00 GMT](https://www.timeanddate.com/countdown/generic?iso=2021-09-18T12:00:00Z&font=sanserif&p0=1440&csz=1&msg=TKENB%20liquidity%20mining)
 

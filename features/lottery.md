@@ -38,7 +38,7 @@ If the winning numbers are "1-9-13-2**"**
 
 ## **Lottery phases** <a id="lottery-phases"></a>
 
-Lottery first draw is on [Friday, September 17th, 12:00 GMT](https://www.timeanddate.com/countdown/generic?iso=2021-09-17T12:00:00Z&font=sanserif&p0=1440&csz=1&msg=Lottery%20first%20draw).
+Lottery first draw is on [Sunday, September 19th, 12:00 GMT](https://www.timeanddate.com/countdown/generic?iso=2021-09-19T12:00:00Z&font=sanserif&p0=1440&csz=1&msg=Lottery%20first%20draw).
 
 There will be 1 \(one\) draw per day, once every 24 hours, at specific 12:00 GMT.
 

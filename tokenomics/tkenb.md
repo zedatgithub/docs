@@ -27,9 +27,9 @@ TKENB is mined via **liquidity mining** __where users can mine TKENB by staking 
 
 ## **Automatic Rewards to Holders**
 
-Whenever TKENB is transferred, a 14% tax fee is applied. Of this, **4%** is redistributed to existing TKENB holders. 
+When TKENB is transferred, a **14%** tax fee is taxed for each transaction. Of this, **10%** is used for [automatic buy backs and burn](../features/automatic-burning.md), and **4%** is redistributed to existing TKENB holders as [static rewards](static-rewards.md). 
 
-Those who decide to hold their TKENB are rewarded from those who sell, so this mechanism encourages holders and discourages pump and dump traders. Holders are incentivized to hold their coin because their holding will increase over time. And even if TKENB investors take no action, they still collect additional TKENB just by holding it.
+Those who decide to hold their TKENB are rewarded from those who sell, so this mechanism encourages holders and discourages pump and dump traders. Holders are incentivized to hold their coin because their holdings will increase over time. And even if TKENB investors take no action, they still collect additional TKENB just by holding it.
 
 ## **Deflationary Auto Burn**
 
