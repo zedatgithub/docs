@@ -1,4 +1,4 @@
-# 🔁 Cross-chain swap
+# 🔁 Cross-chain swap ✨
 
 You can use our cross-chain swap \(bridge\) to transfer assets between the following 5 chains:
 
