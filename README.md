@@ -8,7 +8,7 @@ description: >-
 
 ## Introduction <a id="introduction"></a>
 
-DXAMMFinance.One is the Galactic yield farm and home of the first and most easy to use ✨[cross-chain swap](features/token-bridge.md), running on [Binance Smart Chain](https://www.binance.org/en/smartChain), [Avalanche](https://www.avax.network/), [Huobi Eco \(HECO\)](https://www.hecochain.com/en-us/), [Polygon](https://polygon.technology/) and [Fantom](https://fantom.foundation/), with yield farming, staking, lottery, auto-compounding vaults and more.
+DXAMMFinance.One \| TKENB is the Galactic yield farm and home of the first and most easy to use ✨[cross-chain swap](features/token-bridge.md), running on [Binance Smart Chain](https://www.binance.org/en/smartChain), [Avalanche](https://www.avax.network/), [Huobi Eco \(HECO\)](https://www.hecochain.com/en-us/), [Polygon](https://polygon.technology/) and [Fantom](https://fantom.foundation/), with yield farming, staking, lottery, auto-compounding vaults and more.
 
 Our **MasterChef contract** is an **exact 1:1 fork** of thoreum.finance's MasterChef contract; [here are the 2 contracts compared](https://bscscan.com/contractdiffchecker?a1=0xf4168cd3c00799beeb9a88a6bf725eb84f5d41b7&a2=0xAf5Ff8E51648847c0e94eDC855ddD364E72a66EF) \(you have to click on the "Compare Difference" button at the bottom\) - you will notice that the only difference is that we changed all instances of **THOREUM** to **TKENB**.   
   
@@ -36,15 +36,15 @@ TKENB is mined via **liquidity mining** __where users can mine TKENB by staking 
 ## **Main Features** <a id="main-features"></a>
 
 * [Presale](presale.md)
-* [Farms](features/harvest-lockup.md) where you deposit LP tokens to earn TKENB with high APYs
-* [Pools](features/token-pools.md) where you deposit single tokens and earn TKENB with high APYs
-* [Vaults](features/vaults.md) where you deposit LPs or single tokens and these \(the deposited LP tokens and/or single tokens, not TKENB!\) are automatically and optimally compounded for you
-* The first and the most easy to use [cross-chain swap](features/token-bridge.md)✨, allowing you to transfer your assets between 5 chains:
+* The first and the most easy to use ✨[cross-chain swap](features/token-bridge.md), allowing you to easily transfer your assets between the 5 chains:
   * [Binance Smart Chain](https://www.binance.org/en/smartChain)
   * [Avalanche](https://www.avax.network/)
   * [Huobi Eco \(HECO\)](https://www.hecochain.com/en-us/)
   * [Polygon](https://polygon.technology/)
   * [Fantom](https://fantom.foundation/)
+* [Farms](features/harvest-lockup.md) where you deposit LP tokens to earn TKENB with high APYs
+* [Pools](features/token-pools.md) where you deposit single tokens and earn TKENB with high APYs
+* [Vaults](features/vaults.md) where you deposit LPs or single tokens and these \(the deposited LP tokens and/or single tokens, not TKENB!\) are automatically and optimally compounded for you
 * [Lottery](features/lottery.md) with ticket price always set to **$2**, regardless of the token's price
 * improved [Referral Program](features/referral-program.md) where you now know who your referrer is and **you** are the one deciding if you want to have a referrer at all, who your referrer is, and when to confirm your referrer
 * ownership of all contracts already transferred to the **24 hours** [Timelock](security/timelock.md)
