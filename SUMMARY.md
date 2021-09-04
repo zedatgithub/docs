@@ -8,10 +8,10 @@
 
 ## FEATURES
 
+* [🔁 Cross-chain swap](features/token-bridge.md)
 * [🚜 Farms](features/harvest-lockup.md)
 * [🌾 Pools](features/token-pools.md)
 * [💵 Vaults](features/vaults.md)
-* [🔁 Bridge & Exchange](features/token-bridge.md)
 * [💸 Referral Program](features/referral-program.md)
 * [🤑 Lottery](features/lottery.md)
 * [⏳ Harvest Lockup](features/harvest-lockup-1.md)

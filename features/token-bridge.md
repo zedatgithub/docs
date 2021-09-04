@@ -1,6 +1,6 @@
-# 🔁 Bridge & Exchange
+# 🔁 Cross-chain swap
 
-You can use the Bridge to transfer assets between the following 5 chains:
+You can use our cross-chain swap \(bridge\) to transfer assets between the following 5 chains:
 
 * [Binance Smart Chain](https://www.binance.org/en/smartChain)
 * [Avalanche](https://www.avax.network/)
@@ -12,7 +12,7 @@ Thanks to the bridge you can easily transfer your assets from one network to ano
 
 When transferring TKENB, the regular transfer tax of **14%** will be discounted to **0%** instead.
 
-Using the bridge incurs a **1%** fee which is sent to [Fees/Taxes](deposit-fee-redistribution.md).
+Using this feature incurs a **1%** fee which is sent to [Fees/Taxes](deposit-fee-redistribution.md).
 
 Optionally, users can opt to **anonymize** their transactions.  
   
