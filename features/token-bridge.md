@@ -1,6 +1,6 @@
 # 🔁 Cross-chain swap ✨
 
-You can use our cross-chain swap \(bridge\) to transfer assets between the following 5 chains:
+Welcome to the first and most easy to use cross-chain swap \(bridge\) allowing you to transfer your assets between the following 5 chains:
 
 * [Binance Smart Chain](https://www.binance.org/en/smartChain)
 * [Avalanche](https://www.avax.network/)
