@@ -1,12 +1,13 @@
 ---
 description: >-
-  Our contracts are exact 1:1 source code copy with identical contract addresses deployed on all chains
+  Our contracts are exact 1:1 source code copy with identical contract addresses
+  deployed on all chains
 ---
 
 # 📑 Contracts
 
 | **Contract** | Address | BSC | Heco | Polygon | Fantom | Avalanche |
-| :--- | :--- | :---: | :---: | :---: | :---: |
+| :--- | :--- | :---: | :---: | :---: | :---: | :--- |
 | **OBERON** | 0xc979E70611D997Aa109528c6A9aa73D82Eaa2881 | [view](https://bscscan.com/address/0xc979E70611D997Aa109528c6A9aa73D82Eaa2881#code) | [view](https://hecoinfo.com/address/0xc979E70611D997Aa109528c6A9aa73D82Eaa2881#code) | [view](https://polygonscan.com/address/0xc979E70611D997Aa109528c6A9aa73D82Eaa2881#code) | [view](https://ftmscan.com/address/0xc979E70611D997Aa109528c6A9aa73D82Eaa2881#code) | [view](https://cchain.explorer.avax.network/address/0xc979E70611D997Aa109528c6A9aa73D82Eaa2881/contracts) |
 | MasterChef | 0xAf5Ff8E51648847c0e94eDC855ddD364E72a66EF | [view](https://bscscan.com/address/0xAf5Ff8E51648847c0e94eDC855ddD364E72a66EF#code) | [view](https://hecoinfo.com/address/0xAf5Ff8E51648847c0e94eDC855ddD364E72a66EF#code) | [view](https://polygonscan.com/address/0xAf5Ff8E51648847c0e94eDC855ddD364E72a66EF#code) | [view](https://ftmscan.com/address/0xAf5Ff8E51648847c0e94eDC855ddD364E72a66EF#code) | [view](https://cchain.explorer.avax.network/address/0xAf5Ff8E51648847c0e94eDC855ddD364E72a66EF/contracts) |
 | Referral | 0xD88bD0e087F69686E7050d00970F0AB7f19d1970 | [view](https://bscscan.com/address/0xD88bD0e087F69686E7050d00970F0AB7f19d1970#code) | [view](https://hecoinfo.com/address/0xD88bD0e087F69686E7050d00970F0AB7f19d1970#code) | [view](https://polygonscan.com/address/0xD88bD0e087F69686E7050d00970F0AB7f19d1970#code) | [view](https://ftmscan.com/address/0xD88bD0e087F69686E7050d00970F0AB7f19d1970#code) | [view](https://cchain.explorer.avax.network/address/0xD88bD0e087F69686E7050d00970F0AB7f19d1970/contracts) |
