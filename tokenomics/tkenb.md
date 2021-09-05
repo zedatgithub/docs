@@ -105,7 +105,8 @@ You can see the values on chain in the [token contract](contracts.md) if you loo
   </tbody>
 </table>
 
-\*10% of the emission rate goes to the [lottery](../features/lottery.md)
+\*10% of the emission rate goes to the [lottery](../features/lottery.md) contract but we decide to not use this emission for the lottery pot as there is a high chance that somebody win large amount of pot and instant sell and would make price drop to fast, instead we will be [🔥BURNED🔥](https://testnet.bscscan.com/token/0x8a5a76401ada8998603d982d8343752fec75972b?a=0x000000000000000000000000000000000000dEaD) periodicaly  
+now the pot will be Topup with the 1% fee collected from the NATIVE tokens farms, vaults
 
 ## Why TKENB Has A Hard Cap?
 
