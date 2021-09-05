@@ -1,5 +1,9 @@
 # 🤑 Lottery
 
+{% hint style="info" %}
+Lottery draws are **only** done whenever the pot reaches $1,000 worth of TKENB!
+{% endhint %}
+
 ## **Specifics** <a id="specifics"></a>
 
 * Lottery Ticket price will be **2 USD** worth of TKENB, \(the necessary amount will be adjusted every 24 hours - once a day - in concordance with TKENB price\)
@@ -38,20 +42,20 @@ If the winning numbers are "1-9-13-2**"**
 
 ## **Lottery phases** <a id="lottery-phases"></a>
 
-Lottery first draw is on [Sunday, September 19th, 12:00 GMT](https://www.timeanddate.com/countdown/generic?iso=2021-09-19T12:00:00Z&font=sanserif&p0=1440&csz=1&msg=Lottery%20first%20draw).
-
-There will be 1 \(one\) draw per day, once every 24 hours, at specific 12:00 GMT.
+{% hint style="info" %}
+Lottery draws are **only** done whenever the pot reaches $1,000 worth of TKENB
+{% endhint %}
 
 An example of a lottery session:
 
-**Phase 1 - Buy Tickets \(12 GMT to 12 GMT of the next day\)**
+**Phase 1 - Buy Tickets**
 
-* Lottery Pot keeps growing \(10% of the emission rates goes to the lottery\)
-* You have 24 hours to buy tickets
+* Lottery Pot keeps growing \(topped up from the **1%** deposit fee collected from staking into TKENB-paired farms and vaults\)
+* You have time to buy tickets until the pot reaches $1,000 worth of TKENB
 * The lottery jackpot will increase with each bought ticket
 * Users will receive a ticket \(comprised of 4 digits\) for every Lottery Ticket
 
-**Phase 2 - Lottery Draw \(12 GMT\)**
+**Phase 2 - Lottery Draw**
 
 * The 4 winning lottery numbers are drawn and will appear on the page
 * Each participant’s winnings will be automatically calculated based on their ticket numbers and shown on the page
