@@ -29,7 +29,7 @@ thoreum.finance's contracts were audited by [Paladin BlockChain Security](https:
 | Devs: | 100,000 \(used for marketing purposes\) | 0.01% |
 | Giveaway | 100,000 | 0.01% |
 
-TKENB is mined via **liquidity mining** __where users can mine TKENB by staking other coins such as BNB, BUSD, ETH, etc., or by staking liquidity pairs \(LPs\) such as BNB-BTCB, BNB-ETH, etc.
+TKENB is mined via **liquidity mining** where users can mine TKENB by staking other coins such as BNB, BUSD, ETH, etc., or by staking liquidity pairs \(LPs\) such as BNB-BTCB, BNB-ETH, etc.
 
 [Read more](tokenomics/tkenb.md) about TKENB.
 
