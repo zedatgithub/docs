@@ -8,7 +8,7 @@ description: >-
 
 ## Introduction <a id="introduction"></a>
 
-DXAMMFinance is the Galactic yield farm and home of the first and most easy to use ✨[cross-chain swap](features/token-bridge.md), running on [Binance Smart Chain](https://www.binance.org/en/smartChain), [Avalanche](https://www.avax.network/), [Huobi Eco \(HECO\)](https://www.hecochain.com/en-us/), [Polygon](https://polygon.technology/) and [Fantom](https://fantom.foundation/), with yield farming, staking, lottery, auto-compounding vaults and more.
+DXAMMFinance is the Galactic yield farm and home of the first and most easy to use ✨[cross-chain swap](features/token-bridge.md), running on [Binance Smart Chain](https://www.binance.org/en/smartChain), [Avalanche](https://www.avax.network/), [Huobi Eco \(HECO\)](https://www.hecochain.com/en-us/), [Polygon](https://polygon.technology/) and [Fantom](https://fantom.foundation/), with yield farming, auto-compounding vaults, staking, referral program, lottery and more.
 
 ![](.gitbook/assets/2021-09-06-23_48_39-window.png)
 
