@@ -1,6 +1,6 @@
 # 🔁 Cross-chain swap ✨
 
-![](../.gitbook/assets/2021-09-06-23_44_58-window.png)
+![](../.gitbook/assets/2021-09-06-23_48_39-window.png)
 
 Welcome to the first and most easy to use cross-chain swap \(bridge\) allowing you to transfer your assets between the following 5 chains:
 
