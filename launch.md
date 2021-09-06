@@ -1,5 +1,5 @@
 ---
-description: 'Fair Launch, No Pre-sale, No Pre-mine, Anti-Bot, Anti Whale'
+description: Fair Presale which create automatically locked liquidity
 ---
 
 # 🚀 Launch

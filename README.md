@@ -1,7 +1,7 @@
 ---
 description: >-
-  Stable & Mixed-coin Yield Farming On Binance Smart Chain, Heco, Polygon and
-  Fantom with own AMM
+  The Galactic yield farm & first cross-chain swap, running on BSC, Avalanche,
+  Heco, Polygon and Fantom
 ---
 
 # 🏫 Home
