@@ -10,12 +10,6 @@ description: >-
 
 DXAMMFinance is the Galactic yield farm and home of the first and most easy to use ✨[cross-chain swap](features/token-bridge.md), running on [Binance Smart Chain](https://www.binance.org/en/smartChain), [Avalanche](https://www.avax.network/), [Huobi Eco \(HECO\)](https://www.hecochain.com/en-us/), [Polygon](https://polygon.technology/) and [Fantom](https://fantom.foundation/), with yield farming, staking, lottery, auto-compounding vaults and more.
 
-Our **MasterChef contract** is an **exact 1:1 fork** of thoreum.finance's MasterChef contract; [here are the 2 contracts compared](https://bscscan.com/contractdiffchecker?a1=0xf4168cd3c00799beeb9a88a6bf725eb84f5d41b7&a2=0xAf5Ff8E51648847c0e94eDC855ddD364E72a66EF) \(you have to click on the "Compare Difference" button at the bottom\) - you will notice that the only difference is that we changed all instances of **THOREUM** to **TKENB**.   
-  
-Our **Token contract** is an **exact 1:1 fork** of thoreum.finance's Token contract; [here are the 2 contracts compared](https://bscscan.com/contractdiffchecker?a1=0x580de58c1bd593a43dadcf0a739d504621817c05&a2=0xc979E70611D997Aa109528c6A9aa73D82Eaa2881) \(you have to click on the "Compare Difference" button at the bottom\) - you will notice that the only difference is that we changed all instances of **THOREUM** to **TKENB**. 
-
-thoreum.finance's contracts were audited by [Paladin BlockChain Security](https://docs.thoreum.finance/security/audits), [CertiK](https://docs.thoreum.finance/security/audits) and [Techrate](https://docs.thoreum.finance/security/audits) \(paid version\).
-
 ### About TKENB <a id="main-features"></a>
 
 | Assignment | Amount | Percentage |
