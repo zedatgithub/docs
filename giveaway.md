@@ -1,6 +1,6 @@
 # 🎁 Giveaway
 
-If you interacted with any of the contracts of our TKENA project \(approving a contract, buying/selling TKENA\), prior to **August 19th, 12:00 GMT**, you are eligible to claim the **700 TKENB** giveaway.
+If you interacted with any of the contracts of our TRITON project \(approving a contract, buying/selling TRITON\), prior to **August 19th, 12:00 GMT**, you are eligible to claim the **700 TKENB** giveaway.
 
 The giveaway will run for the duration of the [presale](presale.md).
 
