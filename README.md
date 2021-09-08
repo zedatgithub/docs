@@ -24,11 +24,11 @@ Our contracts are **exact 1:1 forks** of thoreum.finance's contracts which are [
   * [Polygon](https://polygon.technology/)
   * [Fantom](https://fantom.foundation/)
 * [Farms](features/harvest-lockup.md) where you deposit LP tokens to earn TKENB with high APYs
-  * [PancakeSwap LP](https://pancakeswap.finance/add/0xc979E70611D997Aa109528c6A9aa73D82Eaa2881) staking on Binance Smart Chain
-  * [Pangolin LP](https://app.pangolin.exchange/#/add/0xc979E70611D997Aa109528c6A9aa73D82Eaa2881) staking on Avalanche
-  * [MDEX LP](https://ht.mdex.com/#/add/0xc979E70611D997Aa109528c6A9aa73D82Eaa2881) staking on Huobi ECO \(Heco\)
-  * [QuickSwap LP](https://quickswap.exchange/#/add/0xc979E70611D997Aa109528c6A9aa73D82Eaa2881) staking on Polygon \(Matic\)
-  * [SpookySwap LP](https://spookyswap.finance/add/0xc979E70611D997Aa109528c6A9aa73D82Eaa2881) staking on Fantom
+  * [PancakeSwap LP](https://pancakeswap.finance/add/BNB/0xc979E70611D997Aa109528c6A9aa73D82Eaa2881) staking on Binance Smart Chain
+  * [Pangolin LP](https://app.pangolin.exchange/#/add/AVAX/0xc979E70611D997Aa109528c6A9aa73D82Eaa2881) staking on Avalanche
+  * [MDEX LP](https://ht.mdex.com/#/add/HT/0xc979E70611D997Aa109528c6A9aa73D82Eaa2881) staking on Huobi ECO \(Heco\)
+  * [QuickSwap LP](https://quickswap.exchange/#/add/ETH/0xc979E70611D997Aa109528c6A9aa73D82Eaa2881) staking on Polygon \(Matic\)
+  * [SpookySwap LP](https://spookyswap.finance/add/ETH/0xc979E70611D997Aa109528c6A9aa73D82Eaa2881) staking on Fantom
 * [Pools](features/token-pools.md) where you deposit single tokens and earn TKENB with high APYs
 * [Vaults](features/vaults.md) where you deposit LPs or single tokens and these \(the deposited LP tokens and/or single tokens, not TKENB!\) are automatically and optimally compounded for you
 * [Lottery](features/lottery.md) with ticket price always set to **$2**, regardless of the token's price
