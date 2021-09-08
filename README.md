@@ -14,23 +14,6 @@ Our contracts are **exact 1:1 forks** of thoreum.finance's contracts which are [
 
 ![](.gitbook/assets/2021-09-06-23_48_39-window.png)
 
-### About TKENB <a id="main-features"></a>
-
-| Assignment | Amount | Percentage |
-| :--- | :--- | ---: |
-| Total supply: | 5,000,000,000 | 100% |
-| Burned: | 2,000,000,000 | 40% |
-| Liquidity mining: | 1,000,000,000 | 20% |
-| Locked in [bridge](features/token-bridge.md): | 1,000,000,000 | 20% |
-| Used in [presale](presale.md): | 499,900,000 available for buying | 9.99% |
-|  | 499,900,000 used for pairing with the assets collected  from the presale and providing [locked liquidity](features/locked-liquidity.md) for farms | 9.99% |
-| Devs: | 100,000 \(used for marketing purposes\) | 0.01% |
-| Giveaway | 100,000 | 0.01% |
-
-TKENB is mined via **liquidity mining** where users can mine TKENB by staking other coins such as BNB, BUSD, ETH, etc., or by staking liquidity pairs \(LPs\) such as BNB-BTCB, BNB-ETH, etc.
-
-[Read more](tokenomics/tkenb.md) about TKENB.
-
 ## **Main Features** <a id="main-features"></a>
 
 * [Presale](presale.md)
@@ -49,4 +32,21 @@ TKENB is mined via **liquidity mining** where users can mine TKENB by staking ot
 * [Locked Liquidity](features/locked-liquidity.md)
 * [Anti Whale](features/anti-whale.md) mechanism preventing Whales from quickly buying/selling large amounts \(pump & dump\)
 * [No Migrator Code](security/no-migrator-code.md)
+
+### About TKENB <a id="main-features"></a>
+
+| Assignment | Amount | Percentage |
+| :--- | :--- | ---: |
+| Total supply: | 5,000,000,000 | 100% |
+| Burned: | 2,000,000,000 | 40% |
+| Liquidity mining: | 1,000,000,000 | 20% |
+| Locked in [bridge](features/token-bridge.md): | 1,000,000,000 | 20% |
+| Used in [presale](presale.md): | 499,900,000 available for buying | 9.99% |
+|  | 499,900,000 used for pairing with the assets collected  from the presale and providing [locked liquidity](features/locked-liquidity.md) for farms | 9.99% |
+| Devs: | 100,000 \(used for marketing purposes\) | 0.01% |
+| Giveaway | 100,000 | 0.01% |
+
+TKENB is mined via **liquidity mining** where users can mine TKENB by staking other coins such as BNB, BUSD, ETH, etc., or by staking liquidity pairs \(LPs\) such as BNB-BTCB, BNB-ETH, etc.
+
+[Read more](tokenomics/tkenb.md) about TKENB.
 
