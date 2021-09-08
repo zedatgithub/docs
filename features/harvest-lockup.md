@@ -137,6 +137,6 @@ _\* **BNB**/**AVAX**/**HT**/**MATIC**/**FTM**, depending on the network
 **USDx** is **BUSD** on BSC, **USDT** on Huobi ECO \(HECO\) and Avalanche and **USDC** on Polygon and Fantom_
 
 {% hint style="warning" %}
-LP tokens can be created but **can not be deposited** into the farms until farming starts. Harvest lookup time countdown will also start when the farming starts.
+LP tokens **can not be deposited** into the farms until farming starts. Harvest lookup time countdown will also start when the farming starts.
 {% endhint %}
 
