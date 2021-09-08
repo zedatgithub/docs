@@ -55,7 +55,7 @@ Using the bridge's anonymize feature incurs an additional **1%** fee
 
 ### Vault unstaking fees
 
-**4%** unstaking fee if users unstake from vaults before the lock timer runs out
+**4%** unstaking fee from users unstake from vaults before the lock timer runs out
 
 
 
