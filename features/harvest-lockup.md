@@ -136,7 +136,16 @@ _\* **BNB**/**AVAX**/**HT**/**MATIC**/**FTM**, depending on the network
 ^ **fUSDT** on Fantom  
 **USDx** is **BUSD** on BSC, **USDT** on Huobi ECO \(HECO\) and Avalanche and **USDC** on Polygon and Fantom_
 
+### Where are the LPs created?
+
+[PancakeSwap ](https://pancakeswap.finance/add/BNB/0xc979E70611D997Aa109528c6A9aa73D82Eaa2881)on Binance Smart Chain  
+[Pangolin ](https://app.pangolin.exchange/#/add/AVAX/0xc979E70611D997Aa109528c6A9aa73D82Eaa2881)on Avalanche  
+[MDEX ](https://ht.mdex.com/#/add/HT/0xc979E70611D997Aa109528c6A9aa73D82Eaa2881)on Huobi ECO \(Heco\)  
+[QuickSwap ](https://quickswap.exchange/#/add/ETH/0xc979E70611D997Aa109528c6A9aa73D82Eaa2881)on Polygon \(Matic\)  
+[SpookySwap ](https://spookyswap.finance/add/ETH/0xc979E70611D997Aa109528c6A9aa73D82Eaa2881)on Fantom
+
 {% hint style="warning" %}
-LP tokens **can not be deposited** into the farms until farming starts. Harvest lookup time countdown will also start when the farming starts.
+LP tokens **can not be deposited** into the farms until farming starts.   
+Harvest lookup time countdown will also start when the farming starts.
 {% endhint %}
 
