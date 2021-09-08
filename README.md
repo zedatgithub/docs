@@ -10,6 +10,8 @@ description: >-
 
 DXAMMFinance is the Galactic yield farm and home of the first and most easy to use ✨[cross-chain swap](features/token-bridge.md), running on [Binance Smart Chain](https://www.binance.org/en/smartChain), [Avalanche](https://www.avax.network/), [Huobi Eco \(HECO\)](https://www.hecochain.com/en-us/), [Polygon](https://polygon.technology/) and [Fantom](https://fantom.foundation/), with yield farming, auto-compounding vaults, staking, referral program, lottery and more.
 
+Our contracts are **exact 1:1 forks** of thoreum.finance's contracts which are [audited by Paladin and CertiK](security/audits.md).
+
 ![](.gitbook/assets/2021-09-06-23_48_39-window.png)
 
 ### About TKENB <a id="main-features"></a>
