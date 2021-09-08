@@ -21,7 +21,7 @@ description: Fair Presale which automatically creates locked liquidity
 * Emission Rates: [TKENB](tokenomics/tkenb.md)
 
 {% hint style="warning" %}
-LP tokens **can not be deposited** into the farms until farming starts.   
+LP tokens **can not be created nor deposited** into the farms until farming starts.   
 Harvest lookup time countdown will start when farming starts.
 {% endhint %}
 

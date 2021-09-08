@@ -14,8 +14,8 @@ description: farming token used for mixed pairs
 | :--- | :--- | ---: |
 | Total supply: | 5,000,000,000 | 100% |
 | Burned: | 2,000,000,000 | 40% |
-| Liquidity&nbsp;mining: | 1,000,000,000 | 20% |
-| Locked&nbsp;in&nbsp;[bridge](https://github.com/zedatgithub/pancake-docs/tree/69f12926d7970e4756d48e399e4ed4a8a952acfe/tokenomics/features/token-bridge.md): | 1,000,000,000 | 20% |
+| Liquidity mining: | 1,000,000,000 | 20% |
+| Locked in [bridge](https://github.com/zedatgithub/pancake-docs/tree/69f12926d7970e4756d48e399e4ed4a8a952acfe/tokenomics/features/token-bridge.md): | 1,000,000,000 | 20% |
 | Used in [presale](https://github.com/zedatgithub/pancake-docs/tree/69f12926d7970e4756d48e399e4ed4a8a952acfe/tokenomics/presale.md): | 499,900,000 available for buying | 9.99% |
 |  | 499,900,000 used for pairing with the assets collected  from the presale and providing [locked liquidity](https://github.com/zedatgithub/pancake-docs/tree/69f12926d7970e4756d48e399e4ed4a8a952acfe/tokenomics/features/locked-liquidity.md) for farms | 9.99% |
 | Devs: | 100,000 \(used for marketing purposes\) | 0.01% |
@@ -23,11 +23,11 @@ description: farming token used for mixed pairs
 
 ## **Liquidity Mining**
 
-TKENB is mined via **liquidity mining** __where users can mine TKENB by staking other coins such as BNB, BUSD, ETH, etc., or by staking liquidity pairs \(LPs\) such as BNB-BTCB, BNB-ETH, etc.
+TKENB is mined via **liquidity mining** \_\_where users can mine TKENB by staking other coins such as BNB, BUSD, ETH, etc., or by staking liquidity pairs \(LPs\) such as BNB-BTCB, BNB-ETH, etc.
 
 ## **Automatic Rewards to Holders**
 
-When TKENB is transferred, a **14%** tax fee is taxed for each transaction. Of this, **10%** is used for [automatic buy backs and burn](../features/automatic-burning.md), and **4%** is redistributed to existing TKENB holders as [static rewards](static-rewards.md). 
+When TKENB is transferred, a **14%** tax fee is taxed for each transaction. Of this, **10%** is used for [automatic buy backs and burn](../features/automatic-burning.md), and **4%** is redistributed to existing TKENB holders as [static rewards](static-rewards.md).
 
 Those who decide to hold their TKENB are rewarded from those who sell, so this mechanism encourages holders and discourages pump and dump traders. Holders are incentivized to hold their coin because their holdings will increase over time. And even if TKENB investors take no action, they still collect additional TKENB just by holding it.
 
@@ -56,11 +56,11 @@ You can see the values on chain in the [token contract](contracts.md) if you loo
   <thead>
     <tr>
       <th style="text-align:left">Network</th>
-      <th style="text-align:center">Emission
+      <th style="text-align:left">Emission
         <br />rate</th>
-      <th style="text-align:center">Emissions/
+      <th style="text-align:left">Emissions/
         <br />day</th>
-      <th style="text-align:center">
+      <th style="text-align:left">
         <p>Block</p>
         <p>time</p>
       </th>
@@ -69,44 +69,43 @@ You can see the values on chain in the [token contract](contracts.md) if you loo
   <tbody>
     <tr>
       <td style="text-align:left">Binance Smart Chain</td>
-      <td style="text-align:center">100 TKENB / block*</td>
-      <td style="text-align:center">~ 28,000 TKENB / day</td>
-      <td style="text-align:center"><a href="https://bscscan.com/chart/blocktime">~ 3 seconds</a>
+      <td style="text-align:left">100 TKENB / block*</td>
+      <td style="text-align:left">~ 28,000 TKENB / day</td>
+      <td style="text-align:left"><a href="https://bscscan.com/chart/blocktime">~ 3 seconds</a>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Avalanche</td>
-      <td style="text-align:center">33 TKENB / block*</td>
-      <td style="text-align:center">~ 28,000 TKENB / day</td>
-      <td style="text-align:center"><a href="https://cchain.explorer.avax.network/">~ 1 second</a>
+      <td style="text-align:left">33 TKENB / block*</td>
+      <td style="text-align:left">~ 28,000 TKENB / day</td>
+      <td style="text-align:left"><a href="https://cchain.explorer.avax.network/">~ 1 second</a>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Huobi ECO (HECO)</td>
-      <td style="text-align:center">100 TKENB / block*</td>
-      <td style="text-align:center">~ 28,000 TKENB / day</td>
-      <td style="text-align:center"><a href="https://hecoinfo.com/chart/blocktime">~ 3 seconds</a>
+      <td style="text-align:left">100 TKENB / block*</td>
+      <td style="text-align:left">~ 28,000 TKENB / day</td>
+      <td style="text-align:left"><a href="https://hecoinfo.com/chart/blocktime">~ 3 seconds</a>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Polygon (Matic)</td>
-      <td style="text-align:center">66 TKENB / block*</td>
-      <td style="text-align:center">~ 28,000 TKENB / day</td>
-      <td style="text-align:center"><a href="https://polygonscan.com/chart/blocktime">~ 2 seconds</a>
+      <td style="text-align:left">66 TKENB / block*</td>
+      <td style="text-align:left">~ 28,000 TKENB / day</td>
+      <td style="text-align:left"><a href="https://polygonscan.com/chart/blocktime">~ 2 seconds</a>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Fantom</td>
-      <td style="text-align:center">33 TKENB / block*</td>
-      <td style="text-align:center">~ 28,000 TKENB / day</td>
-      <td style="text-align:center"><a href="https://ftmscan.com/chart/blocktime">~ 1 second</a>
+      <td style="text-align:left">33 TKENB / block*</td>
+      <td style="text-align:left">~ 28,000 TKENB / day</td>
+      <td style="text-align:left"><a href="https://ftmscan.com/chart/blocktime">~ 1 second</a>
       </td>
     </tr>
   </tbody>
 </table>
 
-\*10% of the emission rate goes to the [lottery](../features/lottery.md) [contract](contracts.md) \(so it will actually accumulate on the lottery's contract and you will be able to see it in your preferred chain's explorer\), but we decided **not to use** this for the lottery but instead [🔥BURN🔥](https://testnet.bscscan.com/token/0x8a5a76401ada8998603d982d8343752fec75972b?a=0x000000000000000000000000000000000000dEaD) it periodically.  
-
+\*10% of the emission rate goes to the [lottery](../features/lottery.md) [contract](contracts.md) \(so it will actually accumulate on the lottery's contract and you will be able to see it in your preferred chain's explorer\), but we decided **not to use** this for the lottery but instead [🔥BURN🔥](https://testnet.bscscan.com/token/0x8a5a76401ada8998603d982d8343752fec75972b?a=0x000000000000000000000000000000000000dEaD) it periodically.
 
 The lottery pot will be instead topped up from the **1%** deposit fee collected from staking into TKENB-paired farms and vaults.
 

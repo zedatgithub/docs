@@ -145,7 +145,7 @@ _\* **BNB**/**AVAX**/**HT**/**MATIC**/**FTM**, depending on the network
 [SpookySwap ](https://spookyswap.finance/add/ETH/0xc979E70611D997Aa109528c6A9aa73D82Eaa2881)on Fantom
 
 {% hint style="warning" %}
-LP tokens **can not be deposited** into the farms until farming starts.   
+LP tokens **can not be created nor deposited** into the farms until farming starts.   
 Harvest lookup time countdown will also start when the farming starts.
 {% endhint %}
 
