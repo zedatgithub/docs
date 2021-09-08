@@ -14,16 +14,6 @@ Our contracts are **exact 1:1 forks** of thoreum.finance's contracts which are [
 
 ![](.gitbook/assets/2021-09-06-23_48_39-window.png)
 
-
-
-|  |  |
-| :--- | :--- |
-|  |  |
-
-{% hint style="info" %}
-We fully support CAKE-LP v2 staking.
-{% endhint %}
-
 ## **Main Features** <a id="main-features"></a>
 
 * [Presale](presale.md)
