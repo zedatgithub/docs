@@ -8,7 +8,7 @@ Our **Token contract** is an **exact 1:1 fork** of thoreum.finance's Token contr
 
 thoreum.finance's contracts were audited by [**Paladin BlockChain Security**](https://docs.thoreum.finance/security/audits)**,** [**CertiK**](https://docs.thoreum.finance/security/audits) ****and ****[**Techrate**](https://docs.thoreum.finance/security/audits) \(paid version\)**.**
 
-[Here](https://galaxyfinance.one/contractdiffchecker.html?ignore=THOREUM%2CThoreum%2Cthoreum%2COBERON%2COberon%2Coberon&ignore_ignored=1&chain1=Binance&address1=0xf4168cd3c00799beeb9a88a6bf725eb84f5d41b7&chain2=Binance&address2=0xAf5Ff8E51648847c0e94eDC855ddD364E72a66EF)'s a friendlier tool we created to make it easier for you to spot the differences between our contracts and the ones we forked them from**:**
+[Here](https://galaxyfinance.one/contractdiffchecker.html?ignore=THOREUM%2CThoreum%2Cthoreum%2COBERON%2COberon%2Coberon&ignore_words=1&chain1=Binance&address1=0x580de58c1bd593a43dadcf0a739d504621817c05&chain2=Binance&address2=0xc979E70611D997Aa109528c6A9aa73D82Eaa2881)'s a friendlier tool we created to make it easier for you to spot the differences between our contracts and the ones we forked them from**:**
 
 ![](../.gitbook/assets/2021-09-08-11_04_05-window.png)
 
