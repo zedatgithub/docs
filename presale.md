@@ -38,6 +38,7 @@ You can use a referrer address and have it receive from us TKENB representing **
 Liquidity mining will start once the presale ends, [Saturday, September 18th, 12:00 GMT](https://www.timeanddate.com/countdown/generic?iso=2021-09-18T12:00:00Z&font=sanserif&p0=1440&csz=1&msg=TKENB%20liquidity%20mining)
 
 {% hint style="warning" %}
-During the presale phase TKENB cannot be sold, transferred, or create LP tokens with it. All that will become possible once presale ends
+During the presale phase TKENB cannot be sold, transferred, or create LP tokens with it.   
+All that will become possible once presale ends
 {% endhint %}
 
