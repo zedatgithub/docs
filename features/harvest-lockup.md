@@ -4,6 +4,10 @@ There will be a **harvest lockup**, specific for each farm, meaning that the pen
 
 Every time you **harvest** your earnings will be sent to your wallet and a new **harvest lockup** timer will be set for the next reward cycle. The harvest lockup is specific to each farm and is shown on each farm's card.
 
+{% hint style="info" %}
+When harvesting on **farms**/**pools** the **14%** tax is applied \(as basically it is a transaction where OBERON is going from one address to another address\). In **vaults,** the **14%** transfer tax is not applied at all, but the  deposit fee is applied as mentioned in the table below.
+{% endhint %}
+
 Below is the list of available farms, on all 5 networks:
 
 <table>
