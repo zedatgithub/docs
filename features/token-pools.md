@@ -4,6 +4,10 @@ There will be a **harvest lockup**, specific for each pool, meaning that the pen
 
 Every time you **harvest,** your earnings will be sent to your wallet and a new **harvest lockup** timer will be set for the next reward cycle. The harvest lockup is specific to each pool and is shown on each pool's card.
 
+{% hint style="info" %}
+When harvesting from **pools**, the **14%** tax is applied \(as basically it is a transaction where TKENB is going from one address to another address\). In [**vaults**](vaults.md), for the auto-compund feature, the **14%** transfer tax is removed, but the deposit fee is applied as mentioned in the table below.
+{% endhint %}
+
 Below is the list of available pools, on all 5 networks:
 
 <table>
