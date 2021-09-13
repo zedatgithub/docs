@@ -14,3 +14,5 @@ You can access the giveaway page on the following links:
 | Polygon \(Matic\) | [https://oberon-polygon-galaxyfinance.one/giveaway](https://oberon-polygon-galaxyfinance.one/giveaway) |
 | Fantom | [https://oberon-fantom-galaxyfinance.one/giveaway](https://oberon-fantom-galaxyfinance.one/giveaway) |
 
+You can check your eligibility on the giveaway page or, alternatively, consult [this google doc](https://docs.google.com/spreadsheets/d/19u9Lkps2wkWgKyv2Lgo4b_Y27F0TrPfIEeKWWJr8SBE).
+
