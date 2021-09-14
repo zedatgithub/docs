@@ -28,11 +28,11 @@ Unsold TKENB will be 🔥burned🔥 automatically once the presale ends.
 
 | Chain | URL |
 | :--- | :--- |
-| Binance Smart Chain | [https://oberon-bsc-galaxyfinance.one/presale](https://oberon-bsc-galaxyfinance.one/presale) |
-| Avalanche | [https://oberon-avalanche-galaxyfinance.one/presale](https://oberon-avalanche-galaxyfinance.one/presale) |
-| Huobi ECO \(HECO\) | [https://oberon-heco-galaxyfinance.one/presale](https://oberon-heco-galaxyfinance.one/presale) |
-| Polygon \(Matic\) | [https://oberon-polygon-galaxyfinance.one/presale](https://oberon-polygon-galaxyfinance.one/presale) |
-| Fantom | [https://oberon-fantom-galaxyfinance.one/presale](https://oberon-fantom-galaxyfinance.one/presale) |
+| Binance Smart Chain | [https://bsc-oberon.galaxyfinance.one/presale](https://bsc-oberon.galaxyfinance.one/presale) |
+| Avalanche | [https://avalanche-oberon.galaxyfinance.one/presale](https://avalanche-oberon.galaxyfinance.one/presale) |
+| Huobi ECO \(HECO\) | [https://heco-oberon.galaxyfinance.one/presale](https://heco-oberon.galaxyfinance.one/presale) |
+| Polygon \(Matic\) | [https://polygon-oberon.galaxyfinance.one/presale](https://polygon-oberon.galaxyfinance.one/presale) |
+| Fantom | [https://fantom-oberon.galaxyfinance.one/presale](https://fantom-oberon.galaxyfinance.one/presale) |
 
 You can use a referrer address and have it receive from us TKENB representing **3%** of the TKENB amount you buy.
 
