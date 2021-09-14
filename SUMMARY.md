@@ -14,7 +14,7 @@
 * [💵 Vaults](features/vaults.md)
 * [💸 Referral Program](features/referral-program.md)
 * [🤑 Lottery](features/lottery.md)
-* [⏳ Harvest Lockup](features/harvest-lockup-1.md)
+* [⏳ Harvest Lockup](features/harvest-lockup-2.md)
 * [🔥 Automatic Burning](features/automatic-burning.md)
 * [🔒 Locked Liquidity](features/locked-liquidity.md)
 * [💰 Fees/Taxes](features/deposit-fee-redistribution.md)
@@ -23,7 +23,7 @@
 ## TOKENOMICS
 
 * [🌖 TKENB](tokenomics/tkenb.md)
-* [⚡ Static rewards](tokenomics/static-rewards.md)
+* [⚡ Reflection rewards](tokenomics/reflection-rewards.md)
 * [📑 Contracts](tokenomics/contracts.md)
 
 ## SECURITY

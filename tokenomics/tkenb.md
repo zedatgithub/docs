@@ -27,7 +27,7 @@ TKENB is mined via **liquidity mining** \_\_where users can mine TKENB by stakin
 
 ## **Automatic Rewards to Holders**
 
-Whenever TKENB is transferred, a **14%** tax fee is taxed for each transaction: **10%** is used for [automatic buy backs and burn](../features/automatic-burning.md), while the remaining **4%** is redistributed among existing TKENB holders as [static rewards](static-rewards.md).
+Whenever TKENB is transferred, a **14%** tax fee is taxed for each transaction: **10%** is used for [automatic buy backs and burn](../features/automatic-burning.md), while the remaining **4%** is redistributed among existing TKENB holders as [reflection rewards](reflection-rewards.md).
 
 Those who decide to hold their TKENB are rewarded from those who sell, so this mechanism encourages holders and discourages pump and dump traders. Holders are incentivized to hold their coin because their holdings will increase over time. And even if TKENB investors take no action, they still collect additional TKENB just by holding it.
 
@@ -38,7 +38,7 @@ Since the coin is deflationary, the supply keeps decreasing with every transacti
 ## Transfer Tax <a id="transfer-tax"></a>
 
 * Transfer Tax Rate: **14% of every transfer**:
-* Reflection Rate: **4%** will be reflected back to current holders as [static rewards](static-rewards.md)
+* Reflection Rate: **4%** will be reflected back to current holders as [reflection rewards](reflection-rewards.md)
 * Liquidity Rate: **10%** will be used for the [buyback and burn](../features/automatic-burning.md) mechanism
 
 {% hint style="info" %}
@@ -121,7 +121,7 @@ TKENB primary function is to become a deflationary utility coin with decreased s
 
 **Transfer tax**
 
-As mentioned previously, there is a **14%** transfer tax on each TKENB transaction: **4%** will be reflected back to current holders as [static rewards](static-rewards.md), while **10%** will be sold for BNB/AVAX/HT/MATIC/FTM \(depending on the chain\) through the contract automatically whenever 100,000 TKENB is collected, and added to TKENB's contract.
+As mentioned previously, there is a **14%** transfer tax on each TKENB transaction: **4%** will be reflected back to current holders as [reflection rewards](reflection-rewards.md), while **10%** will be sold for BNB/AVAX/HT/MATIC/FTM \(depending on the chain\) through the contract automatically whenever 100,000 TKENB is collected, and added to TKENB's contract.
 
 This liquidity will be locked in TKENB contract and no one - not even the developers - can withdraw it, and this liquidity will be used for doing the automatic buy backs and burns. It should be beneficial in the long term because it will help keep the price level of TKENB and raise it over time.
 
