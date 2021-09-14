@@ -18,6 +18,7 @@ Nowadays, all fair-launches seem to be negatively impacted by bots; presale is a
 | Presale price | approximately ****$0.0045\* |
 |  | _\*for actual rates see the presale page for the chain of your choice_ |
 | Buying limit | no limit \(you can buy as much as you want\) |
+| Transfer tax | _**During presale, the transfer tax is 0 \(what you buy is what you get\)!**_ |
 
 100% of the collected funds will be automatically paired with TKENB and placed in the appropriate liquidity pools \(e.g. if you bought TKENB using BTC, that BTC will be paired with an amount of TKENB equivalent in value, and deposited as [**locked liquidity**](features/locked-liquidity.md) in the TKENB-BTC pool\).
 
