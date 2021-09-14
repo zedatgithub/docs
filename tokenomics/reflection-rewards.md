@@ -11,7 +11,7 @@ When TKENB is transferred, a **14%** tax fee is taxed for each transaction: **10
 Those who decide to hold their TKENB in **wallet** are rewarded from those who sell, so this mechanism encourages holders and discourages pump and dump traders. Holders are incentivized to hold their coin because their holdings will increase over time. And even if TKENB investors take no action, they still collect additional TKENB just by holding it.
 
 {% hint style="success" %}
-Reflection rewards are handed out **only** for users who keep their TKENB that in their **wallet**!
+Reflection rewards are handed out **only** for users who keep their TKENB in their **wallet**!
 {% endhint %}
 
 {% hint style="warning" %}
