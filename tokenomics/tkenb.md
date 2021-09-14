@@ -25,7 +25,7 @@ description: farming token used for mixed pairs
 
 TKENB is mined via **liquidity mining** \_\_where users can mine TKENB by staking other coins such as BNB, BUSD, ETH, etc., or by staking liquidity pairs \(LPs\) such as BNB-BTCB, BNB-ETH, etc.
 
-## **Automatic Rewards to Holders**
+## **Automatic Reflection Rewards to Holders**
 
 Whenever TKENB is transferred, a **14%** tax fee is taxed for each transaction: **10%** is used for [automatic buy backs and burn](../features/automatic-burning.md), while the remaining **4%** is redistributed among existing TKENB holders as [reflection rewards](reflection-rewards.md).
 

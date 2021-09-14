@@ -23,7 +23,7 @@
 ## TOKENOMICS
 
 * [🌖 TKENB](tokenomics/tkenb.md)
-* [⚡ Reflection rewards](tokenomics/reflection-rewards.md)
+* [⚡ Reflection Rewards](tokenomics/reflection-rewards.md)
 * [📑 Contracts](tokenomics/contracts.md)
 
 ## SECURITY
