@@ -1,6 +1,6 @@
 ---
 description: >-
-  The Galactic yield farm & first cross-chain swap, running on BSC, Avalanche,
+  The Galactic yield farm & first cross-chain swap running on BSC, Avalanche,
   Heco, Polygon and Fantom
 ---
 
