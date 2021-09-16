@@ -70,35 +70,35 @@ You can see the values on chain in the [token contract](contracts.md) if you loo
     <tr>
       <td style="text-align:left">Binance Smart Chain</td>
       <td style="text-align:left">100 TKENB / block*</td>
-      <td style="text-align:left">~ 28,000 TKENB / day</td>
+      <td style="text-align:left">~ 2,800,000 TKENB / day</td>
       <td style="text-align:left"><a href="https://bscscan.com/chart/blocktime">~ 3 seconds</a>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Avalanche</td>
       <td style="text-align:left">33 TKENB / block*</td>
-      <td style="text-align:left">~ 28,000 TKENB / day</td>
+      <td style="text-align:left">~ 2,800,000 TKENB / day</td>
       <td style="text-align:left"><a href="https://cchain.explorer.avax.network/">~ 1 second</a>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Huobi ECO (HECO)</td>
       <td style="text-align:left">100 TKENB / block*</td>
-      <td style="text-align:left">~ 28,000 TKENB / day</td>
+      <td style="text-align:left">~ 2,800,000 TKENB / day</td>
       <td style="text-align:left"><a href="https://hecoinfo.com/chart/blocktime">~ 3 seconds</a>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Polygon (Matic)</td>
       <td style="text-align:left">66 TKENB / block*</td>
-      <td style="text-align:left">~ 28,000 TKENB / day</td>
+      <td style="text-align:left">~ 2,800,000 TKENB / day</td>
       <td style="text-align:left"><a href="https://polygonscan.com/chart/blocktime">~ 2 seconds</a>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Fantom</td>
       <td style="text-align:left">33 TKENB / block*</td>
-      <td style="text-align:left">~ 28,000 TKENB / day</td>
+      <td style="text-align:left">~ 2,800,000 TKENB / day</td>
       <td style="text-align:left"><a href="https://ftmscan.com/chart/blocktime">~ 1 second</a>
       </td>
     </tr>
