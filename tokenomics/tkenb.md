@@ -10,6 +10,8 @@ description: farming token used for mixed pairs
 * Symbol: TKENB
 * Contract address can be found in [Contracts](contracts.md) section
 
+TKENB is a deflationary coin with reflection \(and thus favoring holders\), hard capped at 5 billions, 2 billions burned at start, 1 billion locked in the cross-chain bridge, and 1 billion used in presale. Investors need to mine the rest of the 1 billions tokens.
+
 | Assignment | Amount | Percentage |
 | :--- | :--- | ---: |
 | Total supply: | 5,000,000,000 | 100% |
@@ -23,7 +25,7 @@ description: farming token used for mixed pairs
 
 ## **Liquidity Mining**
 
-TKENB is mined via **liquidity mining** \_\_where users can mine TKENB by staking other coins such as BNB, BUSD, ETH, etc., or by staking liquidity pairs \(LPs\) such as BNB-BTCB, BNB-ETH, etc.
+TKENB is mined via **liquidity mining** where users can mine TKENB by staking other coins such as BNB, BUSD, ETH, etc., or by staking liquidity pairs \(LPs\) such as BNB-BTCB, BNB-ETH, etc.
 
 ## **Automatic Reflection Rewards to Holders**
 
