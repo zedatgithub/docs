@@ -9,6 +9,7 @@ description: farming token used for mixed pairs
 * Name: TKENB Token
 * Symbol: TKENB
 * Contract address can be found in [Contracts](contracts.md) section
+* Set slipage to **17%**
 
 TKENB is a deflationary coin with reflection \(and thus favoring holders\), hard capped at 5 billions, 2 billions burned at start, 1 billion locked in the cross-chain bridge, and 1 billion used in presale. Investors need to mine the rest of the 1 billions tokens.
 
